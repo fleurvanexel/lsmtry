@@ -1,0 +1,113 @@
+Date,Time,Sport,Home_team,Away_team,Venue,Competition
+2024/10/30,18:00,Football,Feyenoord,Ajax,De Kuip,Eredivisie
+2024/11/02,16:30,Football,Willem II,FC Twente,Koning Willem II Stadion,Eredivisie
+2024/11/02,18:45,Football,Heracles Almelo,NAC Breda,Erve Asito,Eredivisie
+2024/11/02,18:45,Football,Ajax,PSV,Johan Cruyff Arena,Eredivisie
+2024/11/02,21:00,Football,Feyenoord,AZ,De Kuip,Eredivisie
+2024/11/02,21:00,Football,Fortuna Sittard,sc Heerenveen,Fortuna Sittard Stadion,Eredivisie
+2024/11/03,12:15,Football,Go Ahead Eagles,PEC Zwolle,De Adelaarshorst,Eredivisie
+2024/11/03,14:30,Football,Sparta Rotterdam,FC Utrecht,Sparta Stadion,Eredivisie
+2024/11/03,14:30,Football,N.E.C.,FC Groningen,Goffertstadion,Eredivisie
+2024/11/03,16:45,Football,RKC Waalwijk,Almere City FC,Maalwater Stadion,Eredivisie
+2024/11/08,20:00,Football,FC Utrecht,Heracles Almelo,Stadion Galgenwaard,Eredivisie
+2024/11/09,16:30,Football,FC Groningen,Sparta Rotterdam,Euroborg,Eredivisie
+2024/11/09,18:45,Football,PEC Zwolle,Fortuna Sittard,MAC3PARK Stadion,Eredivisie
+2024/11/09,20:00,Football,NAC Breda,PSV,Rat Verlegh Stadion,Eredivisie
+2024/11/09,21:00,Football,RKC Waalwijk,N.E.C.,Maalwater Stadion,Eredivisie
+2024/11/10,12:15,Football,Almere City FC,Feyenoord,Yanmar Stadion,Eredivisie
+2024/11/10,14:30,Football,FC Twente,Ajax,De Grolsch Veste,Eredivisie
+2024/11/10,14:30,Football,sc Heerenveen,Go Ahead Eagles,Abe Lenstra Stadion,Eredivisie
+2024/11/10,16:45,Football,AZ,Willem II,AFAS Stadion,Eredivisie
+2024/11/23,16:30,Football,Go Ahead Eagles,Almere City FC,De Adelaarshorst,Eredivisie
+2024/11/23,18:45,Football,Heracles Almelo,RKC Waalwijk,Erve Asito,Eredivisie
+2024/11/23,18:45,Football,Feyenoord,sc Heerenveen,De Kuip,Eredivisie
+2024/11/23,21:00,Football,PSV,FC Groningen,Philips Stadion,Eredivisie
+2024/11/23,21:00,Football,Fortuna Sittard,FC Twente,Fortuna Sittard Stadion,Eredivisie
+2024/11/24,12:15,Football,N.E.C.,FC Utrecht,Goffertstadion,Eredivisie
+2024/11/24,14:30,Football,Willem II,NAC Breda,Koning Willem II Stadion,Eredivisie
+2024/11/24,14:30,Football,Sparta Rotterdam,AZ,Sparta Stadion,Eredivisie
+2024/11/24,16:45,Football,Ajax,PEC Zwolle,Johan Cruyff Arena,Eredivisie
+2024/11/29,20:00,Football,sc Heerenveen,RKC Waalwijk,Abe Lenstra Stadion,Eredivisie
+2024/11/30,16:30,Football,NAC Breda,Almere City FC,Rat Verlegh Stadion,Eredivisie
+2024/11/30,18:45,Football,FC Groningen,Willem II,Euroborg,Eredivisie
+2024/11/30,20:00,Football,Feyenoord,Fortuna Sittard,De Kuip,Eredivisie
+2024/11/30,21:00,Football,PEC Zwolle,Sparta Rotterdam,MAC3PARK Stadion,Eredivisie
+2024/12/01,12:15,Football,FC Utrecht,PSV,Stadion Galgenwaard,Eredivisie
+2024/12/01,14:30,Football,FC Twente,Go Ahead Eagles,De Grolsch Veste,Eredivisie
+2024/12/01,14:30,Football,AZ,Heracles Almelo,AFAS Stadion,Eredivisie
+2024/12/01,16:45,Football,N.E.C.,Ajax,Goffertstadion,Eredivisie
+2024/12/06,20:00,Football,PSV,FC Twente,Philips Stadion,Eredivisie
+2024/12/07,16:30,Football,Go Ahead Eagles,N.E.C.,De Adelaarshorst,Eredivisie
+2024/12/07,18:45,Football,Sparta Rotterdam,NAC Breda,Sparta Stadion,Eredivisie
+2024/12/07,20:00,Football,RKC Waalwijk,Feyenoord,Maalwater Stadion,Eredivisie
+2024/12/07,21:00,Football,Heracles Almelo,Fortuna Sittard,Erve Asito,Eredivisie
+2024/12/08,14:30,Football,Willem II,sc Heerenveen,Koning Willem II Stadion,Eredivisie
+2024/12/08,14:30,Football,AZ,Ajax,AFAS Stadion,Eredivisie
+2024/12/13,20:00,Football,PEC Zwolle,Willem II,MAC3PARK Stadion,Eredivisie
+2024/12/14,18:45,Football,sc Heerenveen,PSV,Abe Lenstra Stadion,Eredivisie
+2024/12/14,20:00,Football,Fortuna Sittard,RKC Waalwijk,Fortuna Sittard Stadion,Eredivisie
+2024/12/14,21:00,Football,Feyenoord,Heracles Almelo,De Kuip,Eredivisie
+2024/12/15,12:15,Football,FC Utrecht,Go Ahead Eagles,Stadion Galgenwaard,Eredivisie
+2024/12/15,14:30,Football,N.E.C.,Sparta Rotterdam,Goffertstadion,Eredivisie
+2024/12/15,14:30,Football,FC Twente,FC Groningen,De Grolsch Veste,Eredivisie
+2024/12/15,16:45,Football,Ajax,Almere City FC,Johan Cruyff Arena,Eredivisie
+2024/12/15,20:00,Football,NAC Breda,AZ,Rat Verlegh Stadion,Eredivisie
+2024/12/20,20:00,Football,RKC Waalwijk,PEC Zwolle,Maalwater Stadion,Eredivisie
+2024/12/21,16:30,Football,Go Ahead Eagles,NAC Breda,De Adelaarshorst,Eredivisie
+2024/12/21,18:45,Football,Almere City FC,sc Heerenveen,Yanmar Stadion,Eredivisie
+2024/12/21,20:00,Football,AZ,FC Twente,AFAS Stadion,Eredivisie
+2024/12/21,21:00,Football,Heracles Almelo,FC Groningen,Erve Asito,Eredivisie
+2024/12/22,12:15,Football,Sparta Rotterdam,Ajax,Sparta Stadion,Eredivisie
+2024/12/22,14:30,Football,FC Utrecht,Fortuna Sittard,Stadion Galgenwaard,Eredivisie
+2024/12/22,14:30,Football,PSV,Feyenoord,Philips Stadion,Eredivisie
+2024/12/22,16:45,Football,Willem II,N.E.C.,Koning Willem II Stadion,Eredivisie
+2025/01/10,20:00,Football,Fortuna Sittard,Go Ahead Eagles,Fortuna Sittard Stadion,Eredivisie
+2025/01/11,16:30,Football,Heracles Almelo,Sparta Rotterdam,Erve Asito,Eredivisie
+2025/01/11,18:45,Football,Ajax,RKC Waalwijk,Johan Cruyff Arena,Eredivisie
+2025/01/11,20:00,Football,PEC Zwolle,N.E.C.,MAC3PARK Stadion,Eredivisie
+2025/01/11,21:00,Football,PSV,AZ,Philips Stadion,Eredivisie
+2025/01/12,12:15,Football,FC Twente,Willem II,De Grolsch Veste,Eredivisie
+2025/01/12,14:30,Football,FC Groningen,Almere City FC,Euroborg,Eredivisie
+2025/01/12,14:30,Football,Feyenoord,FC Utrecht,De Kuip,Eredivisie
+2025/01/12,16:45,Football,NAC Breda,sc Heerenveen,Rat Verlegh Stadion,Eredivisie
+2025/01/17,20:00,Football,Sparta Rotterdam,RKC Waalwijk,Sparta Stadion,Eredivisie
+2025/01/18,16:30,Football,PEC Zwolle,PSV,MAC3PARK Stadion,Eredivisie
+2025/01/18,18:45,Football,FC Utrecht,AZ,Stadion Galgenwaard,Eredivisie
+2025/01/18,20:00,Football,Willem II,Feyenoord,Koning Willem II Stadion,Eredivisie
+2025/01/18,21:00,Football,Go Ahead Eagles,FC Groningen,De Adelaarshorst,Eredivisie
+2025/01/19,12:15,Football,NAC Breda,FC Twente,Rat Verlegh Stadion,Eredivisie
+2025/01/19,14:30,Football,Almere City FC,Heracles Almelo,Yanmar Stadion,Eredivisie
+2025/01/24,20:00,Football,Heracles Almelo,FC Utrecht,Erve Asito,Eredivisie
+2025/01/25,18:45,Football,PSV,NAC Breda,Philips Stadion,Eredivisie
+2025/01/25,20:00,Football,FC Groningen,sc Heerenveen,Euroborg,Eredivisie
+2025/01/25,21:00,Football,Feyenoord,Almere City FC,De Kuip,Eredivisie
+2025/01/26,12:15,Football,Fortuna Sittard,PEC Zwolle,Fortuna Sittard Stadion,Eredivisie
+2025/01/26,14:30,Football,RKC Waalwijk,Willem II,Maalwater Stadion,Eredivisie
+2025/01/26,14:30,Football,AZ,Sparta Rotterdam,AFAS Stadion,Eredivisie
+2025/01/26,20:00,Football,FC Twente,N.E.C.,De Grolsch Veste,Eredivisie
+2025/01/31,20:00,Football,NAC Breda,Heracles Almelo,Rat Verlegh Stadion,Eredivisie
+2025/02/01,18:45,Football,PEC Zwolle,FC Utrecht,MAC3PARK Stadion,Eredivisie
+2025/02/01,20:00,Football,sc Heerenveen,Fortuna Sittard,Abe Lenstra Stadion,Eredivisie
+2025/02/01,21:00,Football,N.E.C.,PSV,Goffertstadion,Eredivisie
+2025/02/02,12:15,Football,Almere City FC,RKC Waalwijk,Yanmar Stadion,Eredivisie
+2025/02/02,14:30,Football,Go Ahead Eagles,FC Twente,De Adelaarshorst,Eredivisie
+2025/02/02,16:45,Football,Sparta Rotterdam,FC Groningen,Sparta Stadion,Eredivisie
+2025/02/02,20:00,Football,Willem II,AZ,Koning Willem II Stadion,Eredivisie
+2025/05/14,20:00,Football,PSV,Heracles Almelo,Philips Stadion,Eredivisie
+2025/05/14,20:00,Football,Almere City FC,Fortuna Sittard,Yanmar Stadion,Eredivisie
+2025/05/14,20:00,Football,Go Ahead Eagles,sc Heerenveen,De Adelaarshorst,Eredivisie
+2025/05/14,20:00,Football,FC Groningen,Ajax,Euroborg,Eredivisie
+2025/05/14,20:00,Football,Feyenoord,RKC Waalwijk,De Kuip,Eredivisie
+2025/05/14,20:00,Football,FC Twente,AZ,De Grolsch Veste,Eredivisie
+2025/05/14,20:00,Football,Willem II,PEC Zwolle,Koning Willem II Stadion,Eredivisie
+2025/05/14,20:00,Football,FC Utrecht,Sparta Rotterdam,Stadion Galgenwaard,Eredivisie
+2025/05/14,20:00,Football,N.E.C.,NAC Breda,Goffertstadion,Eredivisie
+2025/05/18,14:30,Football,RKC Waalwijk,Go Ahead Eagles,Maalwater Stadion,Eredivisie
+2025/05/18,14:30,Football,Heracles Almelo,N.E.C.,Erve Asito,Eredivisie
+2025/05/18,14:30,Football,Sparta Rotterdam,PSV,Sparta Stadion,Eredivisie
+2025/05/18,14:30,Football,NAC Breda,Willem II,Rat Verlegh Stadion,Eredivisie
+2025/05/18,14:30,Football,PEC Zwolle,FC Groningen,MAC3PARK Stadion,Eredivisie
+2025/05/18,14:30,Football,AZ,Almere City FC,AFAS Stadion,Eredivisie
+2025/05/18,14:30,Football,Fortuna Sittard,FC Utrecht,Fortuna Sittard Stadion,Eredivisie
+2025/05/18,14:30,Football,sc Heerenveen,Feyenoord,Abe Lenstra Stadion,Eredivisie
+2025/05/18,14:30,Football,Ajax,FC Twente,Johan Cruyff Arena,Eredivisie
