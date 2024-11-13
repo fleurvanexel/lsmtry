@@ -20132,6 +20132,7 @@ Albertslund;Denmark;55.65691, 12.36381
 Åkirkeby;Denmark;55.0708, 14.91978
 Ærøskøbing;Denmark;54.88803, 10.41117
 Åbybro;Denmark;57.16249, 9.72996
+Aarhus;Denmark;56.162939, 10.203921
 Aabenraa;Denmark;55.04434, 9.41741
 Ystrad Mynach;United Kingdom;51.64276, -3.2362
 Ystradgynlais;United Kingdom;51.76667, -3.76667
@@ -31175,6 +31176,7 @@ Buissonville;Belgium;50.21667, 5.2
 Buggenhout;Belgium;51.0159, 4.20173
 Budingen;Belgium;50.86509, 5.09847
 Brussels;Belgium;50.85045, 4.34878
+Brussel;Belgium;50.85045, 4.34878
 Brustem;Belgium;50.80485, 5.22263
 Brussegem;Belgium;50.9256, 4.26682
 Brunehault;Belgium;50.50524, 4.43209
@@ -31378,6 +31380,7 @@ Appels;Belgium;51.03225, 4.06141
 Anzegem;Belgium;50.837, 3.47786
 Anvaing;Belgium;50.68318, 3.56144
 Antwerpen;Belgium;51.22047, 4.40026
+Antwerp;Belgium;51.22047, 4.40026
 Antoing;Belgium;50.56765, 3.4492
 Anthisnes;Belgium;50.48323, 5.519
 Antheit;Belgium;50.54927, 5.24022
@@ -64347,7 +64350,9 @@ Myre;Norway;68.914, 15.07843
 Attnang-Puchheim;Austria;48.00833, 13.71667
 East Cowes;United Kingdom;50.75774, -1.28815
 Västra Hagen;Sweden;57.42444, 11.93583
+Gothenburg;Sweden;57.70887, 11.97456
 Shiremoor;United Kingdom;55.03535, -1.5095
+Thessaloniki;Greece;40.6400629, 22.9444191
 Vidovci;Croatia;45.3325, 17.71472
 Borovo;Croatia;45.40528, 18.97583
 Careva Ćuprija;Bosnia and Herzegovina;44.2663, 18.42961
