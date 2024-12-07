@@ -1,0 +1,15 @@
+{
+  "Germany": {
+      "Football": ["Highest level: Bundesliga", "Second highest level: 2. Bundesliga"],
+      "Basketball": ["Highest level: Basketball Bundesliga"]
+  },
+  "France": {
+      "Football": ["Highest level: Elite League", "Second highest level: Elite League Deux", "Third highest level: Elite League Trois"],
+      "Basketball": [""],
+      "Ice Hockey": ["Highest level: Panter League"]
+  },
+  "Netherlands": {
+      "Football": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Basketball": ["Highest level: Dutch Basketball League"]
+  }
+}
