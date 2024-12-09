@@ -1,7 +1,17 @@
 {
   "International": {
       "Football": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
-      "Basketball": ["Highest level: Dutch Basketball League"]
+      "Basketball": ["Highest level: Dutch Basketball League"],
+      "Ice Hockey": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Tennis": ["Highest level: Dutch Basketball League"],
+      "Volleyball": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Handball": ["Highest level: Dutch Basketball League"],
+      "Field Hockey": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Cricket": ["Highest level: Dutch Basketball League"],
+      "Badminton": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Boxing": ["Highest level: Dutch Basketball League"],
+      "Table Tennis": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Swimming": ["Highest level: Dutch Basketball League"]
   },
   "Germany": {
       "Football": ["Highest level: Bundesliga", "Second highest level: 2. Bundesliga"],
@@ -21,9 +31,18 @@
       "Basketball": ["Highest level: Basketball Bundesliga"]
   },
   "United Kingdom": {
-      "Football": ["Highest level: Elite League", "Second highest level: Elite League Deux", "Third highest level: Elite League Trois"],
-      "Basketball": [""],
-      "Ice Hockey": ["Highest level: Panter League"]
+      "Football": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Basketball": ["Highest level: Dutch Basketball League"],
+      "Ice Hockey": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Tennis": ["Highest level: Dutch Basketball League"],
+      "Volleyball": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Handball": ["Highest level: Dutch Basketball League"],
+      "Field Hockey": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Cricket": ["Highest level: Dutch Basketball League"],
+      "Badminton": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Boxing": ["Highest level: Dutch Basketball League"],
+      "Table Tennis": ["Highest level: Eredivisie", "Second highest level: Keuken Kampioen Divisie"],
+      "Swimming": ["Highest level: Dutch Basketball League"]
   },
   "Bosnia and Herzegovina": {
       "Football": ["Highest level: Bundesliga", "Second highest level: 2. Bundesliga"],
