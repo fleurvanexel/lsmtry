@@ -63,5 +63,77 @@
   "Spain": {
       "Football": ["Highest level: La Liga", "Second highest level: La Liga 2"],
       "Volleyball": ["Highest level: Ik heb echt geen idee"]
+  },
+  "Albania": {
+      "Football": ["Highest level: Bundesliga", "Second highest level: 2. Bundesliga"],
+      "Cricket": ["Highest level: Basketball Bundesliga"],
+      "Tennis": ["Highest level: Basketball Bundesliga"],
+      "Handball": ["Highest level: Basketball Bundesliga"]
+  },
+  "Andorra": {
+      "Football": ["Highest level: Elite League"],
+      "Basketball": [""],
+      "Ice Hockey": ["Highest level: Panter League"],
+      "Badminton": ["Highest level: Panter League"]
+  },
+  "Hungary": {
+      "Football": ["Highest level: SwissLeague"],
+      "Ice Hockey": ["Highest level: Dutch Basketball League"]
+  },
+  "Belarus": {
+      "Football": ["Highest level: La Liga", "Second highest level: La Liga 2"],
+      "Volleyball": ["Highest level: Ik heb echt geen idee"]
+  },
+  "Latvia": {
+      "Football": ["Highest level: Bundesliga", "Second highest level: 2. Bundesliga"],
+      "Cricket": ["Highest level: Basketball Bundesliga"],
+      "Tennis": ["Highest level: Basketball Bundesliga"],
+      "Handball": ["Highest level: Basketball Bundesliga"]
+  },
+  "Georgia": {
+      "Football": ["Highest level: Elite League"],
+      "Basketball": [""],
+      "Ice Hockey": ["Highest level: Panter League"],
+      "Badminton": ["Highest level: Panter League"]
+  },
+  "Slovenia": {
+      "Football": ["Highest level: SwissLeague"],
+      "Ice Hockey": ["Highest level: Dutch Basketball League"]
+  },
+  "Montenegro": {
+      "Football": ["Highest level: La Liga", "Second highest level: La Liga 2"],
+      "Volleyball": ["Highest level: Ik heb echt geen idee"]
+  },
+  "Finland": {
+      "Football": ["Highest level: Bundesliga", "Second highest level: 2. Bundesliga"],
+      "Cricket": ["Highest level: Basketball Bundesliga"],
+      "Tennis": ["Highest level: Basketball Bundesliga"],
+      "Handball": ["Highest level: Basketball Bundesliga"]
+  },
+  "Another country": {
+      "Football": ["Highest level: Elite League"],
+      "Basketball": [""],
+      "Ice Hockey": ["Highest level: Panter League"],
+      "Badminton": ["Highest level: Panter League"]
+  },
+  "East-Europa": {
+      "Football": ["Highest level: SwissLeague"],
+      "Ice Hockey": ["Highest level: Dutch Basketball League"]
+  },
+  "Italy": {
+      "Football": ["Highest level: Bundesliga", "Second highest level: 2. Bundesliga"],
+      "Cricket": ["Highest level: Basketball Bundesliga"],
+      "Tennis": ["Highest level: Basketball Bundesliga"],
+      "Handball": ["Highest level: Basketball Bundesliga"]
+  },
+  "Portugal": {
+      "Football": ["Highest level: Elite League"],
+      "Basketball": [""],
+      "Ice Hockey": ["Highest level: Panter League"],
+      "Badminton": ["Highest level: Panter League"]
+  },
+  "Sweden": {
+      "Football": ["Highest level: SwissLeague"],
+      "Ice Hockey": ["Highest level: Dutch Basketball League"]
   }
 }
