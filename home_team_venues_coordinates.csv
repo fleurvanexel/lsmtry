@@ -1,63 +1,67 @@
 Sport,Country,Home_team,Venue,Coor,Scraped_value,Scraped_value_team
-Basketball,Austria,Vienna Basket,Hallmann Dome (Vienna),"[48.1626463, 16.338899593613817]",,
-Basketball,Austria,Oberwart Gunners,Sporthalle Oberwart (Oberwart),"[47.281890250000004, 16.209642890987144]",,
-Basketball,Austria,BBC Nord,Allsportzentrum Eisenstadt (Eisenstadt),"[47.8464474, 16.534677229651162]",,
-Basketball,Austria,Kapfenberg Bulls,Sporthalle Walfersam (Kapfenberg),"[47.4456377, 15.3077573]",,
-Basketball,Austria,St. Polten,NV Arena (Sankt Pölten),"[48.22091905, 15.654346559135973]",,
-Basketball,Austria,Furstenfeld,Stadthalle Furstenfeld (Furstenfeld),"[47.048584500000004, 16.07460897852208]",,
-Basketball,Austria,Klosterneuburg Dukes,Freizeitzentrum Happyland (Klosterneuburg),"[48.30921495, 16.330245222622278]",,
-Basketball,Austria,Wels,Raiffeisen Arena (Wels),"[48.2935925, 14.276558003642862]",,
-Basketball,Austria,Graz UBSC,Raiffeisen Sportpark (Graz),"[47.05513936613504, 15.441789781163084]",,
-Basketball,Austria,Traiskirchen Lions,Lions Dome (Traiskirchen),"[48.0158693, 16.2886301]",,
-Basketball,Austria,Swans Gmunden,Volksbank Arena (Gmunden),"[47.91101915, 13.777291890801656]",,
-Basketball,Austria,Mistelbach,Sporthalle Mistelbach (Mistelbach),"[48.56982535, 16.56799668841466]",,
-Basketball,Austria,Wagram,BORG Deutsch-Wagram (Wagram),"[48.29829612840022, 16.558576090235864]",,
-Basketball,Austria,Raiders Tirol,Landessportcenter Tirol (Innsbruck),"[47.25734905, 11.41224715]",,
-Basketball,Austria,Dornbirn Lions,Messestadion Dornbirn (Dornbirn),"[47.40829702441461, 9.711393092337776]",,
-Basketball,Austria,Salzburg,Sporthalle Alpenstrasse (Salzburg),"[47.7766382, 13.067863094296287]",,
-Basketball,Austria,Steiermark,Sporthalle Walfersam (Kapfenberg),"[47.4456377, 15.3077573]",,
-Basketball,Austria,Mattersburg,Sporthalle Mattersburg (Mattersburg),"[47.738385993696355, 16.40942980030451]",,
-Basketball,Austria,Upper Austrian Ballers,Volksbank Arena (Gmunden),"[47.91101915, 13.777291890801656]",,
-Basketball,Austria,Vienna Timberwolves,Magenta Dome (Vienna),"[48.240444707811506, 16.443128311966284]",,
-Basketball,Austria,Worthersee Piraten,Sporthalle St. Peter (Klagenfurt),"[46.6227776, 14.3240392]",,
-Basketball,Austria,Gussing Blackbirds,AktivPark Gussing (Gussing),"[47.063122699999994, 16.320907849999998]",,
-Basketball,Austria,Traiskirchen Young Lions,Lions Dome (Traiskirchen),"[48.0158693, 16.2886301]",,
-Basketball,Austria,Vienna United,Posthalle (Vienna),"[48.224925320026635, 16.329237998824375]",,
-Basketball,Austria,Celovec,Sporthalle St. Peter (Klagenfurt),"[46.6227776, 14.3240392]",,
-Basketball,Austria,Kufstein,Kufstein Arena (Kufstein),"[47.5885854, 12.16754179507189]",,
-Basketball,Austria,Vienna Timberwolves W,Magenta Dome (Vienna),"[48.240444707811506, 16.443128311966284]",,
-Basketball,Austria,UBI Graz W,Raiffeisen Sportpark (Graz),"[47.05513205664071, 15.441875611846319]",,
-Basketball,Austria,Duches Klosterneuburg W,Freizeitzentrum Happyland (Klosterneuburg),"[48.30921495, 16.330245222622278]",,
-Basketball,Austria,UBSC-DBBC Graz W,Raiffeisen Sportpark (Graz),"[47.05513205664071, 15.441875611846319]",,
-Basketball,Austria,Basket Flames W,Wiener Stadthalle (Vienna),"[48.2019371, 16.332504326874492]",,
-Basketball,Austria,Vienna United W,Posthalle (Vienna),"[48.22525465667031, 16.329211740801156]",,
-Basketball,Austria,DBB LZ OO W,FCN KFZ Bauer Arena (Wels),"[48.161596705529576, 14.021925798377072]",,
-Basketball,Belarus,Rubon,Vitebsk Sporthall (Vitebsk),"[55.162668, 30.2121949]",,
-Basketball,Belarus,Minsk,Falcon club (Minsk),"[53.9327556, 27.5108618]",,
-Basketball,Belarus,SDUSHOR Minsk,Sporthall Tsmoki-Minsk (Minsk),"[53.903410302755475, 27.6104961333359]",,
-Basketball,Belarus,Borisfen,Sportkompleks Olimpiec (Mogilev),"[53.9279428, 30.3617833]",,
-Basketball,Belarus,Borisfen 2,Sportkompleks Olimpiec (Mogilev),"[53.9279428, 30.3617833]",,
-Basketball,Belarus,Rubon II,Vitebsk Sporthall (Vitebsk),"[55.162668, 30.2121949]",,
-Basketball,Belarus,Rguor Minsk,RGUOR Hall (Minsk),"[53.90417921239028, 27.556867427455717]",,
-Basketball,Belarus,Grodno,Sports-tourist complex (Grodno),
-Basketball,Belarus,Grodno GrSU,Sports-tourist complex (Grodno),
-Basketball,Belarus,Impuls,BGUIR Sporthall (Minsk),
-Basketball,Belarus,Brest,Sporthall Victoria (Brest),"[52.114106610783864, 23.777662274089245]",,
-Basketball,Belarus,Gomel,GOCOR (Gomel),"[52.4280534, 31.0048451]",,
-Basketball,Belarus,BC Minsk youth W,Minsk-Arena (Minsk),"[53.934996749999996, 27.48267461923831]",,
-Basketball,Belarus,Horizont Minsk 2 W,Horizont (Minsk),"[53.9347633, 27.503369086146048]",,
-Basketball,Belarus,Olimpia Grodno W,Grodno university sporthall (Grodno),
-Basketball,Belarus,Minsk W,Minsk-Arena (Minsk),"[53.934996749999996, 27.48267461923831]",,
-Basketball,Belarus,Victoria Grodno W,Grodno university sporthall (Grodno),
-Basketball,Belarus,Gomel 2 W,Grodno university sporthall (Grodno),
-Basketball,Belarus,Victoria Brest W,Sporthall Victoria (Brest),"[52.114106610783864, 23.777662274089245]",,
-Basketball,Belarus,Horizont Minsk W,Horizont (Minsk),"[53.9347633, 27.503369086146048]",,
-Basketball,Belarus,Gomel W,GOCOR (Gomel),"[52.4280534, 31.0048451]",,
-Basketball,Belgium,Mailleux Comblain,Salle Omnisports de Comblain (Comblain-au-Pont),"[50.47668397929034, 5.575867853273585]",,
-Basketball,Belgium,Mechelen,Stedelijke Sporthal Winketkaai (Mechelen),"[51.0332010127601, 4.466941467923863]",,
-Basketball,Belgium,Okapi Aalst,Okapi Forum (Aalst),"[50.93991226931659, 4.054664113944204]",,
-Basketball,Belgium,Kortrijk,Sporthal Lange Munte (Kortrijk),"[50.80636371227511, 3.3005744967456914]",,
-Basketball,Belgium,Leuven Bears,Sportoase (Leuven),"[50.92818425, 4.724734520166219]",,
+Basketball,Albania,Apolonia Fier,Pallati Sportit Apolonia Fier (Fier),"[40.73500099602203, 19.567221031333013]",Pallati Sportit Flamurtari (Vlorë),
+Basketball,Albania,Vllaznia,Pallati i Sporteve Qazim Dervishi (Shkodër),"[42.07138096156116, 19.50583929650208]",Qazim Dervishi Sports Palace (Shkodër),
+Basketball,Albania,KS Tirana,Pallati i Sportit Farie Hoti (Tirana),"[41.326804291949024, 19.80758543690426]",Pallati i Sportit Farie Hoti (Tirana),Tirana
+Basketball,Albania,Teuta Durres,Pallati i Sportit Ramazan Njala (Durrës),"[41.31891850215147, 19.451042181120364]",Pallati I Sportit Ramazan Njala (Durrës),
+Basketball,Albania,Besëlidhja,Pallati i Sportit Asllan Rusi (Tirana),"[41.333583592264795, 19.80161826948254]",Pallati i Sportit Asllan Rusi (Tirana),Beselidhja
+Basketball,Albania,Kamza Basket,Halit Cocka (Kamez),"[41.37178039762209, 19.781468231289608]",Salla Sportive Bathore (Tirana),None
+Basketball,Austria,Swans Gmunden,Raiffeisen Sportpark Gmunden (Gmunden),"[47.91061246302181, 13.775931423766888]",Volksbank Arena (Gmunden),None
+Basketball,Austria,Gunners Oberwart,Sporthalle Oberwart (Oberwart),"[47.281890250000004, 16.209642890987144]",Sporthalle Oberwart (Oberwart),Oberwart Gunners
+Basketball,Austria,Klosterneuburg Dukes,Freizeitzentrum Happyland (Klosterneuburg),"[48.30921495, 16.330245222622278]",Freizeitzentrum Happyland (Klosterneuburg),None
+Basketball,Austria,BC Vienna,Hallmann Dome (Vienna),"[48.1626463, 16.338899593613817]",Hallmann Dome (Vienna),Vienna Basket
+Basketball,Austria,Nord Dragonz,Allsportzentrum Eisenstadt (Eisenstadt),"[47.8464474, 16.534677229651162]",Allsportzentrum Eisenstadt (Eisenstadt),BBC Nord
+Basketball,Austria,Kapfenberg Bulls,Sporthalle Walfersam (Kapfenberg),"[47.44637048829545, 15.307930326916065]",Sporthalle Walfersam (Kapfenberg),None
+Basketball,Austria,Raiffeisen Panthers Fürstenfeld,Stadthalle Furstenfeld (Furstenfeld),"[47.04814105044955, 16.0742312560339]",Stadthalle Furstenfeld (Furstenfeld),Furstenfeld
+Basketball,Austria,Raiffeisen Flyers Wels,Raiffeisen Arena (Wels),"[48.15496008664098, 14.0071824267687]",Raiffeisen Arena (Wels),Wels
+Basketball,Austria,UBSC Raiffeisen Graz,Raiffeisen Sportpark (Graz),"[47.05513936613504, 15.441789781163084]",Raiffeisen Sportpark (Graz),Graz UBSC
+Basketball,Austria,Traiskirchen Lions,Lions Dome (Traiskirchen),"[48.0158693, 16.2886301]",Lions Dome (Traiskirchen),None
+Basketball,Austria,SKN St. Pölten,Sporthalle Herzogenburg (Herzogenburg),"[48.27855666669809, 15.70612621237684]",NV Arena (Sankt Pölten),St. Polten
+Basketball,Austria,Mistelbach Mustangs,Sporthalle Mistelbach (Mistelbach),"[48.56982535, 16.56799668841466]",Sporthalle Mistelbach (Mistelbach),Mistelbach
+Basketball,Austria,Union Alligators Deutsch-Wagram,BORG Deutsch-Wagram (Wagram),"[48.29789474312104, 16.557859350763433]",BORG Deutsch-Wagram (Wagram),Wagram
+Basketball,Austria,Raiders Tirol,Landessportcenter Tirol (Innsbruck),"[47.257543270762845, 11.41141785926909]",Landessportcenter Tirol (Innsbruck),None
+Basketball,Austria,Raiffeisen Dornbirn Lions,Ballsporthalle Dornbirn (Dornbirn),"[47.41089456225767, 9.711008007612481]",Dornbirn Lions,Sporthalle Walfersam (Kapfenberg),Dornbirn Lions
+Basketball,Austria,BBU Salzburg,Sporthalle Alpenstrasse (Salzburg),"[47.7766382, 13.067863094296287]",Sporthalle Alpenstrasse (Salzburg),Salzburg
+Basketball,Austria,Steiermark,Sporthalle Walfersam (Kapfenberg),"[47.44637048829545, 15.307930326916065]",Sporthalle Walfersam (Kapfenberg),None
+Basketball,Austria,Raiffeisen Mattersburg Rocks,Sporthalle Mattersburg (Mattersburg),"[47.738385993696355, 16.40942980030451]",Sporthalle Mattersburg (Mattersburg),Mattersburg
+Basketball,Austria,Upper Austrian Ballers,Raiffeisen Sportpark Gmunden (Gmunden),"[47.91061246302181, 13.775931423766888]",Volksbank Arena (Gmunden),None
+Basketball,Austria,Vienna Timberwolves,SPH Steigenteschgasse (Vienna),"[48.24733985898323, 16.436383327290443]",Magenta Dome (Vienna),None
+Basketball,Austria,Wörthersee Piraten,Sporthalle St. Peter (Klagenfurt),"[46.6227776, 14.3240392]",Sporthalle St. Peter (Klagenfurt),Worthersee Piraten
+Basketball,Austria,Güssing Blackbirds,AktivPark Güssing (Güssing),"[47.063122699999994, 16.320907849999998]",AktivPark Gussing (Gussing),Gussing Blackbirds
+Basketball,Austria,Arkadia Traiskirchen Lions,Lions Dome (Traiskirchen),"[48.0158693, 16.2886301]",Lions Dome (Traiskirchen),Traiskirchen Young Lions
+Basketball,Austria,Vienna United,Posthalle (Vienna),"[48.224925320026635, 16.329237998824375]",Posthalle (Vienna),None
+Basketball,Austria,KOŠ Celovec,Sporthalle St. Peter (Klagenfurt),"[46.6227776, 14.3240392]",Sporthalle St. Peter (Klagenfurt),Celovec
+Basketball,Austria,Pirlo Kufstein Towers,Kufstein Arena (Kufstein),"[47.588461160767714, 12.16815504834793]",Kufstein Arena (Kufstein),Kufstein
+Basketball,Austria,Vienna Timberwolves W,SPH Steigenteschgasse (Vienna),"[48.24733985898323, 16.436383327290443]",Magenta Dome (Vienna),None
+Basketball,Austria,UBI Graz W,Raiffeisen Sportpark (Graz),"[47.05513205664071, 15.441875611846319]",Raiffeisen Sportpark (Graz),None
+Basketball,Austria,Klosterneuburg Dukes W,Freizeitzentrum Happyland (Klosterneuburg),"[48.30921495, 16.330245222622278]",Freizeitzentrum Happyland (Klosterneuburg),Duches Klosterneuburg W
+Basketball,Austria,UBSC-DBBC Graz W,Raiffeisen Sportpark (Graz),"[47.05513205664071, 15.441875611846319]",Raiffeisen Sportpark (Graz),None
+Basketball,Austria,Basket Flames W,Wiener Stadthalle / SPH Mollardgasse / SPH Steigenteschgasse (Vienna) ,"[48.20232650774567, 16.33185055869762]" / "[48.18950853945255, 16.34206225280313]" / "[48.24733985898323, 16.436383327290443]",Wiener Stadthalle (Vienna),None
+Basketball,Austria,Vienna United W,Posthalle (Vienna),"[48.224925320026635, 16.329237998824375]",Posthalle (Vienna),None
+Basketball,Austria,DBB Wels,Raiffeisen Arena (Wels),"[48.15496008664098, 14.0071824267687]",FCN KFZ Bauer Arena (Wels),DBB LZ OO W
+Basketball,Belgium,Mailleux Comblain,Basketball Club Mailleux Comblain (Comblain-au-Pont),"[50.47663569643809, 5.575889665682893]",Salle Omnisports de Comblain (Comblain-au-Pont),None
+Basketball,Belgium,Kangoeroes Mechelen,Stedelijke Sporthal Winketkaai (Mechelen),"[51.0332043717458, 4.466684007782978]",Stedelijke Sporthal Winketkaai (Mechelen),Mechelen
+Basketball,Belgium,Okapi Aalst,Okapi Forum (Aalst),"[50.93991226931659, 4.054664113944204]",Okapi Forum (Aalst),None
+Basketball,Belgium,Leuven Bears,Sportoase (Leuven),"[50.86794975104407, 4.711016126535955]",Sportoase (Leuven),None
+Basketball,Belgium,Filou Oostende,Coretec Dôme (Oostende),"[51.21754068066271, 2.8878157812652194]",COREtec Dome (Oostende),Oostende
+Basketball,Belgium,Spirou Charleroi,Dôme (Charleroi),"[50.424111779169095, 4.445788490152863]",Dome Charleroi (Charleroi),None
+Basketball,Belgium,Basketbal Academie Limburg,Sporthal Boshoven (Weert),"[51.257499446170044, 5.692625762167382]",Sporthal Alverberg (Hasselt),Limburg
+Basketball,Belgium,Kortrijk Spurs,Sportcampus Lange Munte (Kortrijk),"[50.80730927041812, 3.3013305505475743]",Sporthal Lange Munte (Kortrijk),Kortrijk
+Basketball,Belgium,Antwerp Giants,Lotto Arena (Antwerp),"[51.230122699999995, 4.441849707846401]",Lotto Arena (Antwerp),None
+Basketball,Belgium,SKT Ieper,Stedelijke sporthal Ieper (Ypres),"[50.84431156363346, 2.895522025177057]",None,
+Basketball,Belgium,Kangoeroes Mechelen W,Stedelijke Sporthal Winketkaai (Mechelen),"[51.0332043717458, 4.466684007782978]",Stedelijke Sporthal Winketkaai (Mechelen),Mechelen W
+Basketball,Belgium,Waregem W,Sporthal De Treffer (Waregem),"[50.88495624667186, 3.429914768777453]",Sportcentrum De Treffer (Waregem),None
+Basketball,Belgium,Liège Panthers W,Salle du Bois Saint-Jean (Liège),"[50.57791906445289, 5.549878952262899]",Salle du Bois Saint-Jean (Liège),Liege W
+Basketball,Belgium,Spirou Ladies Charleroi W,Salle de la Garenne (Charleroi),"[50.42464789125294, 4.446670118109103]",Complexe Sportif II - Garenne (Charleroi),Charleroi W
+Basketball,Belgium,Royal Castors Braine W,Salle Gaston Reiff (Braine-L’Alleud),"[50.67840327632509, 4.386181484538366]",Salle Gaston Reiff (Braine-L’Alleud),Braine W
+Basketball,Belgium,Kortrijk Spurs W,Sportcampus Lange Munte (Kortrijk),"[50.80730927041812, 3.3013305505475743]",Sporthal Lange Munte (Kortrijk),Kortrijk W
+Basketball,Belgium,Athenas Lummen W,Sportcomplex Vijfsprong (Lummen),"[50.99110387136038, 5.189375849087706]",Sportcomplex Vijfsprong (Lummen),Lummen W
+Basketball,Belgium,Basket Namur Capitale Namur W,Hall Octave Henry (Namur),"[50.47554317262496, 4.847128740825173]",Hall Octave Henry (Namur),Namur W
+Basketball,Belgium,Phantoms Basket Boom W,Brax-Hall (Boom),"[51.086021626873936, 4.384542806469656]",Braxhall (Boom),Phantoms W
+Basketball,Belgium,Amon Jeugd Gentson W,BBC Amon Jeugd Gentson (Gent),"[51.04221288579102, 3.7137576132666967]",BBC Amon Jeugd Gentson (Gent),Jeugd Gentson W
+Basketball,Belgium,LDP Donza W,OntmoetingsCentrum en Sporthal Polderbos (De Pinte),"[50.99139371601978, 3.6446222812964053]",Gemeentelijke Sporthal Laarne (Laarne),Donza W
+Basketball,Belgium,Basketball Brunehaut W,Brunehall (Brunehaut),"[50.51553293746506, 3.4195713935572174]",Brunehall (Brunehaut),Brunehaut W
+
+
 Basketball,Bosnia and Herzegovina,HKK Mostar,Sportska dvorana Bijeli Brijeg (Mostar),"[43.350044518054794, 17.791253538799364]",,
 Basketball,Bosnia and Herzegovina,Leotar Trebinje,Sportska dvorana Milos Mrdic (Trebinje),"[42.70732444832589, 18.345068138766656]",,
 Basketball,Bosnia and Herzegovina,Mrkonjic Grad,Arena Komercijalne Banke (Mrkonjic Grad),"[44.412580750000004, 17.086323323803303]",,
@@ -130,6 +134,9 @@ Basketball,Croatia,Ragusa Dubrovnik W,Sportska dvorana Gospino polje (Dubrovnik)
 Basketball,Croatia,Tresnjevka 2009 W,Dom Sportova (Zagreb),"[45.8078441, 15.95180037532022]",,
 Basketball,Croatia,Zadar W,Dvorana Kresimira Cosica (Zadar),"[44.11956805, 15.245524022792896]",,
 Basketball,Croatia,Medvescak W,Skolska sportska dvorana Pescenica (Zagreb),"[45.805623851586084, 16.026173940778317]",,
+
+Basketball,Croatia,Split,Arena Gripe (Split),"[43.50941888286644, 16.45133089851029]",,
+
 Basketball,Cyprus,Anorthosis,B Technical School Limassol (Limassol),"[34.6769115, 33.0339059841471]",,
 Basketball,Cyprus,ETHA Engomi,Tassos Papadopoulos Eleftheria SC (Nicosia),"[35.14768174413195, 33.312027140266515]",,
 Basketball,Cyprus,Paralimni,Paralimni Basket Stadium (Paralimni),"[35.04784185716526, 33.993584937710175]",,
@@ -192,6 +199,9 @@ Basketball,Czech Republic,Strakonice W,STARZ Arena (Strakonice),"[49.26669449428
 Basketball,Czech Republic,BA Sparta W,Hala Kuncova (Prague),"[50.05286051302876, 14.310433453758675]",,
 Basketball,Czech Republic,Aritma Prague W,SK Aritma Praha (Prague),"[50.097965200000004, 14.339741999345398]",,
 Basketball,Czech Republic,USK Prague B W,Sports Hall Kralovka (Prague),"[50.10148730761112, 14.41633002658734]",,
+
+Basketball,Czech Republic,Team North,ARMEX Sportcentrum (Decin),"[50.781729276431925, 14.217139426614683]",,
+
 Basketball,Denmark,Team FOG Naestved,Arena Naestved (Naestved),"[55.2232874, 11.7635121]",,
 Basketball,Denmark,Bears Academy,Vejlby-Risskov Hallen (Aarhus),"[56.1931484, 10.208337565374592]",,
 Basketball,Denmark,Horsens,Forum Horsens (Horsens),"[55.87167705, 9.855850993161626]",,
@@ -334,6 +344,9 @@ Basketball,France,Feytiat W,Salle Roger Couderc (Feytiat),"[45.8050814, 1.326334
 Basketball,France,Mondeville W,Halle des sports Pierre Beregovoy (Mondeville),"[49.17866648472799, -0.3174755508121463]",,
 Basketball,France,Tronche Meylan W,Gymnase Charlaix (Meylan),"[45.2107585, 5.799104914172702]",,
 Basketball,France,Montbrison W,Gymnase Jean-Pierre Cherblanc (Montbrison),"[45.60934648295596, 4.057550141062583]",,
+
+Basketball,France,USBD Alencon W,Gymnase Louvrier (Alençon),"[48.4227018, 0.08688305391560201]",,
+
 Basketball,Georgia,VSA,Dighomi Sports Complex (Tbilisi),"[41.79417357479171, 44.782818135581486]",,
 Basketball,Georgia,Batumi,Sports School (Batumi),"[41.5853369, 41.595196701543074]",,
 Basketball,Georgia,Amra,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
@@ -344,6 +357,13 @@ Basketball,Georgia,CIU,Tbilisi Arena (Tbilisi),"[41.718045000000004, 44.72676934
 Basketball,Georgia,Orbi,Tkibuli sport palace (Tkibuli),"[42.34706283513751, 42.998595439849]",,
 Basketball,Georgia,Kutaisi,Sports Palace (Kutaisi),"[42.2352765, 42.71139327210608]",,
 Basketball,Georgia,Margveti,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
+
+Basketball,Georgia,Suchumi,New Sports Palace (Tbilisi),"[]",,
+Basketball,Georgia,Burji,Telavi Sports Palace (Telavi),"[]",,
+Basketball,Georgia,Vera Tbilisi,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
+Basketball,Georgia,Rustavi,Chemicals Gym (Rustavi),"[]",,
+Basketball,Georgia,Gurjaani Delta,Gurjaani Sport Complex (Gurjaani),"[]",,
+
 Basketball,Germany,Syntainics MBC,Stadthalle Weissenfels (Weissenfels),"[51.2017946, 11.9572068]",,
 Basketball,Germany,Basketball Braunschweig,Volkswagen Halle (Braunschweig),"[52.25735935, 10.519071861894677]",,
 Basketball,Germany,Hamburg,Edel-optics.de Arena (Hamburg),"[53.49558395, 10.002418259976876]",,
@@ -409,6 +429,18 @@ Basketball,Germany,Rostock 2,OSPA Arena (Rostock),"[54.0892304, 12.0873124613340
 Basketball,Germany,Lowen,Riethsporthalle (Erfurt),"[51.00349635, 11.013632929065974]",,
 Basketball,Germany,Alba Berlin W,Sporthalle Charlottenburg (Berlin),"[52.523577599999996, 13.305123270882483]",,
 Basketball,Germany,Keltern W,Speiterlinghalle (Keltern),"[48.897300997269, 8.592012966360228]",,
+
+Basketball,Germany,Saarlouis W,Stadtgartenhalle (Saarlouis),"[49.318563999999995, 6.7405414642087695]",,
+Basketball,Germany,Leverkusen W,Ostermann-Arena (Leverkusen),"[51.03940725, 7.003999890977155]",,
+Basketball,Germany,TK Hannover W,Rudolf-Kalweit-Halle (Hannover),"[]",,
+Basketball,Germany,Marburg W,Georg-Gaßmann-Halle (Marburg),"[50.7991523, 8.754519225218818]",,
+Basketball,Germany,Syntainics MBC W,Weißenfels Stadthalle (Weißenfels),"[51.2017946, 11.9572068]",,
+Basketball,Germany,Gottingen W,Fredrich-Ebert-Halle (Göttingen),"[]",,
+Basketball,Germany,Osnabruck W,OsnabrückHalle (Osnabrück),"[52.27133135, 8.04204910930402]",,
+Basketball,Germany,Eigner Angels Nordlingen W,Hermann-Kessler-Halle (Nördlingen),"[]",,
+Basketball,Germany,Freiburg W,Sepp-Glaser-Halle (Freiburg),"[48.001557399999996, 7.793630101106247]",,
+Basketball,Germany,Herner W,Sporthalle Wanne (Herne),"[51.5297046, 7.155381640048331]",,
+
 Basketball,Greece,AS Karditsas,Ioannis Bourousis Karditsa New Indoor Arena (Karditsa),"[39.359304974427594, 21.905125054291524]",,
 Basketball,Greece,Promitheas,Dimitris Tofalos Arena (Patras),"[38.283941947189334, 21.77339326774408]",,
 Basketball,Greece,AEK Athens,Ano Liosia Olympic Hall (Athens),"[38.08183871690027, 23.686466267736353]",,
@@ -435,6 +467,23 @@ Basketball,Greece,PAOK W,P.A.O.K. Sports Arena (Thessaloniki),"[40.56554975, 22.
 Basketball,Greece,Panathinaikos W,Giannakopoulos Indoor Hall (Athens),"[37.98688449477553, 23.754898211908092]",,
 Basketball,Greece,Olympiacos Volos W,Peace and Friendship Stadium (Piraeus),"[37.94253775, 23.667428931321652]",,
 Basketball,Greece,Aris W,Alexandreio Mellathron (Thessaloniki),"[40.62693022796604, 22.957297181331832]",,
+
+Basketball,Greece,Panerythraikos,Stelios Kalaitzis Indoor Hall (Nea Erythraia),"[38.100925655797646, 23.813836283374318]",,
+Basketball,Greece,Ermis Schimatari,Schimatario Indoor Stadium (Schimatari),"[]",,
+Basketball,Greece,Esperos,Municipal Stadium (Kallithea),"[39.097916850000004, 26.554030157675925]",,
+Basketball,Greece,Koroivos,Amaliada Indoor Hall (Koroivos),"[]",,
+Basketball,Greece,Psychikou,Psychiko Indoor Hall (Athens),"[]",,
+Basketball,Greece,Trikala,Trikala Municipal Sports Hall (Trikala),"[]",,
+Basketball,Greece,Near East,Near East Indoor Arena (Athens),"[]",,
+Basketball,Greece,Proteas Voulas,Voulas Indoor Hall (Voula),"[]",,
+Basketball,Greece,Hanth,Y.M.C.A. New Sports Center (Thessaloniki),"[]",,
+Basketball,Greece,Papagou,Papagou Indoor Basketball Hall (Athens),"[]",,
+Basketball,Greece,Lefkadas,Lefkada Indoor Hall (Lefkada City),"[]",,
+Basketball,Greece,NE Megaridas,NEM BC Arena (Athens),"[]",,
+Basketball,Greece,Vikos,Dimoulitsa Patatouka 7 (Ioannina),"[]",,
+Basketball,Greece,Mykonos,Panagiotis Chaniotis Ano Mera Indoor Hall (Mykonos),"[]",,
+Basketball,Greece,Eleftheroupoli,Municipal Indoor Gym Eleftheroupolis (Eleftheroupoli),"[]",,
+
 Basketball,Hungary,Alba Fehervar,Alba Regia Sportcsarnok (Székesfehérvár),"[47.19157251430757, 18.419354993268765]",,
 Basketball,Hungary,Pecsi VSK,Dezső Lauber Sports Hall (Pécs),"[46.06493660951001, 18.210814181567542]",,
 Basketball,Hungary,Zalakeramia,Zalaegerszeg City Sports Hall (Zalaegerszeg),"[46.845999780935756, 16.85280051043864]",,
@@ -483,6 +532,25 @@ Basketball,Iceland,Hamar W,Frystikistan arena (Hveragerdi),"[]",,
 Basketball,Iceland,Tindastoll W,Sauðárkrókur (Sauðárkrókur),"[65.74195805, -19.624766364872976]",,
 Basketball,Iceland,Keflavik W,Blue-hollin (Reykjanesbaer),"[63.9971667, -22.56116958336461]",,
 Basketball,Iceland,Njardvik W,Njardtaks-gryfjan (Reykjanesbaer),"[]",,
+
+Basketball,Iceland,Sindri,Ice Lagoon Höllin (Höfn),"[]",,
+
+-- no venues from FS
+Basketball,Ireland,Tralee Warriors,Tralee Sports Complex (Tralee),"[]",,
+Basketball,Ireland,Sligo,Mercy College (Sligo),"[54.26697065, -8.467303596082331]",,
+Basketball,Ireland,UCD Marian,UCD Sports Centre (Dublin),"[53.34648275, -6.318165950517576]",,
+Basketball,Ireland,Maree,NUI Galway Sports Centre (Galway),"[]",,
+Basketball,Ireland,St. Vincent's,St Vincents CBS (Dublin),"[]",,
+Basketball,Ireland,Templeogue,National Basketball Arena (Dublin),"[53.292481800000004, -6.334121277209448]",,
+Basketball,Ireland,Belfast,Newforge Sports Complex (Belfast),"[]",,
+Basketball,Ireland,Eanna,Coláiste Éanna (Dublin),"[53.3689264, -6.293674781821275]",,
+Basketball,Ireland,Killester,Oblate Hall (Dublin),"[53.3376314, -6.3262582]",,
+Basketball,Ireland,UCC Demons,Mardyke Arena (Cork),"[51.89472945, -8.500151029531926]",,
+Basketball,Ireland,Ballincollig,MTU Arena (Cork),"[51.88345965, -8.537506606616528]",,
+Basketball,Ireland,KCYMS,Killorglin Sports Complex (Killorglin),"[]",,
+Basketball,Ireland,Neptune,Neptune Stadium (Cork),"[51.907175, -8.476996161667639]",,
+--
+
 Basketball,Italy,Trieste,PalaTrieste (Trieste),"[45.62285, 13.795091088239005]",,
 Basketball,Italy,Venezia,Palasport Giuseppe Taliercio (Venice),"[]",,
 Basketball,Italy,Sassari,Palasport Roberta Serradimigni (Sassari),"[40.71706595, 8.583235442451821]",,
@@ -580,6 +648,16 @@ Basketball,Latvia,Saldus,Saldus Sporta nams (Saldus),"[56.66820305, 22.497962947
 Basketball,Latvia,Salaspils,Salaspils Sporta nams (Salaspils),"[56.85898915, 24.33447567372114]",,
 Basketball,Latvia,Vef Riga Skola,Rimi Olimpiskais centrs (Riga),"[56.96766345, 24.124638295163642]",,
 Basketball,Latvia,Gulbenes Buki,Gulbenes Sporta Centrs (Gulbene),"[57.17227595, 26.766962859433246]",,
+
+Basketball,Latvia,Jelgava,Zemgale Olympic Center (Jelgava),"[]",,
+Basketball,Latvia,Rīgas Zeļļi,Rimi Olympic Center (Riga),"[]",,
+Basketball,Latvia,BK Liepaja,Liepajas Olimpiskais centrs (Liepāja),"[56.51905515, 21.017835398439793]",,
+Basketball,Latvia,Ventspils,Olimpiskais centrs Ventspils (Ventspils),"[57.3877282, 21.570350643810073]",,
+Basketball,Latvia,Latvijas Universitate,Rimi Olimpiskais centrs (Riga),"[56.96766345, 24.124638295163642]",,
+Basketball,Latvia,BK Ogre,Ogres 1. vidusskola (Ogre),"[56.81759795, 24.610954404013782]",,
+Basketball,Latvia,Valmiera Glass Via,Vidzemes Olimpiskais centrs (Valmiera),"[57.528119000000004, 25.387886957599036]",,
+Basketball,Latvia,VEF Riga,Arena Riga (Riga),"[56.96785725, 24.121265427443312]",,
+
 Basketball,Lithuania,Jonava,Jonavos sporto arena (Jonava),"[55.07657865, 24.27330545]",,
 Basketball,Lithuania,Rytas,Jeep arena (Vilnius),"[]",,
 Basketball,Lithuania,BC Wolves,Avia Solutions Group Arena (Vilnius),"[]",,
@@ -610,6 +688,10 @@ Basketball,Lithuania,LCC W,Michealsen centras (Klaipeda),"[]",,
 Basketball,Lithuania,Siauliai W,Saulės sporto rūmai (Šiauliai),"[55.9132642, 23.311359952861167]",,
 Basketball,Lithuania,Aistes LSU Kaunas W,KM Žalgiris (Kaunas),"[]",,
 Basketball,Lithuania,Panevezys W,Kalnapilio arena (Panevėžys),"[55.733355450000005, 24.33931199849188]",,
+
+Basketball,Lithuania,Kibirkstis Vilnius W,MRU didzioji sale (Vilnius),"[]",,
+Basketball,Lithuania,Klaipedos Neptunas W,Klaipėdos m. sporto bazių valdymo centras (Klaipeda),"[]",,
+
 Basketball,Luxembourg,Heffingen,Hall sportif Heffingen (Heffingen),"[]",,
 Basketball,Luxembourg,Bertrange,Centre sportif Atert (Bertrange),"[]",,
 Basketball,Luxembourg,Walferdange,Centre sportif Prince Henri (Walferdange),"[49.66084805, 6.130509370231165]",,
@@ -645,6 +727,19 @@ Basketball,Montenegro,Milenijum,Sportski i kulturni centar Univerziteta Crne gor
 Basketball,Montenegro,Sutjeska,Sports center Niksic (Nikšić),"[]",,
 Basketball,Montenegro,Podgorica,Bemax Arena (Podgorica),"[42.4374059, 19.2549604]",,
 Basketball,Netherlands,Zwolle W,Landstede Sportcentrum (Zwolle),"[52.5220246, 6.1227705]",,
+
+Basketball,Netherlands,Binnenland W,De Driesprong (Barendrecht),"[51.8507878, 4.547458]",,
+Basketball,Netherlands,Triple Threat W,Spaarnehal (Haarlem),"[52.35618445, 4.655503634244722]",,
+Basketball,Netherlands,TopKip Lions W,Indoor Centrum Landsmeer (Landsmeer),"[]",,
+Basketball,Netherlands,Leiden W,Sportcomplex 1574 (Leiden),"[52.1501638, 4.4752093]",,
+Basketball,Netherlands,Den Helder W,Top Sportcomplex Quelderduyn (Den Helder),"[]",,
+Basketball,Netherlands,Grasshoppers W,Cleijn Duijn (Katwijk),"[52.2003646, 4.4167738]",,
+Basketball,Netherlands,Limburg W,Sporthal Alverberg (Hasselt),"[50.9390878, 5.321115640812721]",,
+Basketball,Netherlands,Jolly Jumpers W,Sportcentrum De Vlaskoel (Tubbergen),"[52.4107505, 6.783238]",,
+Basketball,Netherlands,QSTA United W,De Kooi (Bemmel),"[]",,
+Basketball,Netherlands,Donar Groningen,MartiniPlaza (Groningen),"[53.202525449999996, 6.555618210167349]",,
+Basketball,Netherlands,Den Bosch,Maaspoort ('s-Hertogenbosch),"[51.7275725, 5.3025507]",,
+
 Basketball,North Macedonia,Feniks 2010,Jane Sandanski Arena (Skopje),"[]",,
 Basketball,North Macedonia,Gostivar,Mladost Sports Hall (Gostivar),"[]",,
 Basketball,North Macedonia,Kozuv,Sports Hall 26th of April (Gevgelija),"[]",,
@@ -680,6 +775,9 @@ Basketball,Norway,Asker W,Leikvollhallen (Asker),"[59.825655299999994, 10.443584
 Basketball,Norway,Bergen W,Amalie Skram VGS (Bergen),"[]",,
 Basketball,Norway,Ullern W,Ullern flerbrukshall (Oslo),"[59.92777075, 10.6323245]",,
 Basketball,Norway,Ammerud W,Apalløkka (Oslo),"[59.95961485, 10.864449962696334]",,
+
+Basketball,Norway,Ulriken W,Haukelandshallen (Bergen),"[60.3699733, 5.354598181930486]",,
+
 Basketball,Poland,Dziki Warszawa,Hala Sportowa Kolo (Warsaw),"[52.21946975, 21.00160963610131]",,
 Basketball,Poland,Legia,Bemowo (Warsaw),"[52.2421087, 20.9125573]",,
 Basketball,Poland,Zielona Gora,CRS Hala Zielona Gora (Zielona Góra),"[51.9560422, 15.5240821]",,
@@ -857,6 +955,10 @@ Basketball,Slovenia,Domel Skofja Loka W,Sportna dvorana Poden (Skofja Loka),"[46
 Basketball,Slovenia,Jezica W,Dvorana Jezica (Ljubljana),"[46.0949835, 14.5084024]",,
 Basketball,Slovenia,Cinkarna Celje W,Gimnazija Celje - Center (Celje),"[46.2324838, 15.2641829]",,
 Basketball,Slovenia,Polzela,Dvorana Tri lilije (Laško),"[46.164829850000004, 15.23039335]",,
+
+Basketball,Slovenia,Hidria,Stadio di Idra (Idrija),"[]",,
+Basketball,Slovenia,Cedevita Olimpija,Arena Stožice (Ljubljana),"[46.08137065, 14.521460334999997]",,
+
 Basketball,Spain,Breogan,Pazo dos Deportes (Lugo),"[42.9912542, -7.545343345809101]",,
 Basketball,Spain,Forca Lleida,Pavelló Barris Nord (Lleida),"[41.625939349999996, 0.6315997398461692]",,
 Basketball,Spain,Tenerife,Pabellón Insular Santiago Martín (San Cristóbal de La Laguna),"[28.458373899999998, -16.296957279035283]",,
@@ -968,6 +1070,9 @@ Basketball,Sweden,Umea W,Umea Energi Arena (Umea),"[63.8290473, 20.2855610682509
 Basketball,Sweden,Hammarby W,Farstahallen (Stockholm),"[59.23920455, 18.085130378645623]",,
 Basketball,Sweden,IK Eos Utveckling W,Eoshallen (Lund),"[55.696341399999994, 13.201360650000002]",,
 Basketball,Sweden,Sodertalje 2 W,Rosenborgsskolan arena (Rosenborg),"[]",,
+
+Basketball,Sweden,MarkSjuharad W,Kinnahallen (Kinna),"[]",,
+
 Basketball,Switzerland,BBC Monthey,Reposieux (Monthey),"[46.2592559, 6.952547746483606]",,
 Basketball,Switzerland,Fribourg Olympic,Salle Saint-Lèonard (Fribourg),"[46.8166597, 7.1568230735170335]",,
 Basketball,Switzerland,Neuchatel,La Riveraine (Neuchâtel),"[46.995962, 6.94668785]",,
@@ -1015,90 +1120,8 @@ Basketball,United Kingdom,Nottingham Wildcats W,Nottingham Wildcats Arena (Notti
 Basketball,United Kingdom,Durham Palatinates W,Maiden Castle (Durham),"[54.766334, -1.5577792443032714]",,
 Basketball,United Kingdom,Oaklands Wolves W,Oaklands College (St Albans),"[51.755651799999995, -0.2863574288731814]",,
 Basketball,United Kingdom,Leicester Riders W,Netball Centre (Leicester),"[]",,
-Basketball,Belgium,SKT Ieper,Stedelijk Sportcentrum (Ypres),"[]",,
-Basketball,Croatia,Split,Arena Gripe (Split),"[43.50941888286644, 16.45133089851029]",,
-Basketball,France,USBD Alencon W,Gymnase Louvrier (Alençon),"[48.4227018, 0.08688305391560201]",,
-Basketball,Germany,Saarlouis W,Stadtgartenhalle (Saarlouis),"[49.318563999999995, 6.7405414642087695]",,
-Basketball,Germany,Leverkusen W,Ostermann-Arena (Leverkusen),"[51.03940725, 7.003999890977155]",,
-Basketball,Germany,TK Hannover W,Rudolf-Kalweit-Halle (Hannover),"[]",,
-Basketball,Germany,Marburg W,Georg-Gaßmann-Halle (Marburg),"[50.7991523, 8.754519225218818]",,
-Basketball,Germany,Syntainics MBC W,Weißenfels Stadthalle (Weißenfels),"[51.2017946, 11.9572068]",,
-Basketball,Germany,Gottingen W,Fredrich-Ebert-Halle (Göttingen),"[]",,
-Basketball,Germany,Osnabruck W,OsnabrückHalle (Osnabrück),"[52.27133135, 8.04204910930402]",,
-Basketball,Germany,Eigner Angels Nordlingen W,Hermann-Kessler-Halle (Nördlingen),"[]",,
-Basketball,Germany,Freiburg W,Sepp-Glaser-Halle (Freiburg),"[48.001557399999996, 7.793630101106247]",,
-Basketball,Germany,Herner W,Sporthalle Wanne (Herne),"[51.5297046, 7.155381640048331]",,
-Basketball,Greece,Panerythraikos,Stelios Kalaitzis Indoor Hall (Nea Erythraia),"[38.100925655797646, 23.813836283374318]",,
-Basketball,Greece,Ermis Schimatari,Schimatario Indoor Stadium (Schimatari),"[]",,
-Basketball,Greece,Esperos,Municipal Stadium (Kallithea),"[39.097916850000004, 26.554030157675925]",,
-Basketball,Greece,Koroivos,Amaliada Indoor Hall (Koroivos),"[]",,
-Basketball,Greece,Psychikou,Psychiko Indoor Hall (Athens),"[]",,
-Basketball,Greece,Trikala,Trikala Municipal Sports Hall (Trikala),"[]",,
-Basketball,Greece,Near East,Near East Indoor Arena (Athens),"[]",,
-Basketball,Greece,Proteas Voulas,Voulas Indoor Hall (Voula),"[]",,
-Basketball,Greece,Hanth,Y.M.C.A. New Sports Center (Thessaloniki),"[]",,
-Basketball,Greece,Papagou,Papagou Indoor Basketball Hall (Athens),"[]",,
-Basketball,Greece,Lefkadas,Lefkada Indoor Hall (Lefkada City),"[]",,
-Basketball,Greece,NE Megaridas,NEM BC Arena (Athens),"[]",,
-Basketball,Greece,Vikos,Dimoulitsa Patatouka 7 (Ioannina),"[]",,
-Basketball,Greece,Mykonos,Panagiotis Chaniotis Ano Mera Indoor Hall (Mykonos),"[]",,
-Basketball,Greece,Eleftheroupoli,Municipal Indoor Gym Eleftheroupolis (Eleftheroupoli),"[]",,
-Basketball,Iceland,Sindri,Ice Lagoon Höllin (Höfn),"[]",,
-Basketball,Ireland,Tralee Warriors,Tralee Sports Complex (Tralee),"[]",,
-Basketball,Ireland,Sligo,Mercy College (Sligo),"[54.26697065, -8.467303596082331]",,
-Basketball,Ireland,UCD Marian,UCD Sports Centre (Dublin),"[53.34648275, -6.318165950517576]",,
-Basketball,Ireland,Maree,NUI Galway Sports Centre (Galway),"[]",,
-Basketball,Ireland,St. Vincent's,St Vincents CBS (Dublin),"[]",,
-Basketball,Ireland,Templeogue,National Basketball Arena (Dublin),"[53.292481800000004, -6.334121277209448]",,
-Basketball,Ireland,Belfast,Newforge Sports Complex (Belfast),"[]",,
-Basketball,Ireland,Eanna,Coláiste Éanna (Dublin),"[53.3689264, -6.293674781821275]",,
-Basketball,Ireland,Killester,Oblate Hall (Dublin),"[53.3376314, -6.3262582]",,
-Basketball,Ireland,UCC Demons,Mardyke Arena (Cork),"[51.89472945, -8.500151029531926]",,
-Basketball,Ireland,Ballincollig,MTU Arena (Cork),"[51.88345965, -8.537506606616528]",,
-Basketball,Ireland,KCYMS,Killorglin Sports Complex (Killorglin),"[]",,
-Basketball,Ireland,Neptune,Neptune Stadium (Cork),"[51.907175, -8.476996161667639]",,
-Basketball,Netherlands,Binnenland W,De Driesprong (Barendrecht),"[51.8507878, 4.547458]",,
-Basketball,Netherlands,Triple Threat W,Spaarnehal (Haarlem),"[52.35618445, 4.655503634244722]",,
-Basketball,Netherlands,TopKip Lions W,Indoor Centrum Landsmeer (Landsmeer),"[]",,
-Basketball,Netherlands,Leiden W,Sportcomplex 1574 (Leiden),"[52.1501638, 4.4752093]",,
-Basketball,Netherlands,Den Helder W,Top Sportcomplex Quelderduyn (Den Helder),"[]",,
-Basketball,Netherlands,Grasshoppers W,Cleijn Duijn (Katwijk),"[52.2003646, 4.4167738]",,
-Basketball,Netherlands,Limburg W,Sporthal Alverberg (Hasselt),"[50.9390878, 5.321115640812721]",,
-Basketball,Netherlands,Jolly Jumpers W,Sportcentrum De Vlaskoel (Tubbergen),"[52.4107505, 6.783238]",,
-Basketball,Netherlands,QSTA United W,De Kooi (Bemmel),"[]",,
-Basketball,Norway,Ulriken W,Haukelandshallen (Bergen),"[60.3699733, 5.354598181930486]",,
-Basketball,Sweden,MarkSjuharad W,Kinnahallen (Kinna),"[]",,
-Basketball,Georgia,Suchumi,New Sports Palace (Tbilisi),"[]",,
-Basketball,Georgia,Burji,Telavi Sports Palace (Telavi),"[]",,
-Basketball,Latvia,Jelgava,Zemgale Olympic Center (Jelgava),"[]",,
-Basketball,Latvia,Rīgas Zeļļi,Rimi Olympic Center (Riga),"[]",,
-Basketball,Albania,Apolonia Fier,Pallati Sportit Flamurtari (Vlorë),"[40.4548971, 19.48775039465147]",,
-Basketball,Albania,Vllaznia,Qazim Dervishi Sports Palace (Shkodër),"[]",,
-Basketball,Albania,Tirana,Pallati i Sportit Farie Hoti (Tirana),"[41.32628205, 19.807422005494193]",,
-Basketball,Belgium,Antwerp Giants,Lotto Arena (Antwerp),"[51.230122699999995, 4.441849707846401]",,
-Basketball,Belgium,Oostende,COREtec Dome (Oostende),"[]",,
-Basketball,Belgium,Waregem W,Sportcentrum De Treffer (Waregem),"[50.884357300000005, 3.4295459622575897]",,
-Basketball,Belgium,Liege W,Salle du Bois Saint-Jean (Liège),"[]",,
-Basketball,Belgium,Charleroi W,Complexe Sportif II - Garenne (Charleroi),"[]",,
-Basketball,Belgium,Braine W,Salle Gaston Reiff (Braine-L’Alleud),"[]",,
-Basketball,Belgium,Kortrijk W,Sporthal Lange Munte (Kortrijk),"[]",,
-Basketball,Belgium,Lummen W,Sportcomplex Vijfsprong (Lummen),"[50.9914108, 5.189951148746418]",,
-Basketball,Czech Republic,Team North,ARMEX Sportcentrum (Decin),"[50.781729276431925, 14.217139426614683]",,
-Basketball,Georgia,Vera Tbilisi,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
-Basketball,Georgia,Rustavi,Chemicals Gym (Rustavi),"[]",,
-Basketball,Georgia,Gurjaani Delta,Gurjaani Sport Complex (Gurjaani),"[]",,
-Basketball,Latvia,BK Liepaja,Liepajas Olimpiskais centrs (Liepāja),"[56.51905515, 21.017835398439793]",,
-Basketball,Latvia,Ventspils,Olimpiskais centrs Ventspils (Ventspils),"[57.3877282, 21.570350643810073]",,
-Basketball,Latvia,Latvijas Universitate,Rimi Olimpiskais centrs (Riga),"[56.96766345, 24.124638295163642]",,
-Basketball,Latvia,BK Ogre,Ogres 1. vidusskola (Ogre),"[56.81759795, 24.610954404013782]",,
-Basketball,Latvia,Valmiera Glass Via,Vidzemes Olimpiskais centrs (Valmiera),"[57.528119000000004, 25.387886957599036]",,
-Basketball,Latvia,VEF Riga,Arena Riga (Riga),"[56.96785725, 24.121265427443312]",,
-Basketball,Lithuania,Kibirkstis Vilnius W,MRU didzioji sale (Vilnius),"[]",,
-Basketball,Lithuania,Klaipedos Neptunas W,Klaipėdos m. sporto bazių valdymo centras (Klaipeda),"[]",,
-Basketball,Netherlands,Donar Groningen,MartiniPlaza (Groningen),"[53.202525449999996, 6.555618210167349]",,
-Basketball,Netherlands,Den Bosch,Maaspoort ('s-Hertogenbosch),"[51.7275725, 5.3025507]",,
-Basketball,Slovenia,Hidria,Stadio di Idra (Idrija),"[]",,
-Basketball,Slovenia,Cedevita Olimpija,Arena Stožice (Ljubljana),"[46.08137065, 14.521460334999997]",,
+
+
 Football,Albania,Laci,Stadiumi Laçi (Laçi),"[]",,
 Football,Albania,Dinamo Tirana,Stadiumi Niko Dovana (Durrës),"[41.32613845, 19.44973695075805]",,
 Football,Albania,Skenderbeu,Skënderbeu Stadium (Korçë),"[40.62615035, 20.782802696824284]",,
@@ -4936,183 +4959,182 @@ Field Hockey,Spain,Sardinero W,Estadi de Hockey La Albericia (Santander),"[43.46
 Field Hockey,Spain,Egara W,Club Ègara (Terrassa),"[41.591834403764906, 2.016625810921501]",None,None
 Field Hockey,Spain,Polo W,Estadi de Hockey Eduardo Dualde (Barcelona),"[41.38133433240384, 2.113462388780355]",None,None
 Field Hockey,Spain,UD Taburiente W,Campo de Hockey (Las Palmas de Gran Canaria),"[28.103909, -15.455027]",None,Taburiente W
-
-
-
-
-
-Rugby,United Kingdom,Harlequins,Twickenham Stoop (London),"[51.4501757, -0.34425153275597514]",,
-Rugby,United Kingdom,Ampthill,Dillingham Park (Ampthill),"[52.03115875, -0.505026902962274]",,
-Rugby,United Kingdom,Gloucester,Kingsholm Stadium (Gloucester),"[51.8715598, -2.242914392089339]",,
-Rugby,United Kingdom,Cornish Pirates,Mennaye Field (Penzance),"[50.1130862, -5.544000286992164]",,
-Rugby,United Kingdom,Caldy,Paton Field (Thurstaston),"[53.358475799999994, -3.1430217397835722]",,
-Rugby,United Kingdom,Exeter Chiefs,Sandy Park (Exeter),"[]",,
-Rugby,United Kingdom,Cambridge,Grantchester Road (Cambridge),"[52.19649920156671, 0.10046756866518917]",,
-Rugby,United Kingdom,Bristol,Ashton Gate Stadium (Bristol),"[51.43986935, -2.620340547304729]",,
-Rugby,United Kingdom,Hartpury University,Hartpury University Stadium (Hartpury),"[]",,
-Rugby,United Kingdom,Coventry R.F.C,Butts Park Arena (Coventry),"[52.406189600000005, -1.5259715405726266]",,
-Rugby,United Kingdom,Sale Sharks,Salford Community Stadium (Salford),"[53.46933865, -2.3751921046572155]",,
-Rugby,United Kingdom,Exeter Chiefs W,Sandy Park (Exeter),"[]",,
-Rugby,United Kingdom,Bedford Blues,Goldington Road (Bedford),"[52.14197409514739, -0.43491002577699356]",,
-Rugby,United Kingdom,Doncaster,Castle Park (Doncaster),"[53.48258825, -1.2264707821285943]",,
-Rugby,United Kingdom,Bath,Recreation Ground (Bath),"[]",,
-Rugby,United Kingdom,Newcastle Falcons,Kingston Park (Newcastle),"[55.018673899999996, -1.672271568560265]",,
-Rugby,United Kingdom,London Scottish,Athletic Ground (Richmond),"[]",,
-Rugby,France,Stade Toulousain,Stade Ernest-Wallon (Toulouse),"[43.62189805, 1.4153673012506274]",,
-Rugby,United Kingdom,Leicester Tigers,Welford Road (Leicester),"[52.6198239, -1.1305377]",,
-Rugby,United Kingdom,Northampton Saints,Franklin's Gardens (Northampton),"[52.2394934, -0.9195815272201058]",,
-Rugby,United Kingdom,Ealing Trailfinders,Trailfinders Sports Ground (London),"[]",,
-Rugby,France,Racing 92,Paris La Défense Arena (Nanterre),"[48.89567665, 2.229658055848475]",,
-Rugby,United Kingdom,Saracens,StoneX Stadium (London),"[51.603358650000004, -0.22424629294014614]",,
-Rugby,United Kingdom,Nottingham,Lady Bay Sports Ground (Nottingham),"[]",,
-Rugby,France,Section Paloise,Stade du Hameau (Pau),"[43.309534400000004, -0.31693230507797243]",,
-Rugby,France,USA Perpignan,Stade Aimé Giral (Perpignan),"[42.71546975, 2.891500982878145]",,
-Rugby,France,Vannes,Stade de la Rabine (Vannes),"[47.6518508, -2.7610828]",,
-Rugby,France,Bordeaux Begles,Stade Chaban-Delmas (Bordeaux),"[44.82930795, -0.5982637651385234]",,
-Rugby,France,RC Toulonnais,Stade Mayol (Toulon),"[43.11899495, 5.936574220761383]",,
-Rugby,France,Aviron Bayonnais,Stade Jean-Dauger (Bayonne),"[43.485226600000004, -1.4796116187949009]",,
-Rugby,France,Lyon,Stade de Gerland (Lyon),"[45.723776150000006, 4.832254170853934]",,
-Rugby,France,Stade Francais Paris,Stade Jean Bouin (Paris),"[48.84329375, 2.2529519861964875]",,
-Rugby,France,Montpellier,GGL Stadium (Montpellier),"[43.593034349999996, 3.849691013136259]",,
-Rugby,France,Clermont,Stade Marcel-Michelin (Clermont-Ferrand),"[45.78937105, 3.1060252789532106]",,
-Rugby,France,Castres Olympique,Stade Pierre-Fabre (Castres),"[43.6108305, 2.2526973415443283]",,
-Rugby,France,Stade Rochelais,Stade Marcel-Deflandre (La Rochelle),"[46.1581749, -1.1779964203816062]",,
-Rugby,France,US Oyonnax,Stade Charles-Mathon (Oyonnax),"[46.253651000000005, 5.644874541517435]",,
-Rugby,United Kingdom,Chinnor,Chinnor RFC (Thame),"[]",,
+Rugby,United Kingdom,Harlequins,Twickenham Stoop (London),"[51.4501757, -0.34425153275597514]",Twickenham Stoop (London),None
+Rugby,United Kingdom,Gloucester Rugby,Kingsholm Stadium (Gloucester),"[51.8715598, -2.242914392089339]",Kingsholm Stadium (Gloucester),Gloucester
+Rugby,United Kingdom,Exeter Chiefs,Sandy Park (Exeter),"[50.70959916282149, -3.4683395204340126]",Sandy Park (Exeter),None
+Rugby,United Kingdom,Bristol Bears,Ashton Gate Stadium (Bristol),"[51.43986935, -2.620340547304729]",Ashton Gate Stadium (Bristol),Bristol
+Rugby,United Kingdom,Northampton Saints,Franklin's Gardens (Northampton),"[52.2394934, -0.9195815272201058]",Franklin's Gardens (Northampton),None
+Rugby,United Kingdom,Bath Rugby,Recreation Ground (Bath),"[51.38252344464489, -2.3551534683665576]",Recreation Ground (Bath),Bath
+Rugby,United Kingdom,Saracens,StoneX Stadium (London),"[51.603358650000004, -0.22424629294014614]",StoneX Stadium (London),None
+Rugby,United Kingdom,Sale Sharks,Salford Community Stadium (Salford),"[53.46933865, -2.3751921046572155]",Salford Community Stadium (Salford),None
+Rugby,United Kingdom,Newcastle Falcons,Kingston Park (Newcastle),"[55.018673899999996, -1.672271568560265]",Kingston Park (Newcastle),None
+Rugby,United Kingdom,Leicester Tigers,Mattioli Woods Welford Road (Leicester),"[52.62418517348171, -1.133079330714958]",Welford Road (Leicester),None
+Rugby,United Kingdom,Chinnor,Kingsey Road (Thame),"[51.74809734775209, -0.9588979833170341]",None,None
+Rugby,United Kingdom,Caldy,Paton Field (Thurstaston),"[53.359439673643955, -3.143302891653039]",Paton Field (Thurstaston),None
+Rugby,United Kingdom,Cambridge,Grantchester Road (Cambridge),"[52.194447335558245, 0.09725892888331186]",Grantchester Road (Cambridge),None
+Rugby,United Kingdom,Hartpury University,Hartpury University Stadium (Hartpury),"[51.908661870813326, -2.3073470363422484]",Hartpury University Stadium (Hartpury),None
+Rugby,United Kingdom,Bedford Blues,Goldington Road (Bedford),"[52.14067678859038, -0.4576395720316567]",Goldington Road (Bedford),None
+Rugby,United Kingdom,Coventry,Butts Park Arena (Coventry),"[52.4061393874927, -1.5256923555300954]",Butts Park Arena (Coventry),Coventry R.F.C
+Rugby,United Kingdom,Nottingham,Lady Bay Sports Ground (Nottingham),"[52.9405493654329, -1.126768861295607]",Lady Bay Sports Ground (Nottingham),None
+Rugby,United Kingdom,London Scottish,Athletic Ground (Richmond),"[51.46666917310514, -0.3047168421088924]",Athletic Ground (Richmond),None
+Rugby,United Kingdom,Doncaster Knights,Castle Park (Doncaster),"[53.53448077364568, -1.078041979865841]",Castle Park (Doncaster),Doncaster
+Rugby,United Kingdom,Ampthill,Dillingham Park (Ampthill),"[52.03115875, -0.505026902962274]",Dillingham Park (Ampthill),None
+Rugby,United Kingdom,Ealing Trailfinders,Trailfinders Sports Ground (London),"[51.52475837356171, -0.3294050399757237]",Trailfinders Sports Ground (London),None
+Rugby,United Kingdom,Cornish Pirates,Mennaye Field (Penzance),"[50.1130862, -5.544000286992164]",Mennaye Field (Penzance),None
 Rugby,United Kingdom,Oxford,StoneX Stadium (London),"[51.603358650000004, -0.22424629294014614]",,
-Rugby,United Kingdom,GLH W,Kingsholm Stadium (Gloucester),"[51.8715598, -2.242914392089339]",,
-Rugby,United Kingdom,Saracens W,StoneX Stadium (London),"[51.603358650000004, -0.22424629294014614]",,
-Rugby,United Kingdom,Sale Sharks W,Heywood Road Rugby Stadium (Manchester),"[]",,
-Rugby,United Kingdom,Bristol W,Shaftesbury Park (Bristol),"[]",,
-Rugby,United Kingdom,Loughborough W,Franklin's Gardens Rugby Stadium (Northampton),"[]",,
-Rugby,United Kingdom,Trailfinders W,Trailfinders Sports Ground (London),"[]",,
-Rugby,United Kingdom,Leicester Tigers W,Welford Road Rugby Stadium (Leicester),"[]",,
-Rugby,United Kingdom,Harlequins W,Twickenham Stoop Stadium (London),"[51.4501757, -0.34425153275597514]",,
-Rugby,France,Bressane,Stade Marcel-Verchère (Bourg-en-Bresse),"[46.2100024, 5.237150019790997]",,
-Rugby,France,Carcassonne,Stade Albert Domec (Carcassonne),"[43.21788855, 2.364417748767847]",,
-Rugby,France,Massy,Stade Jules-Ladoumègue (Massy),"[48.7309238, 2.2962939978910475]",,
-Rugby,France,Stade Langonnais,Stade Comberlin (Langon),"[44.54951575, -0.25559220077026307]",,
-Rugby,France,CS Bourgoin-Jallieu,Stade Pierre Rajon (Bourgoin-Jallieu),"[45.589575999999994, 5.287700777123847]",,
-Rugby,France,Narbonne,Parc des Sports Et de l'Amitié (Narbonne),"[43.1814043, 3.0193633837087743]",,
-Rugby,France,Albi,Stadium Municipal d'Albi (Albi),"[]",,
-Rugby,France,Tarbes Pyrenees,Stade Maurice Trélut (Tarbes),"[43.219901050000004, 0.07563240392248922]",,
-Rugby,France,Biarritz Olympique,Parc des Sports Aguiléra (Biarritz),"[43.483115850000004, -1.5369909671649327]",,
-Rugby,France,Agen,Stade Armandie (Agen),"[44.192602949999994, 0.6203083475044563]",,
-Rugby,France,Beziers,Stade Raoul-Barrière (Béziers),"[43.334742649999995, 3.265982153151149]",,
-Rugby,France,Nevers,Stade du Pré Fleuri (Nevers),"[46.9755158, 3.160216196476208]",,
-Rugby,France,Valence Romans,Stade Georges Pompidou (Valence),"[44.9455883, 4.919292631752025]",,
-Rugby,France,US Dax,Stade Maurice Boyau (Dax),"[43.712134750000004, -1.045827701431823]",,
-Rugby,France,Angouleme,Stade Chanzy (Angoulême),"[45.6417878, 0.17631606287664367]",,
-Rugby,France,CA Brive,Stade Amédée-Domenech (Brive-la-Gaillarde),"[45.1617434, 1.5485002675684898]",,
-Rugby,France,Aurillac,Stade Jean Alric (Aurillac),"[44.92445325, 2.429698209316816]",,
-Rugby,France,Colomiers,Stade Michel Bendichou (Colomiers),"[43.6197885, 1.3271949149025155]",,
-Rugby,France,Montauban,Stade Sapiac (Montauban),"[44.01032985, 1.351793764955548]",,
-Rugby,France,Stade Nicois,Stade des Arboras (Nice),"[43.69088120000001, 7.193050930310079]",,
-Rugby,France,Provence Rugby,Stade Maurice David (Aix-en-Provence),"[43.52772405, 5.422814324213617]",,
-Rugby,France,Mont-de-Marsan,Stade Guy Boniface (Mont-de-Marsan),"[43.8971643, -0.4822371]",,
-Rugby,France,Grenoble FC,Stade des Alpes (Grenoble),"[45.187394499999996, 5.740243412667947]",,
-Rugby,France,Blagnac W,Stade Ernest-Argelès (Blagnac),"[43.6367959, 1.4015269407753392]",,
-Rugby,France,Montpellier W,Stade Sabathé (Montpellier),"[43.59803535, 3.8698418550288194]",,
-Rugby,France,Lille W,Stade Thery (Lille),"[50.612297600000005, 3.1482753760498925]",,
-Rugby,France,Rennes W,Stade du Commandant Bougouin (Rennes),"[48.10887177560981, -1.6633567453265647]",,
-Rugby,France,Bobigny W,Stade Henri-Wallon (Bobigny),"[48.902427, 2.4433053948029686]",,
-Rugby,France,Lyon W,Matmut Stadium Gerland (Lyon),"[45.723776150000006, 4.832254170853934]",,
-Rugby,France,Romagnat W,Stade Michel-Brun (Romagnat),"[45.73293003532445, 3.1031667545629302]",,
-Rugby,France,Stade Bordelais W,Stade Chaban-Delmas (Bordeaux),"[44.82930795, -0.5982637651385234]",,
-Rugby,France,Toulouse W,Stade Ernest-Wallon (Toulouse),"[43.62189805, 1.4153673012506274]",,
-Rugby,France,Grenoble W,Stade Lesdiguières (Grenoble),"[45.1660849, 5.709517753182353]",,
-Rugby,France,Chambery,Chambéry Savoie Stadium (Chambéry),"[45.5734221, 5.908111796403768]",,
-Rugby,France,Rouen Normandie,Stade Robert Diochon (Rouen),"[49.41108425, 1.0706461958500109]",,
-Rugby,France,Ol. Marcquois,Stadium Lille Métropole (Marcq-en-Baroeul),"[50.63104516608647, 3.1358433241152186]",,
-Rugby,France,Perigourdin,Stade Francis-Rongiéras (Périgueux),"[45.1916672, 0.7000020607564159]",,
-Rugby,France,Suresnes,Stade Jean-Moulin (Suresnes),"[48.876728025986864, 2.2141722565558175]",,
-Rugby,Georgia,Tao,Aspindza Field (Aspindza),"[41.561714732138995, 43.25428971205132]",,
-Rugby,Georgia,Bolnisi Kochebi,Tamaz Stepania Stadium (Bolnisi),"[41.4481476, 44.5351521]",,
-Rugby,Georgia,Batumi,Batumi Rugby Stadium (Batumi),"[41.62847719206476, 41.62502136516995]",,
-Rugby,Georgia,Ares Kutaisi,Aia Arena (Kutaisi),"[42.24123975, 42.685788860288085]",,
-Rugby,Georgia,Khvamli Tbilisi,Mukhiani Arena (Tbilisi),"[41.77715903911261, 44.83122493495744]",,
-Rugby,Georgia,Kazbegi,RC Kazbegi Rugby Stadium (Stephantsminda),"[42.653286176130145, 44.639566325592014]",,
-Rugby,Georgia,Kharebi Rustavi,Kharebi Arena (Rustavi),"[41.572320849303416, 44.99377422628018]",,
-Rugby,Georgia,AIA Kutaisi,Aia Arena (Kutaisi),"[42.24123975, 42.685788860288085]",,
-Rugby,Georgia,Lelo Tbilisi,Lelo Arena (Tbilisi),"[41.79066705, 44.758246475293845]",,
-Rugby,Georgia,Armia Tbilisi,Avchala Stadium (Tbilisi),"[41.7994934, 44.799850233871545]",,
-Rugby,Germany,Hamburger,Rugby-Arena Stadtpark (Hamburg),"[53.59749995, 10.029414671958378]",,
-Rugby,Germany,BSV 1892,Berliner SV 1892 Rugby (Berlin),"[52.48096492300823, 13.299813112559223]",,
-Rugby,Germany,Germania List,Sportplatz Schneckenburgerstrasse (Hanover),"[52.40470245377135, 9.76962043954483]",,
-Rugby,Germany,Heidelberg,Fritz-Grunebaum-Sportpark (Heidelberg),"[49.390600199999994, 8.668220884375014]",,
-Rugby,Germany,Munchen,Bezirkssportanlage Ludwig-Hunger-Straße 11 (München),"[]",,
-Rugby,Germany,RK 03 Berlin,Stadion Buschallee (Berlin),"[52.554320950000005, 13.485651508747862]",,
-Rugby,Germany,Frankfurt,Sportanlage an der Feldgerichtstrasse (Frankfurt am Main),"[]",,
-Rugby,Germany,St. Pauli,Hamburger Rugby-Verband e.V. (Hamburg),"[]",,
-Rugby,Germany,Hannover 78,German sports club Hannover est. 1878 e.V. (Hannover),"[]",,
-Rugby,Germany,Koln,Rugby-Park Köln (Cologne),"[50.902212649999996, 6.9150132874385335]",,
-Rugby,Germany,Luxemburg,Stade Boy Konen (Luxembourg City),"[]",,
-Rugby,Germany,Neuenheim,Museumsplatz an der Tiergartenstraße (Heidelberg),"[]",,
-Rugby,Ireland,Garryowen,Dooradoyle (Limerick),"[52.6359639, -8.6494406]",,
-Rugby,Ireland,Armagh,Palace Grounds (Armagh),"[]",,
-Rugby,Ireland,Ballynahinch,Ballymacarn Park (Ballynahinch),"[54.3864169, -5.915416163592541]",,
-Rugby,Ireland,St Mary's College,Templeville Road (Dublin),"[53.29984715122431, -6.300938623808981]",,
-Rugby,Ireland,UCD,UCD Bowl (Dublin),"[53.31044795, -6.22812072463006]",,
-Rugby,Ireland,Clontarf,Castle Avenue (Dublin),"[53.36756526918506, -6.203903681950917]",,
-Rugby,Ireland,Cork Con,Temple Hill (Cork),"[]",,
-Rugby,Ireland,Terenure College,Lakelands Park (Dublin),"[53.30647088910005, -6.291874068029136]",,
-Rugby,Ireland,Young Munster,Tom Clifford Park (Limerick),"[52.6462257, -8.62924207666424]",,
-Rugby,Ireland,Lansdowne,Aviva Stadium (Dublin),"[53.3352254, -6.2281850790431115]",,
-Rugby,Italy,Fiamme Oro,Centro Sportivo Polizia di Stato (Rome),"[41.93489495, 12.483546262112869]",,
-Rugby,Italy,Viadana,Stadio Luigi Zaffanella (Viadana),"[44.93408495, 10.51800433342304]",,
-Rugby,Italy,Lazio,Giulio Onesti Olimpic Preparation Center (Rome),"[]",,
-Rugby,Italy,Mogliano,Stadio Maurizio Quaggia (Mogliano Veneto),"[45.5556818, 12.244697826648787]",,
-Rugby,Italy,Vicenza,Rugby Arena (Vicenza),"[]",,
-Rugby,Italy,Rugby Lyons,Stadio Comunale Beltrametti (Piacenza),"[45.0302592, 9.692183446167466]",,
-Rugby,Italy,Colorno,HBS Rugby Stadium (Colorno),"[]",,
-Rugby,Italy,Emilia,Stadio Mirabello (Reggio nell'Emilia),"[44.6932044, 10.64119725724386]",,
-Rugby,Italy,Petrarca Padova,Stadio centro memo geremia (Padua),"[]",,
-Rugby,Italy,Rovigo,Stadio Mario Battaglini (Rovigo),"[45.0792024, 11.796788952750397]",,
-Rugby,Netherlands,AAC,Stichting Sportpark de Eendracht (Amsterdam),"[]",,
-Rugby,Netherlands,BRC,Bredase Rugby Club (Breda),"[]",,
-Rugby,Netherlands,Haarlem,RFC Haarlem (Haarlem),"[]",,
-Rugby,Netherlands,Hoek van Holland,Rugbyclub Hoek van Holland (Hoek van Holland),"[51.9832008, 4.1264339]",,
-Rugby,Netherlands,Oisterwijk,RFC Oisterwijk Oysters (Oisterwijk),"[]",,
-Rugby,Netherlands,Dukes,Rugbyclub The Dukes ('s-Hertogenbosch),"[51.68584175, 5.317061958360453]",,
-Rugby,Netherlands,LRC DIOK,RC DIOK (Leiden),"[]",,
-Rugby,Netherlands,Castricumse,Sportpark Wouterland (Castricum),"[52.561440899999994, 4.662990633666492]",,
-Rugby,Netherlands,Eemland,Fit Academie Bokkeduinen (Amersfoort),"[52.1573758, 5.3481479]",,
-Rugby,Netherlands,Gooi,Rugby Club 't Gooi (Naarden),"[52.292829, 5.1742614]",,
-Rugby,Netherlands,RRC,Rotterdamse Rugby Club (Rotterdam),"[51.93359595, 4.533822338581284]",,
-Rugby,Netherlands,Haagse,Haagsche Rugby Club (Den Haag),"[52.108243599999994, 4.32996598633923]",,
-Rugby,Poland,Bialystok,Stadion Miejski next to Białystok City Stadium (Bialystok),"[]",,
-Rugby,Poland,Budowlani Lublin,Stadium on Krasińskiego 11 (Lublin),"[]",,
-Rugby,Poland,Juvenia Krakow,Juvenia Stadium (Kraków),"[]",,
-Rugby,Poland,Ogniwo Sopot,Stadium on Jana z Kolna 18 (Sopot),"[]",,
-Rugby,Poland,Pogon Awenta Siedlce,Stadium on Jana Pawła II 6 (Siedlce),"[]",,
-Rugby,Poland,Budowlani Lodz,ŁKS Stadium (Łódź),"[51.758947899999995, 19.42629376548627]",,
-Rugby,Poland,Lechia Gdansk,Gdańsk Sports Center Stadium (Gdańsk),"[]",,
-Rugby,Poland,Orkan Sochaczew,Stadium on Warszawska 80 (Sochaczew),"[]",,
-Rugby,Poland,Arka Gdynia,National Rugby Stadium (Gdynia),"[]",,
-Rugby,United Kingdom,Hawick,Mansfield Park (Hawick),"[55.43214245, -2.766669199734209]",,
-Rugby,United Kingdom,Edinburgh Academical,Raeburn Place (Edinburgh),"[55.9605569, -3.216084301521672]",,
-Rugby,United Kingdom,Marr,Fullerton Park (Troon),"[]",,
-Rugby,United Kingdom,Ayr,Ayr Rugby Football Club (Ayr),"[55.42623883271333, -4.634823629616927]",,
-Rugby,United Kingdom,Kelso,Poynder Park (Kelso),"[]",,
-Rugby,United Kingdom,Currie,Malleny Park (Balerno),"[55.8870992, -3.335098479138499]",,
-Rugby,United Kingdom,Glasgow Hawks,Balgray Stadium (Glasgow),"[55.88710256435055, -4.309748344932646]",,
-Rugby,United Kingdom,Musselburgh,Stoneyhill Stadium (Musselburgh),"[55.94255478571917, -3.0672102985504397]",,
-Rugby,United Kingdom,Selkirk,Philiphaugh Stadium (Selkirk),"[55.599070271100146, -2.723338056832191]",,
-Rugby,United Kingdom,Watsonians,New Myreside (Edinburgh),"[55.92831485, -3.22019823375795]",,
-Rugby,United Kingdom,Heriots 2,Goldenacre Sports Ground (Edinburgh),"[55.970614242039765, -3.2038300179387185]",,
-Rugby,United Kingdom,Melrose,Melrose Rugby Football Club (Melrose),"[55.599183873907194, -2.7233032007725915]",,
-Rugby,Spain,Pozuelo,Campo de Rugby Valle de las Cañas (Pozuelo de Alarcón),"[40.42425119352217, -3.8177348089997873]",,
-Rugby,Spain,El Salvador,Estadio Pepe Rojo (Valladolid),"[41.65992155, -4.672272843806418]",,
-Rugby,Spain,UE Santboiana,Estadi Baldiri Aleu (Sant Boi de Llobregat),"[41.340327200000004, 2.0382109785198295]",,
-Rugby,Spain,Alcobendas,Campo de Rugby Las Terrazas (Madrid),"[40.529594599999996, -3.6376336500000024]",,
-Rugby,Spain,Ciencias Sevilla,Instalaciones Deportivas La Cartuja (Seville),"[37.42028, -6.002978845312501]",,
-Rugby,Spain,CR La Vila,Campo de Rugby El Pantano (La Vila Joiosa),"[38.53253400360621, -0.2540942457409946]",,
-Rugby,Spain,Complutense Cisneros,Campo Central de la Ciudad Universitaria (Madrid),"[40.43796422189587, -3.72832154197399]",,
-Rugby,Spain,Barcelona,La Teixonera (Barcelona),"[41.423173, 2.1459698]",,
-Rugby,Spain,AMPO Ordizia,Estadio Municipal de Altamira (Ordizia),"[43.05274005, -2.1726584181460664]",,
-Rugby,Spain,Valladolid RAC,Estadio Pepe Rojo (Valladolid),"[41.65992155, -4.672272843806418]",,
-Rugby,Spain,Burgos,Campo de Rugby Bienvenido Nieto (Burgos),"[42.34340415, -3.726478401078641]",,
-Rugby,Spain,Les Abelles,Polideportivo Quatre Carreres (Valencia),"[39.4508053, -0.3629515]",,
+Rugby,United Kingdom,Exeter Chiefs W,Sandy Park (Exeter),"[50.70959916282149, -3.4683395204340126]",Sandy Park (Exeter),None
+Rugby,United Kingdom,Trailfinders W,Trailfinders Sports Ground (London),"[51.52475837356171, -0.3294050399757237]",None,None
+Rugby,United Kingdom,Leicester Tigers W,Mattioli Woods Welford Road (Leicester),"[52.62418517348171, -1.133079330714958]",None,None
+Rugby,United Kingdom,Harlequins W,Twickenham Stoop (London),"[51.4501757, -0.34425153275597514]",None,None
+Rugby,United Kingdom,Bristol Bears W,Shaftesbury Park (Bristol),"[51.49812845187299, -2.5299213826319433]",None,Bristol W
+Rugby,United Kingdom,Gloucester-Hartpury W,Kingsholm Stadium (Gloucester),"[51.8715598, -2.242914392089339]",None,GLH W
+Rugby,United Kingdom,Saracens W,StoneX Stadium (London),"[51.603358650000004, -0.22424629294014614]",None,None
+Rugby,United Kingdom,Sale Sharks W,CorpAcq Stadium Heywood Road (Manchester),"[53.41612085425326, -2.3212830032106258]",None,None
+Rugby,United Kingdom,Loughborough Lightning W,Franklin's Gardens (Northampton),"[52.2394934, -0.9195815272201058]",None,Loughborough W
+Rugby,France,Stade Toulousain,Stade Ernest-Wallon (Toulouse),"[43.62189805, 1.4153673012506274]",Stade Ernest-Wallon (Toulouse),None
+Rugby,France,Racing 92,Paris La Défense Arena (Nanterre),"[48.89567665, 2.229658055848475]",Paris La Défense Arena (Nanterre),None
+Rugby,France,Section Paloise,Stade du Hameau (Pau),"[43.309534400000004, -0.31693230507797243]",Section Paloise (Pau),None
+Rugby,France,USA Perpignan,Stade Aimé Giral (Perpignan),"[42.71546975, 2.891500982878145]",Stade Aimé Giral (Perpignan),None
+Rugby,France,RC Vannes,Stade de la Rabine (Vannes),"[47.6518508, -2.7610828]",Stade de la Rabine (Vannes),Vannes
+Rugby,France,Union Bordeaux-Bègles,Stade Chaban-Delmas (Bordeaux),"[44.82930795, -0.5982637651385234]",Stade Chaban-Delmas (Bordeaux),Bordeaux Begles
+Rugby,France,RC Toulon,Stade Mayol (Toulon),"[43.11899495, 5.936574220761383]",Stade Mayol (Toulon),RC Toulonnais
+Rugby,France,Aviron Bayonnais,Stade Jean-Dauger (Bayonne),"[43.485226600000004, -1.4796116187949009]",Stade Jean-Dauger (Bayonne),None
+Rugby,France,LOU Rugby,Matmut Stadium Gerland (Lyon),"[45.723776150000006, 4.832254170853934]",Stade de Gerland (Lyon),Lyon
+Rugby,France,Stade Français Paris,Stade Jean Bouin (Paris),"[48.84329375, 2.2529519861964875]",Stade Jean Bouin (Paris),Stade Francais Paris
+Rugby,France,Montpellier Hérault Rugby,GGL Stadium (Montpellier),"[43.593034349999996, 3.849691013136259]",GGL Stadium (Montpellier),Montpellier
+Rugby,France,ASM Clermont,Stade Marcel Michelin (Clermont-Ferrand),"[45.78937105, 3.1060252789532106]",Stade Marcel-Michelin (Clermont-Ferrand),Clermont
+Rugby,France,Castres Olympique,Stade Pierre-Fabre (Castres),"[43.6108305, 2.2526973415443283]",Stade Pierre-Fabre (Castres),None
+Rugby,France,Stade Rochelais,Stade Marcel Deflandre (La Rochelle),"[46.1581749, -1.1779964203816062]",Stade Marcel-Deflandre (La Rochelle),None
+Rugby,France,SU Agen,Stade Armandie (Agen),"[44.192602949999994, 0.6203083475044563]",None,Agen
+Rugby,France,Soyaux-Angoulême XV,Stade Chanzy (Angoulême),"[45.6417878, 0.17631606287664367]",None,Angouleme
+Rugby,France,Stade Aurillacois,Stade Jean Alric (Aurillac),"[44.92445325, 2.429698209316816]",None,Aurillac
+Rugby,France,CA Brive,Stade Amédée-Domenech (Brive-la-Gaillarde),"[45.1617434, 1.5485002675684898]",None,
+Rugby,France,Colomiers Rugby,Stade Michel Bendichou (Colomiers),"[43.6197885, 1.3271949149025155]",None,Colomiers
+Rugby,France,US Montalbanaise,Stade Sapiac (Montauban),"[44.01032985, 1.351793764955548]",None,Montauban
+Rugby,France,Stade Niçois Rugby,Stade Marcel Volot (Nice),"[43.690413831983804, 7.192186451125249]",None,Stade Nicois
+Rugby,France,Provence Rugby,Stade Maurice David (Aix-en-Provence),"[43.52772405, 5.422814324213617]",None,None
+Rugby,France,Oyonnax Rugby,Stade Charles Mathon (Oyonnax),"[46.253651000000005, 5.644874541517435]",Stade Charles-Mathon (Oyonnax),US Oyonnax
+Rugby,France,AS Béziers Hérault,Stade Raoul Barrière (Béziers),"[43.334742649999995, 3.265982153151149]",None,Beziers
+Rugby,France,Stade Montois Rugby,Stade André et Guy Boniface (Mont-de-Marsan),"[43.89544211906886, -0.48274830778917055]",None,Mont-de-Marsan
+Rugby,France,USON Nevers,Stade du Pré Fleuri (Nevers),"[46.9755158, 3.160216196476208]",None,Nevers
+Rugby,France,Valence Romans,Stade Georges Pompidou (Valence),"[44.9455883, 4.919292631752025]",None,None
+Rugby,France,FC Grenoble Rugby,Stade des Alpes (Grenoble),"[45.187394499999996, 5.740243412667947]",None,Grenoble FC
+Rugby,France,Biarritz Olympique PB,Parc des Sports d'Aguilera (Biarritz),"[43.483115850000004, -1.5369909671649327]",None,Biarritz Olympique
+Rugby,France,US Dax,Stade Maurice Boyau (Dax),"[43.712134750000004, -1.045827701431823]",None,None
+Rugby,France,SC Albi,Stadium Municipal d'Albi (Albi),"[43.92219784739392, 2.166609928298247]",None,Albi
+Rugby,France,Stado Tarbes Pyrenees Rugby,Stade Maurice Trélut (Tarbes),"[43.219901050000004, 0.07563240392248922]",None,Tarbes Pyrenees
+Rugby,France,Stade Olympique Chamberien Rugby Savoie Mont-blanc,Chambéry Savoie Stadium (Chambéry),"[45.5734221, 5.908111796403768]",None,Chambery
+Rugby,France,Rouen Normandie Rugby,Stade Robert Diochon (Rouen),"[49.41108425, 1.0706461958500109]",None,Rouen Normandie
+Rugby,France,Ol Marcquois Rugby,Stadium Lille Métropole (Marcq-en-Baroeul),"[50.63104516608647, 3.1358433241152186]",None,Ol. Marcquois
+Rugby,France,CS Bourgoin Jallieu,Stade Pierre Rajon (Bourgoin-Jallieu),"[45.589575999999994, 5.287700777123847]",None,CS Bourgoin-Jallieu
+Rugby,France,US Bressane,Stade Marcel-Verchère (Bourg-en-Bresse),"[46.2100024, 5.237150019790997]",None,Bressane
+Rugby,France,CA Perigourdin,Stade Roger Dantou (Périgueux),"[45.190047676749415, 0.7000774072211456]",None,Perigourdin
+Rugby,France,Stade Langonnais,Stade Comberlin (Langon),"[44.54951575, -0.25559220077026307]",None,None
+Rugby,France,Rugby Club Massy Essonne,Stade Jules-Ladoumègue (Massy),"[48.7309238, 2.2962939978910475]",None,Massy
+Rugby,France,Rugby Club de Suresnes,Stade Jean-Moulin (Suresnes),"[48.876728025986864, 2.2141722565558175]",None,Suresnes
+Rugby,France,Racing Club Narbonnais,Parc des Sports Et de l'Amitié (Narbonne),"[43.1814043, 3.0193633837087743]",None,Narbonne
+Rugby,France,US Carcassonnaise,Stade Albert Domec (Carcassonne),"[43.21788855, 2.364417748767847]",None,Carcassonne
+Rugby,France,Blagnac Sporting Club Rugby W,Stade Ernest Argelès (Blagnac),"[43.6367959, 1.4015269407753392]",None,Blagnac W
+Rugby,France,Montpellier Hérault Rugby W,Stade Sabathé (Montpellier),"[43.59803535, 3.8698418550288194]",None,Montpellier W
+Rugby,France,Stade Villeneuvois Lille Metropole W,Stade Thery - Terrain Honneur (Lille),"[50.612297600000005, 3.1482753760498925]",None,Lille W
+Rugby,France,Stade Rennais Rugby W,Stade du Commandant Bougouin (Rennes),"[48.10872225251731, -1.6631148259893718]",None,Rennes W
+Rugby,France,AC Bobigny 93 Rugby W,Stade Henri Wallon (Bobigny),"[48.90232063001733, 2.4435175801810294]",None,Bobigny W
+Rugby,France,LOU Rugby W,Matmut Stadium Gerland (Lyon),"[45.723776150000006, 4.832254170853934]",None,Lyon W
+Rugby,France,ASM Romagnat Rugby Féminin W,Stade Des Perouses (Romagnat),"[45.73307217218779, 3.1025820622350913]",None,Romagnat W
+Rugby,France,Stade Bordelais W,Stade Sainte Germaine - Terrain Jacques Chatenet (Bordeaux),"[44.87062792742976, -0.6177192790333473]",None,None
+Rugby,France,Stade Toulousain Rugby W,Stade Ernest-Wallon (Toulouse),"[43.62189805, 1.4153673012506274]",None,Toulouse W
+Rugby,France,FC Grenoble Amazones W,Stade Lesdiguières (Grenoble),"[45.1660849, 5.709517753182353]",None,Grenoble W
+Rugby,Georgia,Tao Samtskhe-Javakheti,Aspindza Field (Aspindza),"[41.561714732138995, 43.25428971205132]",None,Tao
+Rugby,Georgia,RC Kochebi Bolnisi,Tamaz Stepania Stadium (Bolnisi),"[41.4481476, 44.5351521]",None,Bolnisi Kochebi
+Rugby,Georgia,RC Batumi,Batumi Rugby Stadium (Batumi),"[41.62847719206476, 41.62502136516995]",None,Batumi
+Rugby,Georgia,Ares Kutaisi,Aia Arena (Kutaisi),"[42.240988145495045, 42.685167118154865]",None,None
+Rugby,Georgia,Khvamli Tbilisi,Mukhiani Arena (Tbilisi),"[41.777076388711045, 44.83091829750934]",None,None
+Rugby,Georgia,RC Kazbegi,RC Kazbegi Rugby Stadium (Stephantsminda),"[42.653286176130145, 44.639566325592014]",None,Kazbegi
+Rugby,Georgia,RC Rustavi Kharebi,Kharebi Arena (Rustavi),"[41.571531083010704, 44.99390388365864]",None,Kharebi Rustavi
+Rugby,Georgia,RC Aia Kutaisi,Aia Arena (Kutaisi),"[42.240988145495045, 42.685167118154865]",None,AIA Kutaisi
+Rugby,Georgia,Lelo Saracens Tbilisi,Lelo Arena (Tbilisi),"[41.79066705, 44.758246475293845]",None,Lelo Tbilisi
+Rugby,Georgia,RC Armia Tbilisi,Avchala Stadium (Tbilisi),"[41.7994934, 44.799850233871545]",None,Armia Tbilisi
+Rugby,Germany,Hamburger RC,Rugby-Arena Stadtpark (Hamburg),"[53.59749995, 10.029414671958378]",None,Hamburger
+Rugby,Germany,Berliner SV 1892,Berliner SV 1892 Rugby (Berlin),"[52.48096492300823, 13.299813112559223]",None,BSV 1892
+Rugby,Germany,Germania List,Sportplatz Schneckenburgerstrasse (Hanover),"[52.40470245377135, 9.76962043954483]",None,None
+Rugby,Germany,RG Heidelberg 1898,RG Heidelberg in 1898 e.V. (Heidelberg),"[49.390600199999994, 8.668220884375014]",None,Heidelberg
+Rugby,Germany,München RFC,München Rugby Football Club e.V. (München),"[48.11924728074287, 11.467536685331131]",None,Munchen
+Rugby,Germany,RK 03 Berlin,Rugby Klub 03 Berlin e.V. (Berlin),"[52.55665170667594, 13.489029630407064]",None,None
+Rugby,Germany,SC Frankfurt 1880,SC 1880 Frankfurt Rugby (Frankfurt am Main),"[50.13464327236479, 8.678923840450766]",None,Frankfurt
+Rugby,Germany,FC St. Pauli,Hamburger Rugby-Verband e.V. (Hamburg),"[53.59749333333751, 10.02940084845818]",None,St. Pauli
+Rugby,Germany,Hannover 78,German sports club Hannover est. 1878 e.V. (Hannover),"[52.3553312480321, 9.734077136821027]",None,None
+Rugby,Germany,RSV Köln,Rugby-Park Köln (Cologne),"[50.902212649999996, 6.9150132874385335]",None,Koln
+Rugby,Germany,RC Luxemburg,Stade Boy Konen (Luxembourg City),"[49.580918757832194, 6.0900578355098345]",None,Luxemburg
+Rugby,Germany,SC Neuenheim 1902,Sportclub Neuenheim 1902 e.V. (Heidelberg),"[49.416636133041926, 8.660212396191687]",None,Neuenheim
+Rugby,Germany,Heidelberger Ruderklub,RG Heidelberg in 1898 e.V. (Heidelberg),"[49.39062606200943, 8.667060262604245]",None,Heidelberger
+Rugby,Germany,TSV Handschuhsheim,Sportzentrum Nord (Heidelberg),"[49.42566410022448, 8.662715014251523]",None,Handschuhsheim
+Rugby,Germany,Berliner RC,Sachtlebenstraße 36 (Berlin),"[52.41413725217107, 13.250951574620943]",None,Berliner
+Rugby,Germany,RC Leipzig,Rugby Club Leipzig e.V (Leipzig),"[51.37886510682717, 12.294775929904048]",None,Leipzig
+Rugby,Ireland,Clontarf,Castle Avenue (Dublin),"[53.36759603714328, -6.205884952725412]",None,None
+Rugby,Ireland,Cork Constitution,Temple Hill (Cork),"[51.890300809464286, -8.434713220914505]",None,Cork Con
+Rugby,Ireland,Terenure College,Lakelands Park (Dublin),"[53.305652457054464, -6.294423855358895]",None,None
+Rugby,Ireland,Young Munster,Tom Clifford Park (Limerick),"[52.64638775345556, -8.628323622007827]",None,None
+Rugby,Ireland,Lansdowne,Aviva Stadium (Dublin),"[53.33536140359577, -6.228395554937073]",None,None
+Rugby,Ireland,City of Armagh,Palace Grounds (Armagh),"[54.34349348102719, -6.651204506573229]",None,Armagh
+Rugby,Ireland,Garryowen,Dooradoyle (Limerick),"[52.63454457430567, -8.64587129762683]",None,None
+Rugby,Ireland,St Mary's College,Templeville Road (Dublin),"[53.30276598743603, -6.311782994384609]",None,None
+Rugby,Ireland,UCD,UCD Bowl (Dublin),"[53.31044795, -6.22812072463006]",None,None
+Rugby,Ireland,Ballynahinch,Ballymacarn Park (Ballynahinch),"[54.3864169, -5.915416163592541]",None,None
+Rugby,Italy,G.S. Fiamme Oro Rugby Roma,Centro Sportivo Polizia di Stato (Rome),"[41.80728803310821, 12.317414257095175]",None,Fiamme Oro
+Rugby,Italy,Rugby Viadana 1970,Stadio Luigi Zaffanella (Viadana),"[44.93408495, 10.51800433342304]",None,Viadana
+Rugby,Italy,S.S. Lazio Rugby 1927,Stadio Centro Sportivo Giulio Onesti (Rome),"[41.93771389819488, 12.492367010892828]",None,Lazio
+Rugby,Italy,Mogliano Veneto Rugby,Stadio Maurizio Quaggia (Mogliano Veneto),"[45.55558317779935, 12.244046686031286]",None,Mogliano
+Rugby,Italy,Rangers Rugby Vicenza,Rugby Arena (Vicenza),"[45.52924304632588, 11.523261374026843]",None,Vicenza
+Rugby,Italy,Rugby Lyons,Stadio di Rugby Walter Beltrametti (Piacenza),"[45.0302592, 9.692183446167466]",None,None
+Rugby,Italy,Rugby Colorno 1975,HBS Rugby Stadium Gino Maini (Colorno),"[]",None,Colorno
+Rugby,Italy,Valorugby Emilia,Stadio Mirabello (Reggio nell'Emilia),"[44.6932044, 10.64119725724386]",None,Emilia
+Rugby,Italy,Rugby Petrarca,Impianti Memo Germia Centrale (Padua),"[45.37258851441916, 11.865631639732241]",None,Petrarca Padova
+Rugby,Italy,Rugby Rovigo Delta,Stadio Mario Battaglini (Rovigo),"[45.07960293243316, 11.796834794372224]",None,Rovigo
+Rugby,Netherlands,AAC,Sportpark de Eendracht (Amsterdam),"[52.37952038212182, 4.78690015146679]",None,None
+Rugby,Netherlands,BRC,Sportboulevard Wisselaar (Breda),"[51.617147718176305, 4.77365875543464]",None,None
+Rugby,Netherlands,RFC Haarlem,Van der Aart Sportpark (Haarlem),"[52.422897380338846, 4.653676392810225]",None,Haarlem
+Rugby,Netherlands,RC Hoek van Holland,Rugbyclub Hoek van Holland (Hoek van Holland),"[51.98345335514502, 4.125597690345091]",None,Hoek van Holland
+Rugby,Netherlands,RFC Oisterwijk Oysters,RFC Oisterwijk Oysters (Oisterwijk),"[51.57599395367844, 5.223283279747281]",None,Oisterwijk
+Rugby,Netherlands,RC The Dukes,Rugbyclub The Dukes ('s-Hertogenbosch),"[51.686129408642984, 5.316194060627435]",None,Dukes
+Rugby,Netherlands,RC DIOK,RC DIOK (Leiden),"[52.16006080422969, 4.454519737631287]",None,LRC DIOK
+Rugby,Netherlands,Cas RC,Sportpark Wouterland (Castricum),"[52.561440899999994, 4.662990633666492]",None,Castricumse
+Rugby,Netherlands,RC Eemland,Sportpark de Bokkeduinen (Amersfoort),"[52.15837106855737, 5.346695554533162]",None,Eemland
+Rugby,Netherlands,RC 't Gooi,Rugby Club 't Gooi (Naarden),"[52.29224027996278, 5.174917742152198]",None,Gooi
+Rugby,Netherlands,RRC,Sportcomplex Duivensteijn (Rotterdam),"[51.96435409575571, 4.500758970138632]",None,None
+Rugby,Netherlands,Haagsche RC,Haagsche Rugby Club (Den Haag),"[52.10779211095982, 4.329024987816484]",None,Haagse
+Rugby,Poland,Rugby Bialystok,Stadion Miejski next to Białystok City Stadium (Bialystok),"[53.10777138779134, 23.14891436745208]",None,Bialystok
+Rugby,Poland,Budowlani Lublin,Stadium on Krasińskiego 11 (Lublin),"[51.24233841757029, 22.51309016733103]",None,None
+Rugby,Poland,Juvenia Kraków,Juvenia Stadium (Kraków),"[50.05867324258906, 19.906456946379635]",None,Juvenia Krakow
+Rugby,Poland,Ogniwo Sopot,Stadium on Jana z Kolna 18 (Sopot),"[54.43368596602892, 18.56612004422584]",None,None
+Rugby,Poland,Awenta Pogoń Siedlce,Stadium on Jana Pawła II 6 (Siedlce),"[52.17893033536266, 22.297781906915844]",None,Pogon Awenta Siedlce
+Rugby,Poland,Budowlani Lodz,KS Budowlani Rugby (Łódź),"[Górnicza 590-001 Łódź, Polen]",None,None
+Rugby,Poland,Lechia Gdansk,Gdański Stadion Lekkoatletyczny i Rugby (Gdańsk),"[54.391136825441464, 18.582462192637482]",None,None
+Rugby,Poland,Orkan Sochaczew,Stadion Orkana Sochaczew (Sochaczew),"[52.227144624856436, 20.24966098719165]",None,None
+Rugby,Poland,RC Arka Gdynia,National Rugby Stadium (Gdynia),"[54.497804517664726, 18.531191167984442]",None,Arka Gdynia
+Rugby,United Kingdom,Hawick RFC,Mansfield Park (Hawick),"[55.43224761489973, -2.7664933695235288]",None,Hawick
+Rugby,United Kingdom,Edinburgh Academical FC,Edinburgh Academicals Sports Centre (Edinburgh),"[55.9605569, -3.216084301521672]",None,Edinburgh Academical
+Rugby,United Kingdom,Marr RFC,Marr Rugby Club (Troon),"[55.53587101027247, -4.623751633509095]",None,Marr
+Rugby,United Kingdom,Ayr RFC,Ayr Rugby Football Club (Ayr),"[55.42623883271333, -4.634823629616927]",None,Ayr
+Rugby,United Kingdom,Kelso RFC,Kelso Rugby Football Club (Kelso),"[55.60342159835986, -2.436411155507533]",None,Kelso
+Rugby,United Kingdom,Currie Chieftains,Malleny Park (Balerno),"[55.8870992, -3.335098479138499]",None,Currie
+Rugby,United Kingdom,Glasgow Hawks RFC,Balgray Stadium (Glasgow),"[55.88710256435055, -4.309748344932646]",None,Glasgow Hawks
+Rugby,United Kingdom,Musselburgh RFC,Musselburgh Rugby Football Club (Musselburgh),"[Musselburgh Rugby Football Club]",None,Musselburgh
+Rugby,United Kingdom,Selkirk RFC,Selkirk Rugby Club (Selkirk),"[55.5478148770431, -2.8577733910320915]",None,Selkirk
+Rugby,United Kingdom,Watsonian FC,Watsonians Football Club (Edinburgh),"[55.92791684396208, -3.2238292081406117]",None,Watsonians
+Rugby,United Kingdom,Heriot's Rugby Men,Heriot's Rugby Club (Edinburgh),"[55.96887810684735, -3.205467557127144]",None,Heriots 2
+Rugby,United Kingdom,Melrose Rugby,Melrose Rugby Football Club (Melrose),"[55.599834602486624, -2.7238235042570813]",None,Melrose
+Rugby,Spain,Pozuelo Rugby Unión,Campo de Rugby Valle de las Cañas (Pozuelo de Alarcón),"[40.424170937531926, -3.8176886804482137]",None,Pozuelo
+Rugby,Spain,Club de Rugby El Salvador,Estadio Pepe Rojo (Valladolid),"[41.659914623200066, -4.672775973645993]",None,El Salvador
+Rugby,Spain,Unió Esportiva Santboiana,Estadi Baldiri Aleu (Sant Boi de Llobregat),"[41.340327200000004, 2.0382109785198295]",None,UE Santboiana
+Rugby,Spain,Silicius Alcobendas Rugby,Campo de Rugby Las Terrazas (Madrid),"[40.529594599999996, -3.6376336500000024]",None,Alcobendas
+Rugby,Spain,Real Ciencias La Carloteña,Sports facilities La Cartuja (Seville),"[37.42028, -6.002978845312501]",None,Ciencias Sevilla
+Rugby,Spain,La Vila Rugby Club,Estadio de Rugby de Villajoyosa (La Vila Joiosa),"[38.53253400360621, -0.2540942457409946]",None,CR La Vila
+Rugby,Spain,Complutense Cisneros,Estadio Nacional Complutense (Madrid),"[40.43784068231639, -3.7284921161328497]",None,None
+Rugby,Spain,Barça Rugby,Camps municipals de futbol i rugbi Vall d'Hebron-Teixonera (Barcelona),"[41.425843928524436, 2.145849034741767]",None,Barcelona
+Rugby,Spain,AMPO Ordizia,Estadio Municipal de Altamira (Ordizia),"[43.05274005, -2.1726584181460664]",None,None
+Rugby,Spain,Valladolid Rugby Asociación Club,Estadio Pepe Rojo (Valladolid),"[41.659914623200066, -4.672775973645993]",None,Valladolid RAC
+Rugby,Spain,Recoletas Burgos Caja Rural,Campo de Rugby Bienvenido Nieto (Burgos),"[42.34340415, -3.726478401078641]",None,Burgos
+Rugby,Spain,Les Abelles,Polideportivo Quatre Carreres (Valencia),"[39.4508053, -0.3629515]",None,None
 
 
 
