@@ -38,13 +38,15 @@ Basketball,Austria,UBSC-DBBC Graz W,Raiffeisen Sportpark (Graz),"[47.05513205664
 Basketball,Austria,Basket Flames W,Wiener Stadthalle / SPH Mollardgasse / SPH Steigenteschgasse (Vienna) ,"[48.20232650774567, 16.33185055869762] / [48.18950853945255, 16.34206225280313] / [48.24733985898323, 16.436383327290443]",Wiener Stadthalle (Vienna),None
 Basketball,Austria,Vienna United W,Posthalle (Vienna),"[48.224925320026635, 16.329237998824375]",Posthalle (Vienna),None
 Basketball,Austria,DBB Wels,Raiffeisen Arena (Wels),"[48.15496008664098, 14.0071824267687]",FCN KFZ Bauer Arena (Wels),DBB LZ OO W
+Basketball,Belgium,Brussels Basketball,Complexe Sportif Neder-Over-Heembeek (Brussels),"[50.892937248111686, 4.37694798710484]",Piscine de Neder-Over-Hembeek (Brussels),Circus Brussels
+Basketball,Belgium,Hubo Limburg United,Sporthal Alverberg (Hasselt),"[50.93906003900942, 5.321084546007]",Sporthal Alverberg (Hasselt),Limburg
+Basketball,Belgium,Union Mons-Hainaut,Mons.Arena (Mons),"[50.45009102433165, 3.8755495320697686]",Mons.Arena (Mons),Belfius Mons
 Basketball,Belgium,Mailleux Comblain,Basketball Club Mailleux Comblain (Comblain-au-Pont),"[50.47663569643809, 5.575889665682893]",Salle Omnisports de Comblain (Comblain-au-Pont),None
 Basketball,Belgium,Kangoeroes Mechelen,Stedelijke Sporthal Winketkaai (Mechelen),"[51.0332043717458, 4.466684007782978]",Stedelijke Sporthal Winketkaai (Mechelen),Mechelen
 Basketball,Belgium,Okapi Aalst,Okapi Forum (Aalst),"[50.93991226931659, 4.054664113944204]",Okapi Forum (Aalst),None
 Basketball,Belgium,Leuven Bears,Sportoase (Leuven),"[50.86794975104407, 4.711016126535955]",Sportoase (Leuven),None
 Basketball,Belgium,Filou Oostende,Coretec Dôme (Oostende),"[51.21754068066271, 2.8878157812652194]",COREtec Dome (Oostende),Oostende
 Basketball,Belgium,Spirou Charleroi,Dôme (Charleroi),"[50.424111779169095, 4.445788490152863]",Dome Charleroi (Charleroi),None
-Basketball,Belgium,Basketbal Academie Limburg,Sporthal Boshoven (Weert),"[51.257499446170044, 5.692625762167382]",Sporthal Alverberg (Hasselt),Limburg
 Basketball,Belgium,Kortrijk Spurs,Sportcampus Lange Munte (Kortrijk),"[50.80730927041812, 3.3013305505475743]",Sporthal Lange Munte (Kortrijk),Kortrijk
 Basketball,Belgium,Antwerp Giants,Lotto Arena (Antwerp),"[51.230122699999995, 4.441849707846401]",Lotto Arena (Antwerp),None
 Basketball,Belgium,SKT Ieper,Stedelijke sporthal Ieper (Ypres),"[50.84431156363346, 2.895522025177057]",None,
@@ -229,863 +231,714 @@ Basketball,Finland,Torpan Pojat II W,Pirkkolahalli (Helsinki),"[60.2321542294911
 Basketball,Finland,Pantterit W,Herttoniemenrannan liikuntahalli (Helsinki),"[60.190691681629566, 25.03216965527131]",Herttoniemenranta sports hall (Helsinki),None
 Basketball,Finland,Jyväskylä Basketball Academy W,Gradia Viitaniemen ammattioppilaitos D-sali (Jyväskylä),"[62.24750973055584, 25.727504665471635]","Gradia,Viitaniemen ammattioppilaitos (Jyväskylä)",Jyvaskyla BA W
 Basketball,Finland,Peli-Karhut II W,Steveco Areena (Kotka),"[60.485716383044334, 26.857131056425285]",Steveco-Areena (Kotka),PeKa II W
+Basketball,France,Cholet,La Meilleraie (Cholet),"[47.057829923144965, -0.896790906086903]",La Meilleraie (Cholet),None
+Basketball,France,Dijon,Palais des Sports Jean-Michel Geoffroy (Dijon),"[47.3322991, 5.0560478]",Palais des Sports Jean-Michel Geoffroy (Dijon),None
+Basketball,France,Nanterre,Palais des Sports Maurice Thorez (Nanterre),"[48.8921326, 2.2122870278731295]",Palais des Sports Maurice Thorez (Nanterre),None
+Basketball,France,Saint-Quentin,Palais des Sports Pierre Ratte (Saint Quentin),"[49.848710499999996, 3.294276179941865]",Palais des Sports Pierre Ratte (Saint Quentin),Saint Quentin
+Basketball,France,Le Mans,Antares (Le Mans),"[47.956156500000006, 0.22622395183115834]",Antares (Le Mans),None
+Basketball,France,Limoges,Palais des Sports de Beaublanc (Limoges),"[45.847518199999996, 1.243392198627046]",Palais des Sports de Beaublanc (Limoges),None
+Basketball,France,Chalon/Saône,Le Colisee (Chartres),"[48.44768225, 1.478287376016684]",Le Colisee (Chartres),Chalon/Saone
+Basketball,France,Lyon-Villeurbanne,Astroballe (Villeurbanne) / occasionally at LDLC Arena (Décines-Charpieu),"[45.76951755, 4.979945621786063] / [45.769389925785525, 4.979852517461854]",LDLC Arena (Lyon),None
+Basketball,France,Nancy,Palais des Sports Jean-Weille (Nancy),"[48.69926065, 6.139178536038338]",Palais des Sports Jean-Weille (Nancy),None
+Basketball,France,Paris,Adidas Arena (Paris),"[48.89965922884942, 2.360634131681906]",Adidas Arena (Paris),None
+Basketball,France,Strasbourg,Rhénus Sport (Strasbourg),"[48.59961606506762, 7.765313268962918]",Rhénus Sport (Strasbourg),None
+Basketball,France,Le Portel,Le Chaudron (Le Portel),"[50.71715965, 1.5844744869500107]",Le Chaudron (Le Portel),None
+Basketball,France,Gravelines-Dunkerque,Stade des Flandres (Dunkerque),"[51.03556002501126, 2.391932610852435]",Stade des Flandres (Dunkerque),None
+Basketball,France,Bourg-en-Bresse,Ekinox (Bourg-en-Bresse),"[46.1864829, 5.247713041098993]",Ekinox (Bourg-en-Bresse),JL Bourg
+Basketball,France,La Rochelle,Salle Gaston Neveur (La Rochelle),"[46.167151953084925, -1.1537693176442574]",Salle Gaston Neveur (La Rochelle),None
+Basketball,France,Monaco,Salle Gaston Médecin (Monaco),"[43.727655274522746, 7.415597776795859]",Salle Gaston Medecin (Monaco),None
+Basketball,France,Aix-Maurienne,Halle de Marlioz (Aix-les-Bains),"[45.66612803700635, 5.912536811171317]",Halle de Marlioz (Aix-les-Bains),Aix Maurienne
+Basketball,France,Nantes,La Trocardière (Nantes),"[47.17992591296505, -1.571975793284331]",Salle métropolitaine de la Trocardière (Nantes),None
+Basketball,France,Roanne,Halle André Vacheresse (Roanne),"[46.03118525, 4.0515478966606135]",Halle Andre Vacheresse (Roanne),None
+Basketball,France,Rouen,Kindarena (Rouen),"[49.448055158908524, 1.063174805631069]",Kindarena (Rouen),None
+Basketball,France,Antibes,Azur Arena (Antibes)(Antibes),"[43.606071102156285, 7.076577808447146]",Azurarena Antibes (Antibes),None
+Basketball,France,Gries-Souffel,Espace Sport La Forêt (Gries),"[48.756045414857304, 7.824080423065109]",Espace Sport La Forêt (Gries),ASA
+Basketball,France,Hyères-Toulon,Palais des Sports de Toulon (Toulon),"[43.126101, 5.914918873218786]",Palais des Sports de Toulon (Toulon),Hyeres-Toulon
+Basketball,France,Poitiers,Salle Saint-Éloi (Poitiers),"[46.59079, 0.38524649077041695]",Salle Saint-Éloi (Poitiers),None
+Basketball,France,Boulazac,Le Palio (Boulazac),"[45.1838263, 0.760784620283868]",Le Palio (Boulazac),None
+Basketball,France,Caen,Palais des Sports Caen la mer (Caen),"[49.1712762, -0.3851897260254161]",Palais des Sports Caen la mer (Caen),None
+Basketball,France,Blois,Le Jeu de Paume (Blois),"[47.601457963937634, 1.32757443584695]",Jeu de Paume (Blois),Ada Blois
+Basketball,France,Châlons-Reims,Reims Arena (Reims) / Palais des Sports Pierre de Coubertin (Chalons-en-Champagne),"[49.26423400304477, 4.032018668209055] / [48.962426984943875, 4.36509625804828]",Palais des Sports Pierre de Coubertin (Chalons-en-Champagne),Chalons-Reims
+Basketball,France,Chartres,Le Colisée (Chartres),"[48.44768225, 1.478287376016684]",Le Colisee (Chartres),None
+Basketball,France,Denain,Complexe Sportif Jean Degros (Denain),"[50.322753520710286, 3.398378239440301]",Salle Jean Degros (Denain),Denain-Voltaire
+Basketball,France,Evreux,Salle Omnisports Jean Fourré (Évreux),"[49.02211789794344, 1.1391364947374862]",Centre Omnisports - Salle Jean Fourré (Évreux),None
+Basketball,France,Fos-sur-Mer,Halle des Sports Parsemain (Fos-sur-Mer),"[43.46766327632139, 4.946475097592123]",Halle des Sports Parsemain (Fos-sur-Mer),None
+Basketball,France,Orléans,CO'Met (Orléans),"[47.87163756554864, 1.9134339674490426]",CO'met (Orleans),Orleans
+Basketball,France,Saint-Chamond-Andrezieux,Arena Saint-Etienne Métropole (Saint-Étienne),"[45.4581015, 4.487368467431698]",Arena Saint-Etienne Metropole (Saint-Étienne),St. Chamond
+Basketball,France,Vichy,Palais des Sports Pierre-Coulon (Bellerive-sur-Allier),"[46.13883415, 3.406465765933116]",Palais des Sports Pierre Coulon (Vichy),962426984943875
+Basketball,France,Pau-Lacq-Orthez,Palais des Sports de Pau (Pau),"[43.3344993, -0.3627183598257534]",Palais des Sports de Pau (Pau),Pau-Orthez
+Basketball,France,Tours Métropole Basket,Halle Monconseil (Tours),"[47.420877700000005, 0.7004407943277319]",Gymnase Halle Monconseil (Tours),Tours
+Basketball,France,Basket Landes W,Espace Francois Mitterrand (Mont-de-Marsan),"[43.897458150000006, -0.46475386949461694]",Espace Francois Mitterrand (Mont-de-Marsan),Landes W
+Basketball,France,Bourges W,Palais des sports du Prado (Bourges),"[47.0827718, 2.3856779004865967]",Palais des sports du Prado (Bourges),None
+Basketball,France,Charnay W,Salle Des Sports Principale (Charnay-lès-Mâcon),"[46.32480763772772, 4.742945059441621]",Le Cosec (Charnay-lès-Mâcon),Charnay Bourgogne Sud W
+Basketball,France,Chartres W,Le Colisée (Chartres),"[48.44768225, 1.478287376016684]",Halle Jean-Cochet (Chartres),None
+Basketball,France,Lattes Montpellier W,Palais des Sports (Lattes),"[43.5697394512704, 3.9000659149066546]",Palais des Sports de Lattes (Lattes),None
+Basketball,France,Charleville-Mézières W,La GuinGuette Arena (Charleville-Mezieres),"[49.757432237509, 4.70691282457811]",Guinguette Arena (Charleville-Mezieres),Flammes Carolo W
+Basketball,France,Villeneuve d'Ascq W,Le Palacium (Villeneuve d'Ascq),"[50.62715664553805, 3.1351657354909572]",Le Palacium (Villeneuve d'Ascq),ESB Villeneuve W
+Basketball,France,Roche Vendée W,Salle des Oudairies (La Roche-sur-Yon),"[46.671091414935404, -1.4044135133084306]",Salle des Oudairies (La Roche-sur-Yon),La Roche W
+Basketball,France,Tarbes Gespe Bigorre W,Palais des Sports Quai de l'Adour (Tarbes),"[43.23047410554192, 0.088067380203606]",Tarbes Palais des Sports (Tarbes),Tarbes GB W
+Basketball,France,Angers W,Salle Jean Bouin (Évreux),"[47.45987188373943, -0.5314724808341368]",Stade Jean-Bouin (Évreux),None
+Basketball,France,Landerneau W,La Cimenterie (Landerneau),"[48.44472735, -4.2631347204724905]",La Cimenterie (Landerneau),Landerneau Bretagne W
+Basketball,France,Lyon W,Palais des Sports de Lyon Gerland (Lyon),"[45.72411038554518, 4.828264709448995]",Gymnase Mado Bonnet (Lyon),None
+Basketball,France,Centre Fédéral de Basket-ball W,Complexe Nelson Paillou (Paris),"[48.83201467506852, 2.449221688533912]",Salle Marie Thérèse Eyquem (Paris),Centre Federal BB W
+Basketball,France,Le Havre W,Salle des Docks Oceane (Le Havre),"[49.4912750673023, 0.131863781729344]",Salle des Docks Oceane (Le Havre),None
+Basketball,France,Nice W,Salle Serge Leyrit (Nice),"[43.71492178229643, 7.291425977111834]",Salle Serge Leyrit (Nice) / None,Nice W
+Basketball,France,Voiron W,Henri Chautard Gymnasium (Voiron),"[45.36044008819043, 5.593867828779019]",Henri Chautard Gymnasium (Voiron),Pays Voironnais W
+Basketball,France,Toulouse W,Petit Palais des Sports (Toulouse),"[43.612971895719824, 1.4351175317616054]",Gymnase Compans Caffarelli (Toulouse),None
+Basketball,France,Saint-Amand W,Salle Maurice Hugot (Saint-Amand-Les-Eau),"[50.45101029519882, 3.4340322547870397]",Salle Maurice Hugot (Saint-Amand-Les-Eau),Union Hainaut W
+Basketball,France,Aulnoye W,Salle Nelson Mandela (Aulnoye-Aymeries),"[50.1967906, 3.8364145752802887]",Salle Nelson Mandela (Aulnoye-Aymeries),Aulnoye AS W
+Basketball,France,Feytiat W,Salle Roger Couderc (Feytiat),"[45.8050814, 1.3263344]",Salle Roger Couderc (Feytiat),None
+Basketball,France,Mondeville W,Halle des sports Pierre Beregovoy (Mondeville),"[49.17860458146799, -0.31728905214207725]",Halle des sports Pierre Beregovoy (Mondeville),None
+Basketball,France,Montbrison W,Complexe André Dubruc (Montbrison),"[45.609053219701195, 4.059280943721078]",Gymnase Jean-Pierre Cherblanc (Montbrison),None
+Basketball,France,USBD Alençon W,Gymnase Louvrier (Alençon),"[48.4227018, 0.08688305391560201]",Gymnase Louvrier (Alençon),USBD Alencon W
+Basketball,Georgia,Viktor Sanikidze Basketball Academy,Digomi Arena (Tbilisi),"[41.79397818229871, 44.76077936304312]",Dighomi Sports Complex (Tbilisi),VSA
+Basketball,Georgia,BC Batumi 2010,Batumi Sports Palace (Batumi),"[41.63277276966296, 41.6367138197117]",Sports School (Batumi),Batumi
+Basketball,Georgia,Gagra Amra,Tbilisi Arena (Tbilisi),"[41.717963938975096, 44.72726199610305]",Olympic Palace (Tbilisi),Amra
+Basketball,Georgia,TSU Tbilisi,Tbilisi Arena (Tbilisi),"[41.717963938975096, 44.72726199610305]",Olympic Palace (Tbilisi),TSU
+Basketball,Georgia,Iverioni Gori,Gori Sports Palace (Gori),"[41.97341824452678, 44.11830998161646]",None,Iverioni
+Basketball,Georgia,Rashi,Tbilisi Arena (Tbilisi),"[41.717963938975096, 44.72726199610305]",Tbilisi Arena (Tbilisi),None
+Basketball,Georgia,CIU,Tbilisi Arena (Tbilisi),"[41.717963938975096, 44.72726199610305]",Tbilisi Arena (Tbilisi),None
+Basketball,Georgia,Tkibuli Orbi,Tkibuli sport palace (Tkibuli),"[42.34693899183854, 42.998532413652576]",Tkibuli sport palace (Tkibuli),Orbi
+Basketball,Georgia,BC Kutaisi 2010,Sports Palace (Kutaisi),"[42.2352765, 42.71139327210608]",Sports Palace (Kutaisi),Kutaisi
+Basketball,Georgia,BC Margveti Tbilisi,Zestaponi Sports Palace (Zestaponi),"[42.10371015164759, 43.032510951560255]",Olympic Palace (Tbilisi),Margveti
+Basketball,Georgia,BC Delta Gurjaani,Gurjaani Sport Complex (Gurjaani),"[41.75533799542935, 45.79656996302962]",Gurjaani Sport Complex (Gurjaani),Gurjaani Delta
+Basketball,Georgia,Rustavi,Sports Palace (Rustavi),"[41.57221587036825, 44.99179538580232]",Chemicals Gym (Rustavi),None
+Basketball,Georgia,BC Suchumi,Tbilisi Arena (Tbilisi),"[41.717963938975096, 44.72726199610305]",None,Suchumi
+Basketball,Georgia,BC Burji,Telavi Sports Palace (Telavi),"[41.93200690639532, 45.472799198462546]",None,Burji
+Basketball,Georgia,BC Vera Tbilisi,Tbilisi Arena (Tbilisi),"[41.717963938975096, 44.72726199610305]",Olympic Palace (Tbilisi),Vera Tbilisi
+Basketball,Germany,Syntainics MBC,Stadthalle Weißenfels (Weißenfels),"[51.2017946, 11.9572068]",Stadthalle Weissenfels (Weissenfels),None
+Basketball,Germany,Basketball Löwen Braunschweig,Volkswagen Halle (Braunschweig),"[52.25735935, 10.519071861894677]",Volkswagen Halle (Braunschweig),Basketball Braunschweig
+Basketball,Germany,Veolia Towers Hamburg,Inselpark Arena,"[53.495770225110135, 10.002529873895968]",Edel-optics.de Arena (Hamburg),Hamburg
+Basketball,Germany,NINERS Chemnitz,Messe Chemnitz (Chemnitz),"[50.81718620521996, 12.881162880694212]",Messe Chemnitz (Chemnitz),Chemnitz
+Basketball,Germany,FIT/One Würzburg Baskets,Tectake Arena (Wurzburger),"[49.7734729594332, 9.941292941258974]",Tectake Arena (Wurzburger),Wurzburg
+Basketball,Germany,BG Göttingen,Sparkassen-Arena (Gottingen),"[51.5418811, 9.921490238144763]",Sparkassen-Arena (Gottingen),Gottingen
+Basketball,Germany,MLP Academics Heidelberg,SNP Dome (Heidelberg),"[49.39447345, 8.669849257227511]",SNP Dome (Heidelberg),Heidelberg
+Basketball,Germany,FC Bayern München,BMW Park (Munich),"[48.126031, 11.525353870787907]",BMW Park (Munich),Bayern
+Basketball,Germany,Skyliners Frankfurt,Süwag Energie Arena (Frankfurt),"[50.101309695945105, 8.527221828344214]",Suwag Energie Arena (Frankfurt),Frankfurt
+Basketball,Germany,Telekom Baskets Bonn,Telekom Dome (Bonn),"[50.7051417, 7.060367821844953]",Telekom Dome (Bonn),None
+Basketball,Germany,MHP RIESEN Ludwigsburg,MHP Arena Ludwigsburg,"[48.8911701, 9.18242015717697]",Arena Ludwigsburg (Ludwigsburg),Ludwigsburg
+Basketball,Germany,Rostock Seawolves,Stadthalle Rostock (Rostock),"[54.0772155, 12.125535570049262]",Stadthalle Rostock (Rostock),Rostock
+Basketball,Germany,Bamberg Baskets,Brose Arena (Bamberg),"[49.87922529736661, 10.920396394171297]",Brose Arena (Bamberg),Bamberg
+Basketball,Germany,RASTA Vechta,RASTA Dome (Vechta),"[52.733209450000004, 8.259486795179562]",RASTA Dome (Vechta),Vechta
+Basketball,Germany,Alba Berlin,Uber Arena (Berlin),"[52.506368699999996, 13.443765151369332]",Uber Arena (Berlin),None
+Basketball,Germany,EWE Baskets Oldenburg,EWE Arena (Oldenburg),"[53.14666842017001, 8.226720154527369]",Große EWE Arena (Oldenburg),Oldenburg
+Basketball,Germany,Ratiopharm Ulm,Ratiopharm Arena (Ulm),"[48.381742599999995, 10.004737345666667]",Ratiopharm Arena (Ulm),Ulm
+Basketball,Germany,Uni Baskets Münster,Sport- und Veranstaltungshalle Berg Fidel (Munster),"[51.9285572, 7.623930911907966]",Sporthalle Berg Fidel (Munster),Munster
+Basketball,Germany,Science City Jena,Sparkassen-Arena (Jena),"[50.899892050000005, 11.588474447670134]",Sparkassen-Arena (Jena),Jena
+Basketball,Germany,BBC Bayreuth,Bayreuth Oberfrankenhalle (Bayreuth),"[49.9445913, 11.585095962988127]",Oberfrankenhalle (Bayreuth),Bayreuth
+Basketball,Germany,Gießen 46ers,Sporthalle Gießen-Ost (Gießen),"[50.57766275, 8.691829415411554]",Sporthalle Giessen-Ost (Giessen),Giessen
+Basketball,Germany,Bozic Estriche Knights Kirchheim,Sporthalle Stadtmitte (Kirchheim unter Teck),"[48.645679799999996, 9.446790914071148]",Sporthalle Stadtmitte (Kirchheim unter Teck),Kirchheim
+Basketball,Germany,Artland Dragons,Quakenbrück Artland Arena (Quakenbruck),"[52.677500949999995, 7.964988651065916]",Artland Arena (Quakenbruck),Artland
+Basketball,Germany,PS Karlsruhe Lions,Europahalle (Karlsruhe),"[48.99703755, 8.376713811797359]",Europahalle Karlsruhe (Karlsruhe),PS Karlsruhe
+Basketball,Germany,ART Giants Düsseldorf,CASTELLO Düsseldorf (Düsseldorf),"[51.175590650000004, 6.864602877969304]",CASTELLO Düsseldorf (Düsseldorf),Dusseldorf
+Basketball,Germany,HAKRO Merlins Crailsheim,Arena Hohenlohe (Ilshofen),"[49.16576575, 9.951832534670512]",Arena Hohenlohe (Ilshofen),Crailsheim Merlins
+Basketball,Germany,RASTA Vechta 2,RASTA Dome (Vechta),"[52.733209450000004, 8.259486795179562]",RASTA Dome (Vechta),Vechta 2
+Basketball,Germany,Nürnberger Falcons,Kia Metropol Arena (Nuremberg),"[49.43328458504089, 11.037312492841714]",Kia Metropol Arena (Nuremberg),Nurnberger
+Basketball,Germany,VfL SparkassenStars Bochum,Rundsporthalle Bochum (Bochum),"[51.49062455, 7.235032860131263]",Rundsporthalle Bochum (Bochum),Bochum
+Basketball,Germany,Phoenix Hagen,Ischelandhalle (Hagen),"[51.37086575, 7.477351010603321]",Ischelandhalle (Hagen),None
+Basketball,Germany,Tigers Tübingen,Paul Horn-Arena (Tubingen),"[48.510382899999996, 9.042069701718447]",Paul Horn Arena (Tubingen),Tubingen
+Basketball,Germany,Eisbären Bremerhaven,Stadthalle Bremerhaven (Bremerhaven),"[53.5549447, 8.591032069425466]",Bremerhaven Stadthalle (Bremerhaven),Bremerhaven
+Basketball,Germany,EPG Guardians Koblenz,EPG Arena (Koblenz),"[50.3311928, 7.584718510683917]",Sporthalle Oberwerth (Koblenz),Koblenz
+Basketball,Germany,Gladiators Trier,SWT Arena (Trier),"[49.77170965822688, 6.663898943386948]",Arena Trier (Trier),Trier
+Basketball,Germany,Dresden Titans,Margon Arena (Dresden),"[51.02246625, 13.808599037615384]",Margon Arena (Dresden),Dresden
+Basketball,Germany,Baskets Paderborn,Sportzentrum Maspernplatz (Paderborn),"[51.72472178101157, 8.752841557468546]",Sportzentrum Maspernplatz (Paderborn),Paderborn
+Basketball,Germany,Wolmirstedt,Halle der Freundschaft (Wolmirstedt),"[52.24670345, 11.630691080589617]",Halle der Freundschaft (Wolmirstedt),Wolmirstedt
+Basketball,Germany,TKS 49ers,Sporthalle der BBIS Berlin Brandenburg International School (Kleinmachnow),"[52.40080288213581, 13.216013999674066]",Sporthalle der Berlin Brandenburg (Kleinmachnow),RSV Eintracht
+Basketball,Germany,FC Bayern Basketball II,BMW Park (Munich),"[48.126031, 11.525353870787907]",BMW Park (Munich),Bayern 2
+Basketball,Germany,RheinStars Köln,ASV-Sporthalle (Cologne),"[50.93467516698325, 6.883090930517095]",ASV-Sporthalle (Cologne),Koln
+Basketball,Germany,LOK BERNAU,Sparkassen-Arena Bernau (Bernau),"[52.68224455, 13.584908046622893]",S-Arena Bernau (Bernau),Bernau
+Basketball,Germany,BBC Coburg,HUK Coburg Arena (Coburg),"[50.28746872480695, 10.979433701373212]",HUK-Coburg arena (Coburg),Coburg
+Basketball,Germany,SKYLINERS Juniors,Basketball City Mainhattan (Frankfurt),"[50.15901879232517, 8.631912710975248]",Basketball City Mainhattan (Frankfurt),Frankfurt 2
+Basketball,Germany,TSV Neustadt temps Shooters,Gymnasiumsporthalle Neustadt (Neustadt am Rübenberge),"[52.49596229871973, 9.461090338084976]",Sporthalle Gymnasium Neustadt. am Rübenberge (Neustadt am Rübenberge),Neustadt
+Basketball,Germany,Dragons Rhöndorf,DragonDome - Sporthalle am Menzenberg (Bad Honnef),"[50.63813449128156, 7.228962220902288]",DragonDome (Bad Honnef),Rhondorf
+Basketball,Germany,Iserlohn Kangaroos,Matthias-Grothe-Halle (Iserlohn),"[51.388781864125534, 7.703774025998628]",Matthias-Grothe-Halle (Iserlohn),Iserlohn
+Basketball,Germany,BG Hessing Leitershofen,Sporthalle Stadtbergen (Stadtbergen),"[48.36240502660253, 10.850019669212212]",Mehrzweckhalle Stadtbergen (Stadtbergen),Leitershofen/Stadtbergen
+Basketball,Germany,SC Rist Wedel,Steinberghalle (Wedel),"[53.58897325, 9.699869551441441]",Steinberghalle (Wedel),Wedel
+Basketball,Germany,Berlin Braves 2000,Sporthalle Charlottenburg (Berlin),"[52.52355543017343, 13.30496544122038]",Sömmeringhalle (Berlin),Berlin Braves
+Basketball,Germany,Würzburg Baskets Akademie,TGW Sportzentrum Feggrube (Würzburg),"[49.77152727389007, 9.944288415254382]",TGW Sportzentrum Feggrube (Würzburg),s.Oliver Wurzburg 2
+Basketball,Germany,TSV Oberhaching Tropics,Grundschule Deisenhofen (Oberhaching),"[48.01928168688021, 11.578401659377079]",Grundschule Deisenhofen (Oberhaching),Oberhaching
+Basketball,Germany,Ahorn Camp Baskets,Sporthalle Speyer-Nord (Speyer),"[49.3514518, 8.429575780380077]",Nord-Halle (Speyer),None
+Basketball,Germany,ETB Miners,Sportpark Am Hallo (Essen),"[51.474286543375946, 7.0450582174957805]",Sportpark Am Hallo (Essen),None
+Basketball,Germany,EN BASKETS Schwelm,Schwelm ArENa (Schwelm),"[51.2986983708868, 7.312019270871964]",Schwelm ArENa (Schwelm),Schwelm
+Basketball,Germany,Bayer Giants Leverkusen,Ostermann Arena (Leverkusen),"[51.03940725, 7.003999890977155]",Ostermann Arena (Leverkusen),Leverkusen
+Basketball,Germany,OrangeAcademy,OrangeCampus (Neu-Ulm),"[48.387871930733596, 9.98749541536084]",OrangeCampus (Neu-Ulm),None
+Basketball,Germany,BSW Sixers,Ballsporthalle in Sandersdorf (Sandersdorf),"[51.6225697, 12.273175802320553]",Ballsporthalle Sandersdorf (Sandersdorf),Sandersdorf
+Basketball,Germany,Itzehoe Eagles,Sportzentrum am Lehmwohld (Itzehoe),"[53.9361587, 9.509779761220098]",Sportzentrum am Lehmwohld (Itzehoe),Itzehoe
+Basketball,Germany,SV Fellbach Flashers,Gäuäckersporthalle (Fellbach),"[48.81924427323881, 9.283231427876888]",Gäuäckersporthalle (Fellbach),Fellbach
+Basketball,Germany,Porsche BBA Ludwigsburg,Rundsporthalle Ludwigsburg (Ludwigsburg),"[48.899483399999994, 9.17803539556864]",Rundsporthalle Ludwigsburg (Ludwigsburg),Ludwigsburg 2
+Basketball,Germany,Team Ehingen Urspring,Sporthalle Johann-Vanotti-Gymnasium (Ehingen),"[48.28127159844023, 9.731282951969797]",Längenfeld-Sporthalle Ehingen (Ehingen),Ehingen
+Basketball,Germany,Rostock Seawolves Academy,OSPA Arena (Rostock),"[54.0892304, 12.087312461334054]",OSPA Arena (Rostock),Rostock 2
+Basketball,Germany,CATL Basketball Löwen,Riethsporthalle (Erfurt),"[51.00349635, 11.013632929065974]",Riethsporthalle (Erfurt),Lowen
+Basketball,Germany,ALBA Berlin W,Sporthalle Charlottenburg (Berlin),"[52.523577599999996, 13.305123270882483]",Sporthalle Charlottenburg (Berlin),Alba Berlin W
+Basketball,Germany,Rutronik Stars Keltern W,Speiterlinghalle (Keltern),"[48.897249929295384, 8.592094064510638]",Speiterlinghalle (Keltern),Keltern W
+Basketball,Germany,Saarlouis Royals W,Stadtgartenhalle (Saarlouis),"[49.31857774748308, 6.740540794269625]",None,Saarlouis W
+Basketball,Germany,WINGS Leverkusen W,Sporthalle Werner-Heisenberg-Gymnasium (Leverkusen),"[51.06624309688233, 7.042950853435496]",None,Leverkusen W
+Basketball,Germany,TK Hannover Luchse W,Sporthalle Birkenstraße (Hannover),"[52.365004682074265, 9.751148064572533]",None,TK Hannover W
+Basketball,Germany,BC Pharmaserv Marburg W,Sporthalle am Georg-Gassmann-Stadion (Marburg),"[50.79919437091035, 8.754534340670546]",None,Marburg W
+Basketball,Germany,Syntainics MBC W,SWH.arena (Halle),"[51.484243115352086, 11.911251751312928]",None,None
+Basketball,Germany,Medical Instinct Veilchen BG 74 W,Sporthalle Felix-Klein-Gymnasium (Göttingen),"[51.52501185607641, 9.93126868187838]",None,Gottingen W
+Basketball,Germany,GiroLive Panthers Osnabrück W,Osnabrücker Sportclub MTV OTV OSC e.V. (Osnabrück),"[52.26799951775578, 8.024724770234013]",None,Osnabruck W
+Basketball,Germany,Eigner Angels Nördlingen W,Hermann-Keßler-Halle (Nördlingen),"[48.83990497142422, 10.504126354963828]",None,Eigner Angels Nordlingen W
+Basketball,Germany,Eisvögel USC Freiburg W,Uni-Sporthalle 2 (Freiburg),"[47.99030161231936, 7.882366920611849]",None,Freiburg W
+Basketball,Germany,Herner TC W,H2K Arena (Herne),"[51.538657203909494, 7.2465660567275405]",None,Herner W
+Basketball,Greece,AS Karditsas,Ioannis Bourousis Karditsa New Indoor Arena (Karditsa),"[39.359304974427594, 21.905125054291524]",Ioannis Bourousis Karditsa New Indoor Arena (Karditsa),None
+Basketball,Greece,Promitheas,Dimitris Tofalos National Indoor Sports Hall (Patras),"[38.283941947189334, 21.77339326774408]",Dimitris Tofalos Arena (Patras),None
+Basketball,Greece,AEK Athens,Ano Liosia Olympic Hall (Athens),"[38.08180915410999, 23.686455527625615]",Ano Liosia Olympic Hall (Athens),AEK Athens
+Basketball,Greece,Olympiacos,Peace and Friendship Stadium (Piraeus),"[37.94253775, 23.667428931321652]",Peace and Friendship Stadium (Piraeus),Olympiacos
+Basketball,Greece,Kolossos,Kallithea Stadium (Rhodes),"[36.3471338592404, 28.19075684071839]",Kallithea Palais des Sports (Rhodes),Kolossos Rhodes
+Basketball,Greece,Panathinaikos,O.A.C.A. Olympic Indoor Hall (Athens),"[38.037865073242656, 23.784255181229366]",O.A.C.A. Olympic Indoor Hall (Athens),None
+Basketball,Greece,PAOK,PAOK Sports Arena (Thessaloniki),"[40.56554975, 22.981415520871877]",P.A.O.K. Sports Arena (Thessaloniki),None
+Basketball,Greece,ARIS Midea,Alexandreio Mellathron (Thessaloniki),"[40.62693022796604, 22.957297181331832]",Alexandreio Mellathron (Thessaloniki),Aris
+Basketball,Greece,Lavrio DHI,Municipal Gym Lavrion (Lavrio),"[37.716737813448994, 24.050176286437267]",Sports Center Lavrio (Lavrio),Lavrio
+Basketball,Greece,Panionios,DAK Glyfada M. Liugas (Glyfada),"[37.85936820410534, 23.755364397235343]",DAK Glyfada M. Liugas (Glyfada),None
+Basketball,Greece,Peristeri,Peristeri Indoor Hall Andreas Papandreou (Peristeri),"[38.0282483372382, 23.678798508218463]",Andreas Papandreoy (Peristeri),None
+Basketball,Greece,Maroussi,Dimotiko Gimnastirio Amarousiou (Marousi),"[38.04094916687138, 23.799012788352368]",Dimotiko Gimnastirio Amarousiou (Marousi),None
+Basketball,Greece,Iraklis,Ivanofeio Sports Arena (Thessaloniki),"[40.62812297561588, 22.964073365559678]",Ivanofeio Sports Arena (Thessaloniki),None
+Basketball,Greece,Panerythraikos,Stelios Kalaitzis Indoor Gymnasium (Nea Erythraia),"[38.10067972223065, 23.81360899811133]",None,None
+Basketball,Greece,Ermis Schimatari,Schimarios Indoor Gym (Schimatari),"[38.34177750894049, 23.581866615084316]",None,None
+Basketball,Greece,Esperos,Lamias Halkiopouleio Indoor Stadium (Lamia),"[38.891701173531196, 22.445963579532812]",None,None
+Basketball,Greece,Koroivos,Amaliada Indoor Hall (Koroivos),"[37.79850632731402, 21.360164608011168]",None,None
+Basketball,Greece,Psychikou,Psychiko Municipal Indoor Sports Hall (Athens),"[38.00921784897631, 23.770399698411463]",None,None
+Basketball,Greece,Trikala,Trikala Municipal Indoor Sports Hall (Trikala),"[39.550211275059304, 21.777503892020988]",None,None
+Basketball,Greece,Near East,Near East Indoor Gymnasium (Athens),"[37.96675788888517, 23.761700399752936]",None,None
+Basketball,Greece,Proteas Voulas,Voula Indoor Gymnasium George Gennimatas (Voula),"[37.845824730079705, 23.762561322628834]",None,None
+Basketball,Greece,HANTH,Athens University Sports Center Mimis Tsikinas (Thessaloniki),"[40.626643322122256, 22.95062219707522]",None,Hanth
+Basketball,Greece,Papagou,Papagou Indoor Basketball Hall (Athens),"[37.98874860654665, 23.786908522843557]",None,None
+Basketball,Greece,Doxa Lefkadas SA,Lefkada Municipal Indoor Sports Hall (Lefkada City),"[38.835136852842155, 20.699208678447075]",None,Lefkadas
+Basketball,Greece,NE Megaridas,NEM BC Arena (Athens),"[37.98789998038567, 23.344466309098447]",None,None
+Basketball,Greece,VIKOS Falcons Ioannina,Neo Kleisto Gymnastirio Ioanninon (Ioannina),"[39.62177066508009, 20.866852955120056]",None,Vikos
+Basketball,Greece,Mykonos,Panagiotis Chaniotis Ano Mera Indoor Sports Hall (Mykonos),"[37.444836059466446, 25.39526225726679]",None,None
+Basketball,Greece,Eleftheroupoli,Municipal Indoor Gymnasium of Georgiani (Paggeo),"[40.96373827457384, 24.148123627633808]",None,None
+Basketball,Greece,Proteas Voulas W,Voula Indoor Gymnasium George Gennimatas (Voula),"[37.845824730079705, 23.762561322628834]",Georgios Gennimatas Indoor Gymnasium (Athens),None
+Basketball,Greece,Esperides Kalliotheas W,Esperos Indoor Basketball Hall (Athens),"[37.96023139271589, 23.716445859026095]",Gymnasium of Kallithea Esperos (Athens),None
+Basketball,Greece,Panathlitikos W,Eptapyrgiou (Sikies),"[40.645704297872484, 22.960965431738057]",Giannakopoulos Indoor Hall (Athens),None
+Basketball,Greece,Panseraikos W,Serres Municipal Sports Center IOANNIS TSINTSARIS (Serres),"[41.101862955167775, 23.551274570263274]",Serres Municipal Sports Center (Serres),None
+Basketball,Greece,Giannina W,Neo Kleisto Gymnastirio Ioanninon (Ioannina),"[39.62177066508009, 20.866852955120056]",Indoor Gym of Ioannina (Ioannina),None
+Basketball,Greece,Athinaikos W,Ergani Indoor Sports Hall (Vyronas),"[37.95232469919783, 23.757842757237118]",Ergani Indoor Sports Hall (Vyronas),None
+Basketball,Greece,Olympiacos W,Peace and Friendship Stadium (Piraeus),"[37.94253775, 23.667428931321652]",Peace and Friendship Stadium (Piraeus),None
+Basketball,Greece,Iraklis W,Ivanofeio Sports Arena (Thessaloniki),"[40.62812297561588, 22.964073365559678]",Ivanofeio Sports Arena (Thessaloniki),None
+Basketball,Greece,Amyntas W,Basketball Court Pirkal (Dafni),"[37.95021978988992, 23.743408248331903]",Basketball Court Pirkal (Dafni),None
+Basketball,Greece,PAOK W,PAOK Sports Arena (Thessaloniki),"[40.56554975, 22.981415520871877]",P.A.O.K. Sports Arena (Thessaloniki),None
+Basketball,Greece,Panathinaikos W,Pavlos Giannakopoulos Indoor Sports Hall - under the stands at Panathinaikos’ Football Stadium (Athens),"[37.98664595216792, 23.754862872551133]",Giannakopoulos Indoor Hall (Athens),None
+Basketball,Hungary,Alba Fehérvár,Alba Regia Sportcsarnok (Székesfehérvár),"[47.191391510058374, 18.419311233144544]",Alba Regia Sportcsarnok (Székesfehérvár),Alba Fehervar
+Basketball,Hungary,PVSK-VEOLIA,Dezső Lauber Muncipal Sports Hall (Pécs),"[46.064813760309136, 18.210853510713573]",Dezső Lauber Sports Hall (Pécs),Pecsi VSK
+Basketball,Hungary,Zalakerámia ZTE KK,Zalakerámia Sports and Events Hall (Zalaegerszeg),"[46.845999780935756, 16.85280051043864]",Zalaegerszeg City Sports Hall (Zalaegerszeg),Zalakeramia
+Basketball,Hungary,Endo Plus Service-Honvéd,Ludovika Aréna (Budapest),"[47.48223835, 19.09152405966228]",Ludovika Arena (Budapest),Budapesti Honved Se
+Basketball,Hungary,NKA Universitas Pécs,Nemzeti Kosárlabda Akadémia (Pécs),"[46.053161151412255, 18.21126195014605]",National Basketball Academy (Pécs),NKA Pecs
+Basketball,Hungary,Sopron KC,Novomatic Aréna (Sopron),"[47.692441913717886, 16.58283078141292]",Novomatic Arena Sopron (Sopron),None
+Basketball,Hungary,DEAC,Oláh Gábor utcai Sportcsarnok (Debrecen),"[47.55025028407548, 21.63665519169034]",Olah Gabor Sports Hall (Debrecen),None
+Basketball,Hungary,Falco-Vulcano Energia KC Szombathely,Arena Savaria (Szombathely),"[47.24318255, 16.61925950907726]",Arena Savaria (Szombathely),Szombathely
+Basketball,Hungary,Atomerőmű SE,ASE Sportcsarnok (Paks),"[46.61703944289621, 18.836382148419343]",ASE Sportcsarnok (Paks),Atomeromu Paks
+Basketball,Hungary,Egis Körmend,Körmend City Sports Hall (Körmend),"[47.01384234028035, 16.601052166029845]",Körmend City Sports Hall (Körmend),Kormend
+Basketball,Hungary,Duna Aszfalt-DTKH Kecskemét,István Messzi Sports Hall (Kecskemét),"[46.90125592161715, 19.674507375428906]",István Messzi Sports Hall (Kecskemét),KTE-Duna
+Basketball,Hungary,MVM-OSE Lions,Krajnyik Akác András Sportcsarnok (Oroszlány)","[47.486361987741844, 18.316693013329346]","Krajnyik ""Akác"" András Sports Hall (Oroszlány)",OSE Lions
+Basketball,Hungary,SZTE-Szedeák,Városi Sportcsarnok (Szeged),"[46.24485832147957, 20.162707433186338]",City Sports Hall (Szeged),Szedeak
+Basketball,Hungary,NHSZ-Szolnoki Olajbányász,Tiszaligeti Sportcsarnok (Szolnok),"[47.169382423517156, 20.19753523702133]",Tiszaliget City Sports Hall (Szolnok),Szolnoki Olaj
+Basketball,Hungary,Vasas Akadémia W,Pasaréti Sports Medicine Center (Budapest),"[47.51270497058318, 19.00809278076243]",Vasas Pasaréti Sportcentrum (Budapest),Vasas Csata W
+Basketball,Hungary,TARR KSC Szekszárd W,Szekszárdi NKft Sports Center (Szekszárd),"[46.3473489231871, 18.71539371068243]",Szekszárdi NKft Sports Center (Szekszard),Szekszard W
+Basketball,Hungary,VBW CEKK Cegléd W,Albertirsa Sportcsarnok (Albertirsa),"[47.25355404049828, 19.619561535189632]",Albertirsa Arena (Albertirsa),Cegledi W
+Basketball,Hungary,BKG-PRIMA NATURA Szigetszentmiklós W,Municipal Sports and Event Hall (Szigetszentmiklós),"[47.351477889485594, 19.01794187742685]",Municipal Sports and Event Hall (Szigetszentmiklós),Szigetszentmiklos W
+Basketball,Hungary,TFSE-MTK W,Dr. Jenő Koltai Sports Center (Budapest),"[47.48947487535623, 19.02714183322191]",Dr. Jeno Koltai Sports Center (Budapest),None
+Basketball,Hungary,Sopron Basket W,Novomatic Aréna (Sopron),"[47.692441913717886, 16.58283078141292]",Novomatic Arena Sopron (Sopron),Sopron W
+Basketball,Hungary,NKA Universitas Pécs W,Dezső Lauber Muncipal Sports Hall (Pécs),"[46.064813760309136, 18.210853510713573]",Dezső Lauber Sports Hall (Pécs),NKA Pecs W
+Basketball,Hungary,E.ON ELTE BEAC W,Gabányi László Sportcsarnok (Budapest),"[47.466455598024986, 19.04794380138761]",László Gabányi Sports Hall (Budapest),Ujbuda BEAC W
+Basketball,Hungary,Dávid Kornél KA W,Alba Regia Sportcsarnok (Székesfehérvár),"[47.191391510058374, 18.419311233144544]",Alba Regia Sportcsarnok (Székesfehérvár),David Kornel KA W
+Basketball,Hungary,Darazsak Sportakadémia W,Novomatic Aréna (Sopron),"[47.692441913717886, 16.58283078141292]",Novomatic Arena Sopron (Sopron),Soproni Darazsak W
+Basketball,Hungary,DVTK HUNTHERM W,DVTK Multifunctional Sports Hall Center Court (Miskolc),"[48.098415680351515, 20.717620947036565]",DVTK Arena (Miskolc),DVTK W
+Basketball,Hungary,SERCO UNI Győr W,Győr City University Hall (Győr),"[47.69511095693523, 17.626671266954208]",István Széchenyi University Hall (Gyor),UNI Gyor W
+Basketball,Ireland,Garvey's Tralee Warriors,Tralee Sports Complex (Tralee),"[52.27208306451165, -9.692173240307785]",None,Tralee Warriors
+Basketball,Ireland,EJ Sligo All-Stars,Mercy College (Sligo),"[54.26708009632894, -8.468345873880521]",None,Sligo
+Basketball,Ireland,UCD Marian,UCD Sports Centre / Nord Anglia International School (Dublin),"[53.308306791169755, -6.229224168052608] / [53.26659122290688, -6.198681083654737]",None,None
+Basketball,Ireland,Maree,University of Galway Kingfisher / Calasanctius College (Galway),"[53.28193471856324, -9.0624237524139] / [53.26802467140209, -8.933260972280417]",None,None
+Basketball,Ireland,Bright St. Vincent’s,St Vincents CBS (Dublin),"[53.36799358000147, -6.275248764352118]",None,St. Vincent's
+Basketball,Ireland,Templeogue,National Basketball Arena / Nord Anglia International School (Dublin),"[53.292465159919274, -6.334413948417037] / [53.26659122290688, -6.198681083654737]",None,Nnoe
+Basketball,Ireland,Belfast Star,Newforge Sports Complex / De La Salle College (Belfast),"[54.558429621948086, -5.944314239592063] / [54.57703518753497, -5.997984289941627]",None,Belfast
+Basketball,Ireland,Griffith College Éanna,Coláiste Éanna (Dublin),"[53.28601940500423, -6.297875394321096]",None,Eanna
+Basketball,Ireland,Killester,IWA Clontarf / Oblate Hall (Dublin),"[53.367828564568605, -6.199116670899317] / [53.33764113708621, -6.326302356146445]",None,Killester
+Basketball,Ireland,UCC Demons,Mardyke Arena / Parochial Hall (Cork),"[51.89472945, -8.500151029531926] / [51.907714974901886, -8.49013511058418]",None,None
+Basketball,Ireland,Irish Guide Dogs Ballincollig,MTU Arena (Cork),"[51.88337581852083, -8.537441590002292]",None,Ballincollig
+Basketball,Ireland,Flexachem KCYMS,Killorglin Sports Complex (Killorglin),"[52.1011035741733, -9.784873809914545]",None,KCYMS
+Basketball,Ireland,Energywise Ireland Neptune,Neptune Stadium (Cork),"[51.907217015950216, -8.476991271549428]",None,Neptune
+Basketball,Italy,Pallacanestro Trieste,Palatrieste (Trieste),"[45.6229168343575, 13.794921811099519]",PalaTrieste (Trieste),Trieste
+Basketball,Italy,Umana Reyer Venezia,Palasport Taliercio Mestre (Venice),"[45.48854216616781, 12.278603846416999]",Palasport Giuseppe Taliercio (Venice),Venezia
+Basketball,Italy,Banco di Sardegna Sassari,Palasport Roberta Serradimigni (Sassari),"[40.71703600736995, 8.582966425610216]",Palasport Roberta Serradimigni (Sassari),Sassari
+Basketball,Italy,Estra Pistoia,PalaCarrara (Pistoia),"[43.93101045, 10.940295713262522]",PalaCarrara (Pistoia),Pistoia
+Basketball,Italy,Napolibasket,Fruit Village Arena (Naples),"[40.822446631689616, 14.179199331261021]",PalaBarbuto (Naples),Basket Napoli
+Basketball,Italy,Reggiana Emilia,PalaBigi Reggio nell'Emilia (Reggio Emilia),"[44.69907303076127, 10.62475337070553]",PalaBigi (Reggio Emilia),Reggiana
+Basketball,Italy,Dolomiti Energia Trentino,Il T quotidiano Arena (Trento),"[46.04098858519713, 11.122471329169937]",BLM Group Arena (Trento),Trento
+Basketball,Italy,EA7 Emporio Armani Milano,Unipol Forum (Assago),"[45.401545980405984, 9.142339564011595]",Unipol Forum (Milan),Olimpia Milano
+Basketball,Italy,Vanoli Basket Cremona,PalaRadi (Cremona),"[45.15116308839322, 10.03411145927818]",PalaRadi (Cremona),Cremona
+Basketball,Italy,Openjobmetis Varese,Itelyum Arena (Varese),"[45.83616141302211, 8.802703595113398]",Palasport Lino Oldrini (Varese),Varese
+Basketball,Italy,Trapani Shark,PalaShark (Trapani),"[38.01452649927458, 12.525636729536041]",Pala Shark (Trapani),Trapani
+Basketball,Italy,Bertram Derthona Tortona,PalaEnergica Paolo Ferraris (Casale Monferrato),"[45.124659381809884, 8.461217925133589]",PalaFerraris (Casale Monferrato),Tortona
+Basketball,Italy,NutriBullet Treviso Basket,PalaVerde (Villorba),"[45.7241378953263, 12.262616946443183]",PalaVerde (Villorba),Treviso
+Basketball,Italy,Germani Brescia,Palaleonessa A2A (Brescia),"[45.52730786872658, 10.174939965340192]",PalaLeonessa (Brescia),Brescia
+Basketball,Italy,Virtus Segafredo Bologna,Segafredo Arena (Bologna),"[44.510124265397174, 11.366450341204175]",Segafredo Arena (Bologna),Virtus Bologna
+Basketball,Italy,Givova Scafati,Pala Coccia Veroli (Scafati),"[41.699610594071494, 13.410765860590468]",Pala Mangano (Scafati),Scafati
+Basketball,Italy,UEB Gesteco Cividale,PalaGesteco (Cividale del Friuli),"[46.09488543110031, 13.419241591310936]",PalaGesteco (Cividale del Friuli),Cividale
+Basketball,Italy,Wegreenit Urania Milano,Allianz Cloud (Milan),"[45.48260655, 9.142240396032257]",Allianz Cloud (Milan),Urania Milano
+Basketball,Italy,Reale Mutua Torino,Pala Gianni Asti (Turin),"[45.05771014636633, 7.632434101526572]",Pala Gianni Asti (Turin),Basket Torino
+Basketball,Italy,Acqua S.Bernardo Cantù,Pala FitLine Desio (Desio),"[45.613356184126125, 9.193050758009292]",PalaFitLineDesio (Desio),Cantu
+Basketball,Italy,Unieuro Forlì,Unieuro Arena (Forli),"[44.242632086460375, 12.078476640893175]",PalaGalassi (Forli),Forli
+Basketball,Italy,Carpegna Prosciutto Basket Pesaro,Vitrifrigo Arena (Pesaro),"[43.90287655, 12.86722583016914]",Vitrifrigo Arena (Pesaro),Pesaro
+Basketball,Italy,Real Sebastiani Rieti,PalaSojourner (Rieti),"[42.41029635, 12.89242685]",PalaSojourner (Rieti),Sebastiani Rieti
+Basketball,Italy,Tezenis Verona,Pala AGSM AIM (Verona),"[45.43738591345684, 10.964884901320891]",PalaOlimpia (Verona),Verona
+Basketball,Italy,Libertas Livorno 1947,PalaMacchia (Livorno),"[43.562022635087, 10.317205771493109]",PalaMacchia (Livorno),Libertas Livorno
+Basketball,Italy,Flats Service Fortitudo Bologna,PalaDozza (Bologna),"[44.49991246500039, 11.332233253616291]",PalaDozza (Bologna),Fortitudo Bologna
+Basketball,Italy,UCC Assigeco Piacenza,PalaBanca (Piacenza),"[45.04014375398451, 9.757672623029068]",PalaBanca (Piacenza),Assigeco Piacenza
+Basketball,Italy,Avellino Basket,Palasport Del Mauro (Avellino),"[40.92593498947749, 14.789218538996568]",Palasport Del Mauro (Avellino),None
+Basketball,Italy,Valtur Brindisi,PalaPentassuglia (Brindisi),"[40.614359388195275, 17.946803018931725]",PalaPentassuglia (Brindisi),Brindisi
+Basketball,Italy,Sella Cento,Baltur Arena (Cento),"[44.72250402816541, 11.284263476982888]",Milwaukee Dinelli Arena (Cento),Cento
+Basketball,Italy,HDL Nardò Basket,Pala San Giuseppe (Lecce),"[40.3471202496357, 18.197149237070764]",PalaPentassuglia (Brindisi),Nardo
+Basketball,Italy,RivieraBanca Basket Rimini,PalaFlaminio (Rimini),"[44.05183535, 12.575275175640805]",Palasport Flaminio (Rimini),Rimini
+Basketball,Italy,Apu Old Wild West Udine,PalaCarnera (Udine),"[46.08211643231642, 13.201886388463075]",PalaCarnera (Udine),Udine
+Basketball,Italy,Ferraroni Juvi Cremona,PalaRadi (Cremona),"[45.15111925, 10.034100800000001]",PalaRadi (Cremona),JuVi Cremona
+Basketball,Italy,Gruppo Mascio Orzinuovi,PalaBertocchi (Orzinuovi),"[45.40077259114118, 9.935190346992545]",PalaBertocchi (Orzinuovi),Orzinuovi
+Basketball,Italy,Elachem Vigevano 1955,PalaELAchem (Vigevano),"[45.31964534615447, 8.831658446471925]",Pala Elachem (Vigevano),Vigevano
+Basketball,Italy,Dinamo Sassari W,Palasport Roberta Serradimigni (Sassari),"[40.71703600736995, 8.582966425610216]",Palasport Roberta Serradimigni (Sassari),Sassari W
+Basketball,Italy,BC Castelnuovo Scrivia W,Cittadella dello Sport di Tortona (Tortona),"[44.8890138019063, 8.836719451461816]",Palaoltrepo (Voghera),Scrivia W
+Basketball,Italy,Alpo Basket W,Palazzetto Comunale (Villafranca di Verona),"[45.35480591130815, 10.830606951971992]",Palazzetto Comunale (Villafranca di Verona),Alpo VillaFranca W
+Basketball,Italy,Brixia Basket W,Palaleonessa A2A (Brescia),"[45.52730786872658, 10.174939965340192]",PalaLeonessa (Brescia),Brixia W
+Basketball,Italy,Famila Basket Schio W,Palasport Livio Romare (Schio),"[45.71432009838462, 11.377890428320349]",Palasport Livio Romare (Schio),Schio W
+Basketball,Italy,Minibasket Battipaglia W,Palazzetto dello Sport Bruno Zauli (Battipaglia),"[40.61298963354675, 14.976782307734576]",Palazzetto dello Sport Bruno Zauli (Battipaglia),Battipaglia W
+Basketball,Italy,Magnolia Basket Campobasso W,PalaSelvapiana (Campobasso),"[41.5675243, 14.629893899277455]",PalaSelvapiana (Campobasso),Campobasso W
+Basketball,Italy,Faenza Basket Project Girls W,Palasport Bubani (Faenza),"[44.29217716607888, 11.869878561895323]",Palasport Bubani (Faenza),Faenza W
+Basketball,Italy,A.S.Dil. Geas Basket W,Palasport S. Allende (Sesto San Giovanni),"[45.55749603851534, 9.21377524745958]",PalaCarzaniga (Sesto San Giovanni),San Giovanni W
+Basketball,Italy,S.S.D. Reyer Venezia W,Palasport Taliercio (Venice),"[45.48852671958454, 12.278600316282272]",Palasport Giuseppe Taliercio (Venice),Venezia W
+Basketball,Italy,A.S.D. San Martino Di Lupari W,Palazzetto dello Sport (San Martino di Lupari),"[45.64479725464424, 11.85158247809868]",Palazzetto dello sport (San Martino di Lupari),San Martino W
+Basketball,Kosovo,Bora,Salla e Sporteve 1 Tetori (Pristina),"[42.654033982023186, 21.166304815824887]",Pallati i Rinise dhe Sporteve (Pristina),None
+Basketball,Kosovo,Golden Eagle Ylli,Palestra 13 qershori (Brigada),"[42.35272488528233, 20.82493500024813]",Salla e sporteve 13 Qershori (Suva Reka),None
+Basketball,Kosovo,Peja,Palestra Karagaqi (Pejë),"[42.652160932496535, 20.29219353603907]",Palestra sportive Karagaqi (Peja),None
+Basketball,Kosovo,Sigal Prishtina,Pallati i Rinisë dhe Sporteve (Pristina),"[42.660915935339965, 21.15661272934077]",Pallati i Rinise dhe Sporteve (Pristina),None
+Basketball,Kosovo,Bashkimi,Sportski Centar Sezai Surroi (Prizren),"[42.21867854259005, 20.746144788095577]",Palestra sportive Sezai Surroi (Prizren),None
+Basketball,Kosovo,Proton Cable PrizreniSportski Centar Sezai Surroi (Prizren),"[42.21867854259005, 20.746144788095577]",Palestra sportive Sezai Surroi (Prizren),Prizreni
+Basketball,Kosovo,Trepça,Minatori (Mitrovica),"[42.89082218189442, 20.86692869164287]",Minatori Sports Hall (Mitrovica),Trepca
+Basketball,Kosovo,Vëllaznimi,Palestra e sporteve Shani Nushi (Gjakovë),"[42.38312183832764, 20.440015329683423]",Palestra Shani Nushi (Gjakova),Vellaznimi
+Basketball,Kosovo,Bashkimi W,Sportski Centar Sezai Surroi (Prizren),"[42.21867854259005, 20.746144788095577]",Palestra sportive Sezai Surroi (Prizren),None
+Basketball,Kosovo,Junior 06 Moni Bau6 W,Sportski Centar Sezai Surroi (Prizren),"[42.21867854259005, 20.746144788095577]",Palestra sportive Sezai Surroi (Prizren),Junior 06 W
+Basketball,Kosovo,Peja W,Palestra Karagaqi (Pejë),"[42.652160932496535, 20.29219353603907]",Palestra sportive Karagaqi (Peja),None
+Basketball,Kosovo,Prishtina W,Pallati i Rinisë dhe Sporteve (Pristina),"[42.660915935339965, 21.15661272934077]",Pallati i Rinise dhe Sporteve (Pristina),None
+Basketball,Kosovo,Trepça W,Minatori (Mitrovica),"[42.89082218189442, 20.86692869164287]",Minatori Sports Hall (Mitrovica),Trepca W
+Basketball,Kosovo,Penza W,Palestra Karagaqi (Pejë),"[42.652160932496535, 20.29219353603907]",Palestra sportive Karagaqi (Peja),None
+Basketball,Latvia,BS Ogre,Sporta Arēna Ogre (Ogre),"[56.82430637046514, 24.610043047522378]",Sporta Arena Ogre (Ogre),None
+Basketball,Latvia,BC Jelgava,Jelgavas SH (Jelgava),"[56.643739469750535, 23.721939885709023]",Zemgale Olympic Center (Jelgava),Jelgava
+Basketball,Latvia,Rīgas Zeļļi,Daugavas Sporta Nams / Arēna Rīga (Riga),"[56.96347364493844, 24.14329915617344] / [56.96800424143271, 24.121278609790746]",Rimi Olympic Center (Riga),Rigas Zelli
+Basketball,Latvia,Latvijas Universitāte,Rimi Olimpiskais sporta centrs (Riga),"[56.96720436401721, 24.124814556686474]",Rimi Olimpiskais centrs (Riga),Latvijas Universitate
+Basketball,Latvia,Valmiera Glass/Via,Vidzemes Olimpiskais centrs (Valmiera),"[57.52807286543735, 25.388180170950857]",Vidzemes Olimpiskais centrs (Valmiera),Valmiera Glass Via
+Basketball,Latvia,VEF Rīga,Rimi Olimpiskais sporta centrs (Riga),"[56.96720436401721, 24.124814556686474]",Arena Riga (Riga),VEF Riga
+Basketball,Lithuania,Jonavos CBet,Jonavos Sporto Arena (Jonava),"[55.07659311745244, 24.273273578516005]",Jonavos sporto arena (Jonava),Jonava
+Basketball,Lithuania,Vilniaus Rytas,Active Vilnius Arena (Vilnius),"[54.716135165383236, 25.278709075745105]",Jeep arena (Vilnius),None
+Basketball,Lithuania,Vilniaus Wolves Twinsbet,Twinsbet Arena (Vilnius),"[54.71663526353049, 25.27978070801846]",Avia Solutions Group Arena (Vilnius),BC Wolves
+Basketball,Lithuania,Utenos Uniclub Bet - Juventus,Utenos Daugiafunkcis Sporto Centras (Utena),"[55.504219952596046, 25.59147859830465]",Utenos arena (Utena),Juventus
+Basketball,Lithuania,Kėdainių Nevėžis–Optibet,Kėdainių Arena (Kėdainiai),"[55.29955203603515, 23.989939239762204]",Kedainiu arena (Kedainiai),Nevezis
+Basketball,Lithuania,Šiauliai – Casino Admiral,Šiaulių Arena (Šiauliai),"[55.920982890922595, 23.28204307945132]",Siauliu arena (Šiauliai),Siauliai
+Basketball,Lithuania,Klaipėdos Neptūnas,Švyturio Arena (Klaipėda),"[55.68735825, 21.15184001584181]",Svyturio arena (Klaipeda),Neptunas
+Basketball,Lithuania,Panevėžio 7bet-Lietkabelis,Kalnapilio Arena (Panevėžys),"[55.73332171018986, 24.339351558489255]",Kalnapilio arena (Panevėžys),Lietkabelis
+Basketball,Lithuania,Mažeikių M Basket-Delamode,Telšių Sporto Arena (Telšiai),"[55.98384344312716, 22.243243273448986]",Telsiu sporto arena (Telsiai),Mazeikiai
+Basketball,Lithuania,Kauno Žalgiris,Žalgirio Arena (Kaunas),"[54.89051924162378, 23.914527575852777]",Zalgirio Arena (Kaunas),Zalgiris Kaunas
+Basketball,Lithuania,Klaipėdos LCC Tarptautinis Universitetas W,Michealsen Centras (Klaipėda),"[55.7311224759061, 21.132978005895964]",Michealsen centras (Klaipeda),LCC W
+Basketball,Lithuania,Šiaulių Šiauliai-Vilmers W,Šiaulių Arena (Šiauliai),"[55.920982890922595, 23.28204307945132]",Saulės sporto rūmai (Šiauliai),Siauliai W
+Basketball,Lithuania,Kauno Aistės-LSMU W,LSMU Sporto centras (Kaunas),"[54.9090214095215, 23.88101292393918]",KM Žalgiris (Kaunas),Aistes LSU Kaunas W
+Basketball,Lithuania,MKK Panevėžys W,Kalnapilio Arena (Panevėžys),"[55.73332171018986, 24.339351558489255]",Kalnapilio arena (Panevėžys),Panevezys W
+Basketball,Lithuania,Vilniaus Kibirkštis W,Active Vilnius Arena (Vilnius),"[54.716135165383236, 25.278709075745105]",MRU didzioji sale (Vilnius),Kibirkstis Vilnius W
+Basketball,Lithuania,Klaipėdos Neptūnas-Amberton W,BĮ Sporto Bazių Valdymo Centras (Klaipėda),"[55.720847151432224, 21.121855585585028]",Klaipėdos m. sporto bazių valdymo centras (Klaipeda),Klaipedos Neptunas W
+Basketball,Luxembourg,US Heffingen,Hall Omnisports Heffingen (Heffingen),"[49.76836859692298, 6.2425822885740025]",Hall sportif Heffingen (Heffingen),Heffingen
+Basketball,Luxembourg,Sparta Bertrange,Centre Sportif Atert (Bertrange),"[49.609422068085394, 6.053214582593276]",Centre sportif Atert (Bertrange),Bertrange
+Basketball,Luxembourg,Walferdange Residence,Centre Sportif Prince Henri Walferdange (Helmsange Walferdange),"[49.660946703191186, 6.130463920919595]",Centre sportif Prince Henri (Walferdange),Walferdange
+Basketball,Luxembourg,Arantia Larochette,Hall Sportif Centre Filano (Birkelt Larochette),"[49.785623916338594, 6.207880105596673]",Hall sportif Centre Filano (Larochette),Larochette
+Basketball,Luxembourg,Amicale Steesel,Hall Omnisports Alain Marchetti (Mullendorf Steinsel),"[49.678890068468846, 6.124996364416296]",Hall Omnisports Alain Marchetti (Steinsel),None
+Basketball,Luxembourg,Basket Esch,Hall Omnisports Henri Schmitz (Esch-sur-Alzette),"[49.51095909042676, 5.982058460308943]",Hall Omnisports Henri Schmitz (Esch-sur-Alzette),Esch
+Basketball,Luxembourg,Avanti Mondorf,Centre Sportif Roll Delles (Mondorf-les-Bains)","[49.506565206798804, 6.274662295216218]","Centre sportif ""Roll Delles"" (Mondorf-les-Bains)",None
+Basketball,Luxembourg,Mambra Mamer,Hall Sportif Nicolas Frantz (Mamer),"[49.62344613950099, 6.02490032976806]",Hall Sportif Nicolas Frantz (Mamer),None
+Basketball,Luxembourg,Etzella Ettelbruck,Centre Sportif du Deich (Ettelbruck),"[49.844259806344276, 6.094553459730363]",Centre sportif du Deich (Ettelbruck),Ettelbruck
+Basketball,Luxembourg,T71 Dudelange,Centre Sportif René Hartmann (Dudelange),"[49.48466693722891, 6.089337788885714]",Centre sportif Rene Hartmann (Dudelange),None
+Basketball,Luxembourg,Musel Pikes,Hall des Sports Jeannot Bonifas (Stadtbredimus),"[49.560936981686254, 6.3569356559713714]",Hall des Sports Jeannot Bonifas (Stadtbredimus),None
+Basketball,Luxembourg,AB Contern,Centre Scolaire et Sportif (Contern),"[49.5781011227735, 6.221817113808188]",Centre Scolaire et Sportif (Contern),Contern
+Basketball,Luxembourg,Amicale Steesel W,Hall Omnisports Alain Marchetti (Mullendorf Steinsel),"[49.678890068468846, 6.124996364416296]",Hall Omnisports Alain Marchetti (Steinsel),None
+Basketball,Luxembourg,Basket Esch W,Hall Omnisports Henri Schmitz (Esch-sur-Alzette),"[49.51095909042676, 5.982058460308943]",Hall Omnisports Henri Schmitz (Esch-sur-Alzette),Esch W
+Basketball,Luxembourg,Gréngewald Hueschtert W,Centre Sportif Am Sand (Oberanven Niederanven),"[49.65398695632832, 6.245207230788309]",Centre sportif Am Sand (Oberanven),Grengewald Hueschtert W
+Basketball,Luxembourg,T71 Dudelange W,Centre Sportif René Hartmann (Dudelange),"[49.48466693722891, 6.089337788885714]",Centre sportif Rene Hartmann (Dudelange),Dudelange W
+Basketball,Luxembourg,Musel Pikes W,Hall des Sports Jeannot Bonifas (Stadtbredimus),"[49.560936981686254, 6.3569356559713714]",Hall des Sports Jeannot Bonifas (Stadtbredimus),Musel Pikes W
+Basketball,Luxembourg,AB Contern W,Centre Scolaire et Sportif (Contern),"[49.5781011227735, 6.221817113808188]",Centre Scolaire et Sportif (Contern),Contern W
+Basketball,Luxembourg,Les Sangliers Wooltz W,Nouveau Centre Scolaire (Wiltz),"[49.967932118896854, 5.931485353578759]",Nouveau Centre Scolaire (Wiltz),None
+Basketball,Luxembourg,Sparta Bertrange W,Centre Sportif Atert (Bertrange),"[49.609422068085394, 6.053214582593276]",Centre sportif Atert (Bertrange),Bertrange W
+Basketball,Montenegro,Primorje 1945,Sports Center Igalo (Igalo),"[42.457745413781204, 18.50526710636467]",Sport center Igalo (Igalo),Primorje
+Basketball,Montenegro,Ibar,Sports Center Rožaje (Rožaje),"[42.837976390429766, 20.174317064876078]",Dvorana na Bandzovom brdu (Rozaje),Ibar Rozaje
+Basketball,Montenegro,Jedinstvo 1950,Sportska hala Nikoljac (Bijelo Polje),"[43.02945903191674, 19.74307198802653]",Sportska hala Nikoljac (Bijelo Polje),Jedinstvo
+Basketball,Montenegro,SC Derby,Kuća Košarke (Donji Kokoti),"[42.410325950398025, 19.19836468947918]",Kuca Kosarke (Podgorica),Studentski Centar
+Basketball,Montenegro,Susanj,Topolica Sport Hall (Bar),"[42.10314234899108, 19.094221170450307]",Topolica Sport Hall (Bar) / None,None
+Basketball,Montenegro,Teodo,Sportski Centar Župa (Tivat),"[42.422008669432806, 18.708977105259972]",Sportski centar Župa (Tivat),Tivat
+Basketball,Montenegro,Vukovi Zeta,SMŠ Golubovci (Golubovci),"[42.330596686692324, 19.227059166468326]",SMS Golubovci (Golubovci),None
+Basketball,Montenegro,Danilovgrad,Sala Policijska Akademija (Danilovgrad),"[42.54902008734032, 19.103175228491097]",Sportski Centar Danilovgrad (Danilovgrad),None
+Basketball,Montenegro,Dečić,SMŠ Golubovci (Golubovci),"[42.330596686692324, 19.227059166468326]",SMS Golubovci (Golubovci),Decic
+Basketball,Montenegro,KK Kotor,Kosarkaski Klub Kotor (Kotor),"[42.426875080879384, 18.771903258986562]",Pomeranian secondary school (Kotor),Kotor
+Basketball,Montenegro,Lovćen 1947,Sportski Centar Cetinje (Cetinje),"[42.39167865, 18.926336636663905]",Sportski Centar Cetinje (Cetinje),Lovcen Cetinje
+Basketball,Montenegro,Sutjeska Eletroprivreda Nikšić,Sports center Nikšić (Nikšić),"[42.78139631555915, 18.95078751332249]",Sports center Niksic (Nikšić),Sutjeska
+Basketball,Montenegro,Podgorica,Bemax Arena (Podgorica),"[42.4374059, 19.2549604]",Bemax Arena (Podgorica),None
+Basketball,Netherlands,Quick Lions,Sportcentrum De Zandzee (Bussum),"[52.266447730560266, 5.155658164244353]",None,None
+Basketball,Netherlands,Den Helder SUNS 2,Topsportcomplex Quelderduyn (Den Helder),"[52.94500336335183, 4.766985763518091]",None,Den Helder 2
+Basketball,Netherlands,CobraNova Voorburg,Sportcentrum Forum Kwadraat (Voorburg),"[52.07440397850653, 4.361922798963088]",None,Voorburg
+Basketball,Netherlands,Attacus,Prins Willem Alexander Sportpark (Veghel),"[51.62756809456476, 5.540523520311698]",None,Attacus
+Basketball,Netherlands,ZZ Leiden 2,Sportcomplex 1574 (Leiden),"[52.150228272858335, 4.475078428123231]",Sportcomplex 1574 (Leiden),Leiden 2
+Basketball,Netherlands,ZZ Leiden,Sportcomplex 1574 (Leiden),"[52.150228272858335, 4.475078428123231]",Sportcomplex 1574 (Leiden),Leiden
+Basketball,Netherlands,Heroes Den Bosch,Maaspoort ('s-Hertogenbosch),"[51.72274929056509, 5.315921805973884]",Maaspoort ('s-Hertogenbosch),Den Bosch
+Basketball,Netherlands,Den Helder SUNS,Topsportcomplex Quelderduyn (Den Helder),"[52.94500336335183, 4.766985763518091]",Sporthal Sportlaan (Den Helder),Den Helder
+Basketball,Netherlands,US Basketball Amsterdam,Amstelcampushal,"[52.358518461408984, 4.910182849685612]",None,US Basketball Amsterdam
+Basketball,Netherlands,Feyenoord,Topsportcentrum Rotterdam (Rotterdam),"[51.893891644567645, 4.526102325616076]",Topsportcentrum Rotterdam (Rotterdam),Feyenoord
+Basketball,Netherlands,QSTA Utd,Sportcentrum De Kooi (Bemmel),"[51.88696562958656, 5.904444983354549]",Sportcentrum De Schaapskooi (Bemmel),None
+Basketball,Netherlands,Donar Groningen,MartiniPlaza (Groningen),"[53.20263584455661, 6.555335338696888]",MartiniPlaza (Groningen),Donar Groningen
+Basketball,Netherlands,LWD Basket,Sporthal Kalverdijkje,"[53.21178035988868, 5.825487946639896]",Sportcentrum Kalverdijkje (Leeuwarden),None
+Basketball,Netherlands,Landstede Hammers,Landstede Sportcentrum (Zwolle),"[52.521683814225874, 6.122698091475312]",Landstede Sportcentrum (Zwolle),Zwolle
+Basketball,Netherlands,Prismaworx BAL,Sporthal Boshoven (Weert),"[51.2574976330666, 5.692655605176817]",Sporthal Boshoven (Weert),BAL Weert
+Basketball,Netherlands,Den Helder SUNS W,Topsportcomplex Quelderduyn (Den Helder),"[52.94500336335183, 4.766985763518091]",None,Den Helder W
+Basketball,Netherlands,ZZ Leiden W,Sportcomplex 1574 (Leiden),"[52.150228272858335, 4.475078428123231]",None,Leiden W
+Basketball,Netherlands,Grasshoppers W,Sporthal Cleijn Duin (Katwijk aan Zee),"[52.20042692214154, 4.416561718040982]",None,None
+Basketball,Netherlands,Comfective Hammers W,Landstede Sportcentrum (Zwolle),"[52.521683814225874, 6.122698091475312]",Landstede Sportcentrum (Zwolle),Zwolle W
+Basketball,Netherlands,CBV Binnenland W,Sporthal De Driesprong (Barendrecht),"[51.850458741376066, 4.548506639269764]",None,Binnenland W
+Basketball,Netherlands,Triple Threat W,Spaarnehal (Haarlem),"[52.35612320101054, 4.655507391857526]",None,None
+Basketball,Netherlands,TopKip Lions W,Indoor Centrum Landsmeer (Landsmeer),"[52.42860641201674, 4.912093916563466]",None,None
+Basketball,Netherlands,AT-Automation BAL W,Sporthal Boshoven (Weert),"[51.2574976330666, 5.692655605176817]",None,Limburg W
+Basketball,Netherlands,Jolly Jumpers W,Sportcentrum De Vlaskoel (Tubbergen),"[52.41060147883501, 6.7833373333352]",None,None
+Basketball,Netherlands,QSTA Utd W,Sportcentrum De Kooi (Bemmel),"[51.88696562958656, 5.904444983354549]",None,QSTA United W
+Basketball,North Macedonia,Feniks 2010,Sports Center Jane Sandanski (Skopje),"[41.99339694323362, 21.465011108442297]",Jane Sandanski Arena (Skopje),None
+Basketball,North Macedonia,Gostivar,Sports Center Mladost (Gostivar),"[41.79148098676258, 20.90705474206095]",Mladost Sports Hall (Gostivar),None
+Basketball,North Macedonia,Kozuv,Sports Hall 26th April (Gevgelija),"[41.142884310738786, 22.50560563941855]",Sports Hall 26th of April (Gevgelija),Kozuv
+Basketball,North Macedonia,MKK Kumanovo,Sports Hall Kumanovo (Kumanovo),"[42.131849103518185, 21.728011786822332]",Sport Hall Pero Nakov (Kumanovo),MKK None
+Basketball,North Macedonia,Pelister,Boro Curlevski Sports Hall (Bitola),"[41.02202630246252, 21.337100573787588]",Boro Curlevski Sports Hall (Bitola),None
+Basketball,North Macedonia,Tikvesh Golden Eagle,Sports Center Jasmin (Kavadarci),"[41.43387846857864, 22.003944889274294]",Jasmin Sports Hall (Kavadarci),Tikvesh
+Basketball,North Macedonia,MZT Skopje,Sports Center Jane Sandanski (Skopje),"[41.99339694323362, 21.465011108442297]",Jane Sandanski Arena (Skopje),None
+Basketball,North Macedonia,Cair 2030,Sport Hall Shaban Trstena (Skopje),"[42.020755288036696, 21.445490217134594]",Sport Hall Shaban Trstena (Skopje),Cair 2030
+Basketball,North Macedonia,Rabotnicki,SRC Kale (Skopje),"[42.00287388052987, 21.431321906817388]",Sports hall City Park (Skopje),None
+Basketball,North Macedonia,TFT Skopje,SRC Kale (Skopje),"[42.00287388052987, 21.431321906817388]",SRC Kale (Skopje),None
+Basketball,North Macedonia,Vardar,SRC Kale (Skopje),"[42.00287388052987, 21.431321906817388]",SRC Kale (Skopje),Vardar
+Basketball,North Macedonia,Shkupi Skopje,SRC Kale (Skopje),"[42.00287388052987, 21.431321906817388]",SRC Kale (Skopje),None
+Basketball,Norway,Bærum Basket,Nadderudhallen (Bekkestua),"[59.92176777975443, 10.584300062397157]",Nadderudhallen (Bekkestua),Baerum
+Basketball,Norway,Oppsal,Oppsal Arena (Oslo),"[59.9061825, 10.845930475195061]",Oppsal Arena (Oslo),None
+Basketball,Norway,Centrum Tigers,Vulkanhallen (Oslo),"[59.92280294960925, 10.752133856403722]",Vulkanhallen (Oslo),None
+Basketball,Norway,Gimle,Gimlehallen (Bergen),"[60.3533405, 5.359705794811321]",Gimlehallen (Bergen),None
+Basketball,Norway,Kongsberg Miners,Kongsberghallen (Kongsberg),"[59.6804841, 9.631824826086955]",Kongsberghallen (Kongsberg),None
+Basketball,Norway,Asker Aliens,Leikvollhallen (Asker),"[59.825655299999994, 10.44358413483561]",Leikvollhallen (Asker),Asker
+Basketball,Norway,Ammerud,Apalløkka (Oslo),"[59.958411533601804, 10.865173510387274]",Apalløkka (Oslo),None
+Basketball,Norway,Fyllingen Lions,Fyllingsdalen Idrettshall (Bergen),"[60.3480905, 5.285386520613267]",Fyllingsdalen Idrettshall (Bergen),Fyllingen
+Basketball,Norway,Frøya,Frøya Arena (Bergen),"[60.37285394476722, 5.301853065410033]",Froya Arena (Sistranda),Froya
+Basketball,Norway,Tromsø Storm,Tromsøhallen (Tromsø),"[69.6759295, 18.955890689667125]",Tromsøhallen (Tromsø),Tromso
+Basketball,Norway,Nidaros Jets,Trondheim Spektrum (Trondheim),"[63.42715717494232, 10.377605862110805]",Trondheim Spektrum (Trondheim),None
+Basketball,Norway,Bærum Basket W,Nadderudhallen (Bekkestua),"[59.92176777975443, 10.584300062397157]",Nadderudhallen (Bekkestua),Baerum W
+Basketball,Norway,Asker Aliens W,Leikvollhallen (Asker),"[59.825655299999994, 10.44358413483561]",Leikvollhallen (Asker),Asker W
+Basketball,Norway,Bergen Elite W,AdO Arena (Bergen),"[60.385427491211956, 5.338643956863158]",Amalie Skram VGS (Bergen),Bergen W
+Basketball,Norway,Ullern 56ers W,Ullern Flerbrukshall (Oslo),"[59.92777075, 10.6323245]",Ullern flerbrukshall (Oslo),Ullern W
+Basketball,Norway,Ammerud W,Apalløkka (Oslo),"[59.958411533601804, 10.865173510387274]",Apalløkka (Oslo),None
+Basketball,Norway,Ulriken Eagles W,Haukelandshallen (Bergen),"[60.3699733, 5.354598181930486]",Haukelandshallen (Bergen),Ulriken W
+Basketball,Poland,Dziki Warszawa,Hala Sportowa Kolo (Warsaw),"[52.24828218175197, 20.95384133712119]",Hala Sportowa Kolo (Warsaw),None
+Basketball,Poland,Legia Warszawa,OSiR Warszawa Bemowo (Warsaw),"[52.25771840255567, 20.93045346339585]",Bemowo (Warsaw),Legia
+Basketball,Poland,Orlen Zastal Zielona Góra,Centrum Rekreacyjno-Sportowe Hala Zielona Gora (Zielona Góra),"[51.956482011539414, 15.524602987258495]",CRS Hala Zielona Gora (Zielona Góra),Zielona Gora
+Basketball,Poland,Energa Icon Sea Czarni Słupsk,Hala Gryfia (Słupsk),"[54.46132597831833, 17.00682457489194]",Hala Gryfia (Slupsk),Czarni Slupsk
+Basketball,Poland,PGE Spójnia Stargard,Hala OSiR (Stargard),"[53.34159501093287, 15.021166198955061]",Hala Miejska (Stargard),Spojnia Stargard
+Basketball,Poland,Tasomix Rosiek Stal Ostrów Wielkopolski,3mk Arena Ostrów (Ostrów Wielkopolski),"[51.65126944251998, 17.808195157850474]",Hala Sportowa Stal (Ostrow Wielkopolski),Ostrow Wielkopolski
+Basketball,Poland,Arriva Polski Cukier Toruń,Arena Toruń (Toruń),"[53.01778243829445, 18.588826247178282]",Arena Torun (Toruń),Torun
+Basketball,Poland,Anwil Włocławek,Hala Mistrzów (Włocławek),"[52.642069332338956, 19.078460340507842]",Hala Mistrzow (Wloclawek),Anwil Wloclawek
+Basketball,Poland,WKS Śląsk Wrocław,Hala Orblita (Wrocław),"[51.132495243703204, 16.987063329898152]",Hala Stulecia (Wrocław),Slask Wroclaw
+Basketball,Poland,Tauron GTK Gliwice,PreZero Arena Gliwice (Gliwice),"[50.28572954593914, 18.686116838429623]",PreZero Arena Gliwice (Gliwice),GTK Gliwice
+Basketball,Poland,Trefl Sopot,Hala Sportowa 100-lecia Sopotu (Sopot),"[54.448913016318485, 18.561862834905234]",Ergo Arena (Sopot),None
+Basketball,Poland,MKS Dąbrowa Górnicza,Hala Widowiskowo-Sportowa Centrum im. Zygmunta Cybulskiego (Dąbrowa Górnicza),"[50.320641633931885, 19.19034901445323]",Hala Widowiskowo Sportowa Centrum (Dabrowa Gornicza),Dabrowa Gornicza
+Basketball,Poland,PGE Start Lublin,MOSiR Globus (Lublin),"[51.23874177239298, 22.532675638875443]",Globus (Lublin),Lublin
+Basketball,Poland,AMW Arka Gdynia,Hala gier Gdyńskiego Centrum Sportu (Gdynia),"[54.49529645059549, 18.532219166851725]",Gdynia Arena (Gdynia),Gdynia
+Basketball,Poland,Górnik Zamek Książ Wałbrzych,Hala Widowiskowo-Sportowa Aqua Zdrój (Walbrzych),"[50.78477217212481, 16.25155732684413]",Hala Widowiskowo-Sportowa Aqua Zdroj (Walbrzych),Gornik Walbrzych
+Basketball,Poland,King Szczecin,Netto Arena (Szczecin),"[53.458317856883404, 14.493994395103325]",Netto Arena (Szczecin),Szczecin
+Basketball,Poland,1KS Ślęza Wrocław W,KGHM Ślęza Arena (Wrocław),"[51.15009960394681, 17.112018892481313]",KGHM Ślęza Arena (Wrocław),Sleza Wroclaw W
+Basketball,Poland,Enea AZS Politechnika Poznań W,Centrum Sportu Politechniki Poznańskiej (Poznań),"[52.40263216828348, 16.94808455815014]",Centrum Sportu Politechniki Poznanskiej (Poznań),AZS Poznan W
+Basketball,Poland,Polski Cukier AZS UMCS Lublin W,Hala im. Zdzisława Niedzieli (Lublin),"[51.23760757509698, 22.56832607962142]",Hala im. Zdzislawa Niedzieli (Lublin),Lublin W
+Basketball,Poland,PolskaStrefaInwestycji Enea AJP Gorzów Wlkp W,Arena Gorzów (Gorzów),"[52.74489768775007, 15.21611386141853]",Arena Gorzow (Gorzow),Gorzow W
+Basketball,Poland,KS Basket Bydgoszcz Ekstraklasa W,SISU Arena (Bydgoszcz),"[53.119658082209426, 18.0277652935965]",Sisu Arena (Bydgoszcz),Basket 25 Bydgoszcz W
+Basketball,Poland,VBW Gdynia W,Hala gier Gdyńskiego Centrum Sportu (Gdynia),"[54.49529645059549, 18.532219166851725]",Gdynia Arena (Gdynia),None
+Basketball,Poland,Energa Toruń W,Arena Toruń (Toruń),"[53.01778243829445, 18.588826247178282]",Arena Torun (Toruń),Torun W
+Basketball,Poland,SKK Polonia Warszawa W, Centrum Sportu Wilanów (Warsaw),"[52.16949722489578, 21.086276860598414]",Hala Sportowa Kolo (Warsaw),Polonia Warszawa W
+Basketball,Poland,MB Zagłębie Sosnowiec W,Arena Sosnowiec (Sosnowiec),"[50.29000754384699, 19.172000896751115]",Hala Widowiskowo-Sportowa (Sosnowiec),Sosnowiec W
+Basketball,Poland,KGHM BC Polkowice W,Hala Sportowa w Polkowicach (Polkowice),"[51.504583829645235, 16.076267431819037]",Hala Sportowa Szkoly Podstawowej (Polkowice),Polkowice W
+Basketball,Portugal,AD Galomar,Pavilhão do Caniço (Caniço),"[32.65039663493883, -16.847075812226294]",Pavilhão do Caniço (Caniço),Galomar
+Basketball,Portugal,Ovarense,Arena de Ovar (Ovar),"[40.87641382076406, -8.6332564716384]",Arena de Ovar (Ovar),None
+Basketball,Portugal,Sporting CP,Pavilhão João Rocha (Lisbon),"[38.76343095, -9.158429042801874]",Pavilhão João Rocha (Lisbon),None
+Basketball,Portugal,Galitos Barreiro,Pavilhão Municipal Prof Luís de Carvalho (Santo António da Charneca),"[38.635150431537504, -9.033006058316705]",Pavilhão Vítor Domingos (Lavradio),None
+Basketball,Portugal,Queluz O Nosso Prego,Pavilhão Henrique Miranda (Queluz),"[38.755931934826876, -9.251085175561181]",Pavilhão Henrique Miranda (Queluz),CA Queluz
+Basketball,Portugal,CD Póvoa,Pavilhão de Clube Desportivo Póvoa (Póvoa de Varzim),"[41.386969680368956, -8.772468982957381]",Clube Desportivo Póvoa (Póvoa de Varzim),CD Povoa
+Basketball,Portugal,Imortal Luzigás,Pavilhão Desportivo de Albufeira (Albufeira),"[37.099199850000005, -8.237667572392894]",Pavilhão Desportivo de Albufeira (Albufeira),Imortal
+Basketball,Portugal,Esgueira Aveiro,Pavilhão Clube do Povo de Esgueira (Aveiro),"[40.65010780816007, -8.629086813190808]",Pavilhão Clube do Povo de Esgueira (Esgueira),Esgueira
+Basketball,Portugal,SL Benfica,Pavilhão Fidelidade (Lisbon),"[38.751281199999994, -9.183507791831957]",Pavilhão Fidelidade (Lisbon),Benfica
+Basketball,Portugal,UD Oliveirense,Pavilhão Dr. Salvador Machado (Oliveira de Azeméis),"[40.831084847119, -8.485173184726737]",Pavilhão Dr. Salvador Machado (Oliveira de Azemeis),Oliveirense
+Basketball,Portugal,Vítoria SC,Pavilhão Unidade Vimaranense (Guimarães),"[41.448075492416876, -8.280344913682713]",Pavilhao Desportivo Unidade Vimaranense (Guimarães),Vitoria
+Basketball,Portugal,FC Porto,Pavilhão Dragão Arena (Porto),"[41.16266044722196, -8.581730065611943]",Pavilhão Dragão Arena (Porto),None
+Basketball,Portugal,Clube Basket De Queluz,Pavilhão Municipal Prof Luís de Carvalho (Santo António da Charneca),"[38.635150431537504, -9.033006058316705]",Complexo Desportivo Municipal João Carlos Cifuentes (Queluz),CB Queluz
+Basketball,Portugal,SL Benfica U23,Pavilhão Fidelidade (Lisbon),"[38.751281199999994, -9.183507791831957]",Pavilhão Fidelidade (Lisbon),Benfica Lisboa B
+Basketball,Portugal,Sampaense Inspecentro,Pavilhão Comendador Serafim Marques (São Paio de Gramaços),"[40.351251325493834, -7.840789756804897]",Pavilhao Comendador Serafim Marques (São Paio de Gramaços),Sampaense
+Basketball,Portugal,Illiabum/Margres,Pavilhão Municipal Capitão Adriano Nordeste (Ílhavo),"[40.6026856, -8.670392646353102]",Pavilhão Capitão Adriano Nordeste (Ílhavo),Illiabum
+Basketball,Portugal,Maia Basket Clube,Pavilhão Mun. Nortecoope (Maia),"[41.22350378530828, -8.60914193891129]",Pavilhão Mun. Nortecoope (Maia),Maia
+Basketball,Portugal,Sporting Clube de Braga,AMCO Arena (Braga),"[41.56555047284011, -8.430145719221837]",Sports Pavilion Lamacaes (Braga),Braga
+Basketball,Portugal,Imortal AOC U23,Pavilhão Desportivo de Albufeira (Albufeira),"[37.099199850000005, -8.237667572392894]",Pavilhão Desportivo de Albufeira (Albufeira),Imortal B
+Basketball,Portugal,Casino Ginásio,Pavilhão Galamba Marques (Figueira da Foz),"[40.1628336, -8.858124751238694]",Pavilhão Galamba Marques (Figueira da Foz),Ginasio
+Basketball,Portugal,Portimonense SC,Pavilhão Desportivo da Boavista (Portimão),"[37.14541391134162, -8.548019457597592]",Pavilhão Desportivo da Boavista (Portimão),Portimonense
+Basketball,Portugal,Sangalhos Desporto Clube,Complexo Desportivo de Sangalhos (Sangalhos),"[40.48418244630612, -8.466100370738419]",Complexo Desportivo de Sangalhos (Sangalhos),Sangalhos
+Basketball,Portugal,SC Vasco da Gama,Parque das Camélias (Porto),"[41.14365891923691, -8.605964623851014]",Parque das Camélias (Porto),Vasco Da Gama
+Basketball,Portugal,SC Lusitânia,Pavilhão Municipal de Angra do Heroísmo (Angra do Heroísmo),"[38.654577507776594, -27.224137729041118]",Pavilhão Municipal de Angra do Heroísmo (Angra do Heroísmo),Lusitania
+Basketball,Portugal,Clube dos Galitos,Pavilhão do Clube dos Galitos (Aveiro),"[40.63697753170757, -8.64106574308869]",Pavilhao do Clube dos Galitos (Aveiro),Galitos Aveiro
+Basketball,Portugal,CAB Madeira,Pavilhão Clube Amigos do Basquete (Funchal),"[32.64541354884884, -16.932241372735128]",Pavilhao Clube Amigos do Basquete (Funchal),None
+Basketball,Portugal,BSA-GALP,Pavilhão Municipal Padre Amadeu Pinto (Santo Andre),"[38.067638849999994, -8.792184896512982]",Pavilhao Municipal Padre Amadeu Pinto (Santo Andre),Santo Andre
+Basketball,Portugal,FC Barreirense,Pavilhão Municipal Prof Luís de Carvalho (Santo António da Charneca),"[38.635150431537504, -9.033006058316705]",Pavilhão Vítor Domingos (Lavradio),Barreirense
+Basketball,Portugal,Uniao Sportiva W,Pavilhão Desportivo Sidónio Serpa (Panta Delgada),"[37.74708905302634, -25.67638794828213]",Pavilhao Sidonio Serpa (Vila Franca do Campo),None
+Basketball,Portugal,Basquete Barcelos W,Escola Secundaria de Barcelos (Barcelos),"[41.52930439777982, -8.614037507984667]",Escola Secundaria de Barcelos (Barcelos),Barcelos W
+Basketball,Portugal,Clube dos Galitos W,Pavilhão do Clube dos Galitos (Aveiro),"[40.63697753170757, -8.64106574308869]",Pavilhao do Clube dos Galitos (Aveiro),Galitos W
+Basketball,Portugal,Quinta Dos Lombos W,Pavilhão Desportivo dos Lombos (Carcavelos),"[38.68782341656689, -9.325531707532294]",Pavilhao Desportivo dos Lombos (Quinta dos Lombos),None
+Basketball,Portugal,AD Sanjoanense W,Pavilhão Municipal Paulo Pinto (São João da Madeira),"[40.899399259613354, -8.496068932157847]",Pavilhão Municipal Paulo Pinto (São João da Madeira),Sanjoanense W
+Basketball,Portugal,SL Benfica W,Pavilhão Fidelidade (Lisbon),"[38.751281199999994, -9.183507791831957]",Pavilhão Fidelidade (Lisbon),Benfica W
+Basketball,Portugal,Imortal W,Pavilhão Desportivo de Albufeira (Albufeira),"[37.099199850000005, -8.237667572392894]",Pavilhão Desportivo de Albufeira (Albufeira),None
+Basketball,Portugal,CAB Madeira W,Pavilhão Clube Amigos do Basquete (Funchal),"[32.64541354884884, -16.932241372735128]",Pavilhao Clube Amigos do Basquete (Funchal),None
+Basketball,Portugal,Esgueira Aveiro W,Pavilhão Clube do Povo de Esgueira (Aveiro),"[40.65010780816007, -8.629086813190808]",Pavilhao Clube do Pova de Esgueira (Aveiro),Esgueira W
+Basketball,Portugal,CPN W,Pavilhão Municipal de Ermesinde (Ermesinde),"[41.2075707, -8.556581063876095]",Pavilhao Municipal de Ermesinde (Ermesinde),Natacao W
+Basketball,Portugal,Gdessa Barreiro W,Pavilhão Municipal Prof Luís de Carvalho (Santo António da Charneca),"[38.635150431537504, -9.033006058316705]",Pavilhao Municipal Luis de Carvalho (Barreiro),None
+Basketball,Portugal,ABTF Betão Vagos W,Pavilhão Municipal de Vagos (Vagos),"[40.546120530838316, -8.684344859478657]",Pavilhao Municipal de Vagos (Vagos),AD Vagos W
+Basketball,Portugal,Sporting CP W,Pavilhão João Rocha (Lisbon),"[38.76343095, -9.158429042801874]",Pavilhão João Rocha (Lisbon),Sporting CP W
+Basketball,Portugal,Braga W,Sports Pavilion Lamaçães (Braga),"[Sports Pavilion Lamaçães]",AMCO Arena (Braga),Braga W
+Basketball,Portugal,CD Escola Francisco Franco W,Pavilhão Francisco Franco (Funchal),"[32.652083116300616, -16.90590196769699]",Pavilhao Francisco Franco (Funchal),CDEFF W
+Basketball,Romania,SCM Timisoara,Sala Sporturilor Constantin Jude (Timişoara),"[45.74624933766228, 21.24153076397287]",Sala Constantin Jude (Timişoara),None
+Basketball,Romania,CSM Targu Mures,Sala Sporturilor Târgu Mureș (Târgu Mureş),"[46.55009600456181, 24.55178633982055]",Sala Sporturilor Târgu Mureș (Târgu Mureş),None
+Basketball,Romania,CS Dinamo Bucharest,Sala Polivalenta Dinamo (Bucharest),"[44.454031650000005, 26.10407916432288]",Sala Polivalenta Dinamo (Bucharest),Dinamo Bucharest
+Basketball,Romania,SCMU Craiova,Sala Polivalentă Craiova (Craiova),"[44.31323430294878, 23.786333793588845]",Sala Polivalenta din Craiova (Craiova),SCM Craiova
+Basketball,Romania,CS Valcea 1924,Sala Sporturilor Traian (Râmnicu Vâlcea),"[45.10798023413706, 24.370848828325556]",Traian Sports Hall (Râmnicu Vâlcea),Valcea
+Basketball,Romania,CSM Galati,Sala Sporturilor (Galati),"[45.419243216149184, 28.022341876342846]",Dunarea Galati (Galati),Municipal Galati
+Basketball,Romania,CSM Corona Brasov,Dumitru Popescu Colibași Sports Hall (Braşov),"[45.66015715300312, 25.617995741376635]",Sala Sporturilor Dumitru Popescu Colibasi (Braşov),Corona Brasov
+Basketball,Romania,U-BT Cluj-Napoca,BT Arena (Cluj-Napoca),"[46.76719503585072, 23.57027476864663]",BT Arena (Cluj-Napoca),Cluj-Napoca
+Basketball,Romania,BC CSU Sibiu,Sala Sporturilor Transilvania (Sibiu),"[45.78293251651696, 24.145731214094276]",Sala Sporturilor Transilvania (Sibiu),CSU Sibiu
+Basketball,Romania,CSM CSU Constanta,Sala Sporturilor Constanta (Constanta),"[44.182500399999995, 28.648571539248792]",Sala Sporturilor Constanta (Constanta),CSM Constanta
+Basketball,Romania,CSM BBA Petrolul Ploiesti,Sala Sporturilor Olimpia (Ploiesti),"[44.931989877010096, 26.011736414415047]",Olimpia Sports Hall (Ploiesti),Petrolul Ploiesti
+Basketball,Romania,CSO Voluntari,Sala de Sport Gabriela Szabo (Voluntari),"[44.48684247216633, 26.18592582073158]",Sala de Sport Gabriela Szabo (Voluntari),Voluntari
+Basketball,Romania,CS Rapid Bucuresti,Sala Rapid Giulesti (Bucharest),"[44.45685565315407, 26.05593156943063]",Rapid Arena (Bucharest),Rapid Bucuresti
+Basketball,Romania,CSM CSU Oradea,Arena Antonio Alexe (Oradea),"[47.06668609345263, 21.909300857788363]",Oradea Arena (Oradea),CSM Oradea
+Basketball,Romania,FC Arges Pitesti,Pitesti Arena (Pitesti),"[44.839554371217474, 24.893907100791445]",Trivale Pitesti (Pitesti),Arges Pitesti
+Basketball,Romania,CSA Steaua Bucuresti,Sala de Sport Mihai Viteazul (Bucharest),"[44.42974253535537, 26.05509476984594]",Mihai Viteazul Bucuresti (Bucharest),BC Steaua Bucuresti
+Basketball,Romania,CS Agronomia Bucuresti W,Sala de sport Agronomie (Bucharest),"[44.471535241139804, 26.06409679417536]",Sala Agronomia (Bucharest),Agronomia Bucuresti W
+Basketball,Romania,FCC Baschet UAV Arad W,Sala Polivalentă Victoria (Arad),"[46.1795566, 21.334329829329604]",Sala Polivalentă Victoria (Arad),Arad W
+Basketball,Romania,CS Municipal Targoviste W,Sala Polivalentă Târgoviște (Târgoviște),"[44.92777247389013, 25.43840394150131]",Sala Sporturilor Targoviste (Targoviste),Municipal Targoviste W
+Basketball,Romania,CS Rapid Bucuresti W,Sala Rapid Giulesti (Bucharest),"[44.45685565315407, 26.05593156943063]",Rapid Arena (Bucharest),Rapid Bucuresti W
+Basketball,Romania,CS Universitatea Cluj-Napoca W,Sala Sporturilor Horia Demian (Cluj-Napoca),"[46.76557566189442, 23.564579803630597]",Horia Demian Cluj (Cluj-Napoca),Cluj Napoca W
+Basketball,Romania,CSM CSU Constanta W,Sala Sporturilor Constanta (Constanta),"[44.182500399999995, 28.648571539248792]",Sala Sporturilor Constanta (Constanta),CSM Constanta W
+Basketball,Romania,CS Universitar Brasov W,Dumitru Popescu Colibași Sports Hall (Braşov),"[45.66015715300312, 25.617995741376635]",Sala Sporturilor Dumitru Popescu Colibasi (Braşov),CSU Brasov W
+Basketball,Romania,ACS Sepsi SIC W,Sepsi Arena (Sfantu Gheorghe),"[45.881291473544195, 25.80851246056355]",Sepsi Arena (Sfantu Gheorghe),Sepsi SIC W
+Basketball,Serbia,KK SPD Radnički,Hala Jezero (Belgrade),"[44.013565179662066, 20.92406492145216]",Hala SD Radnički (Belgrade),BKK Radnicki
+Basketball,Serbia,KK Metalac,Hala Sportova 15. Septembar (Valjevo),"[44.27154760280992, 19.882794448019457]",Hala sportova 15. septembar (Valjevo),None
+Basketball,Serbia,KK Sloboda,VSportska hala Veliki park (Užice),"[43.84821918455362, 19.846045173393218]",Veliki Park Sports Hall (Uzice),Sloboda
+Basketball,Serbia,KK Sloga,Nova Hala Sportova (Kraljevo),"[43.71490905, 20.694083794866252]",Nova hala sportova (Kraljevo),Sloga
+Basketball,Serbia,KK Tamiš,Hala Sportova Strelište (Pančevo),"[44.8616523, 20.66133120999]",Hala sportova Strelište (Pančevo),Tamis
+Basketball,Serbia,KK Vojvodina,SPC Vojvodina (Novi Sad),"[45.246963524315646, 19.845306602407558]",SPC Vojvodina (Novi Sad),Vojvodina Novi Sad
+Basketball,Serbia,KK Vršac Meridianbet,Centar Milenijum (Vrsac),"[45.117974399999994, 21.3108601]",Centar Milenijum (Vrsac),Vrsac
+Basketball,Serbia,ZLATIBOR Mozzart,Sportska hala Čajetina (Čajetina),"[43.752015704752424, 19.719062164804033]",Cajetina Sports Hall (Cajetina),Zlatibor
+Basketball,Serbia,KK Čačak 94 Quantox,KK Borac (Čačak),"[43.89746960625801, 20.352482701425085]",Borac Hall (Čačak),Cacak 94
+Basketball,Serbia,KK Dynamic Balkan Bet,Dynamic Sport & Health Club (Belgrade),"[44.82567968436526, 20.46555417525949]",Dynamic Arena (Belgrade),Dynamic
+Basketball,Serbia,KK Joker,Mostonga Hall (Sombor),"[45.7626676, 19.1009657]",Gradska hala Mostonga (Sombor),Joker
+Basketball,Serbia,KK Mladost SP,Hale OŠ Vuk Karadžić (Smederevska Palanka),"[44.37841884061148, 20.94981585682856]",Vuk Karadžić School Hall (Smederevska Palanka),None
+Basketball,Serbia,KK Mladost MaxBet,Sportski centar Master (Zemun),"[44.8379189, 20.410271]",Sportski centar Master (Zemun),Mladost Zemun
+Basketball,Serbia,OKK Beograd,Trening centar Dejan Milojević (Belgrade),"[44.76622906580187, 20.493017186157825]",Dejan Milojevic Training Center (Belgrade),None
+Basketball,Serbia,OKK Novi Pazar Salamander,Doguš Novi Pazar sports academy (Novi Pazar),"[43.12869954955566, 20.505940121569076]",Pendik (Novi Pazar),OKK Novi Pazar
+Basketball,Serbia,BKK Radnički,Hala David Kalinić (Kragujevac),"[44.804727007330996, 20.4899816500193]",Jezero Hall (Kragujevac),Radnicki
+Basketball,Serbia,Novosadska ŽKA W,SPC Vojvodina (Novi Sad),"[45.246963524315646, 19.845306602407558]",SPC Vojvodina (Novi Sad),Novosadska Novi Sad W
+Basketball,Serbia,Proleter 023 W,Kristalna dvorana (Zrenjanin),"[45.38546823648106, 20.39930647219916]",Crystal Hall (Zrenjanin),Proleter Zrenjanin W
+Basketball,Serbia,Ras W,Sportski centar Rakovica (Belgrade),"[44.75250355, 20.445400319494354]",Sportski centar Rakovica (Belgrade),None
+Basketball,Serbia,Sloga W,Sportska Hala Požega (Požega),"[43.84569447644632, 20.039322464113475]",Sportska hala Pozega (Pozega),Sloga Pozega W
+Basketball,Serbia,Spartak W,Hala Sportova Dudova šuma (Subotica),"[46.10929845533271, 19.65533089941648]",Hala sportova Dudova šuma (Subotica),Spartak Subotica W
+Basketball,Serbia,Student Niš W,OŠ Duško Radović (Niš),"[43.32000726418889, 21.931388167474122]",OŠ Duško Radović (Niš),Student Nis W
+Basketball,Serbia,Partizan 1953 W,Vizura Sports Center (Zemun),"[44.85185904345625, 20.394217498731035]",Hala sportova Ranko Žeravica (Belgrade),Partizan W
+Basketball,Serbia,Duga W,Šabačka gimnazija (Sabac),"[44.75524775991665, 19.693070744823572]",Gimnazija (Sabac),Duga W
+Basketball,Serbia,Mega Superbet W,Trening centar Dejan Milojević (Belgrade),"[44.76622906580187, 20.493017186157825]",Dejan Milojevic Training Center (Belgrade),Mega MIS W
+Basketball,Serbia,Vojvodina 021 W,Sportska Hala Petrovaradin (Petrovaradin),"[45.25081132639265, 19.8804201329426]",Petrovaradin (Novi Sad),None
+Basketball,Serbia,Kraljevo W,Stara Hala Sportova Kraljevo (Kraljevo),"[43.72300171619774, 20.685835583358624]",Nova hala sportova (Kraljevo),ZKK Kraljevo W
+Basketball,Serbia,Crvena zvezda W,Železnik Hall (Belgrade),"[44.77222727366125, 20.408917108170595]",Železnik Hall (Belgrade),None
+Basketball,Slovakia,BC Komárno,Mestská športová hala (Komárno),"[47.75806643974666, 18.13482179962755]",City sports Hall (Komárno),BC Komarno
+Basketball,Slovakia,Iskra Svit,Iskra Aréna (Svit),"[49.05647926443261, 20.200083973223933]",Iskra Arena (Svit),None
+Basketball,Slovakia,NEXTGEN Slovakia,Mestská športová hala (Nitra),"[48.297643216798434, 18.06701673525684]",ŠH Trnávka (Bratislava),None
+Basketball,Slovakia,BKM Lučenec,Športová hala ARENA (Lučenec),"[48.330675610363954, 19.668989593493222]",Sportova hala ARENA (Lucenec),BKM Lucenec
+Basketball,Slovakia,Spišskí Rytieri,Mestská športová hala (Spišská Nová Ves),"[48.93779436928101, 20.56469542096675]",Sportova hala Spisska Nova Ves (Spisska Nova Ves),Spisski Rytieri
+Basketball,Slovakia,Patrioti Levice,Haleon Aréna (Levice),"[48.22068099166672, 18.597776226254265]",Sportova hala Levice (Levice),Levice
+Basketball,Slovakia,Nitra Blue Wings,Mestská športová hala (Nitra),"[48.297643216798434, 18.06701673525684]",Mestska hala Nitra (Nitra),None
+Basketball,Slovakia,Inter Bratislava,GoPass Aréna (Bratislava),"[48.1624719293006, 17.141248212119933]",GoPass Arena (Bratislava),None
+Basketball,Slovakia,MBK BANÍK Handlová,Športová hala (Handlová),"[48.72981877024571, 18.76984619524007]",Sportova hala Handlova (Handlova),MBK Handlova
+Basketball,Slovakia,BC Prievidza,Športová hala (Prievidza),"[48.777516426830225, 18.602933988220396]",Sportova hala (Prievidza),None
+Basketball,Slovenia,Šentjur,Športna dvorana Hruševec (Šentjur),"[46.20795092907807, 15.390296391938715]",Osnovna sola Hrusevec Sentjur (Sentjur),Tajfun Sentjur
+Basketball,Slovenia,GGD Šenčur,Športna dvorana Šenčur (Šenčur),"[46.24909126070943, 14.419337585258736]",Sportna dvorana Sencur (Sencur),Sencur
+Basketball,Slovenia,Rogaška,Športna dvorana Rogaška Slatina (Rogaska Slatina),"[46.24204573832108, 15.624620335439415]",SD Rogaska Slatina (Rogaska Slatina),Rogaska
+Basketball,Slovenia,ECE Triglav Kranj,Športna dvorana Planina (Kranj),"[46.236095488892296, 14.365800466133038]",Sportna dvorana Planina (Kranj),KK Triglav Kranj
+Basketball,Slovenia,Terme Olimia Podčetrtek,Športna dvorana Podčetrtek (Podčetrtek),"[46.154883346291086, 15.60772161034814]",Sportna dvorana Podcetrtek (Podcetrtek),Podcetrtek
+Basketball,Slovenia,Kansai Helios Domžale,Športna dvorana Domžale (Domžale),"[46.139467350000004, 14.595083529962078]",Sportna dvorana Domzale (Domžale),Helios Domzale
+Basketball,Slovenia,Zlatorog Thermana Laško,Dvorana Tri lilije (Laško),"[46.164829850000004, 15.23039335]",Dvorana Tri lilije (Laško),Zlatorog Lasko
+Basketball,Slovenia,LTH Castings,Športna dvorana Poden (Škofja Loka),"[46.1698727, 14.301909328547604]",Sportna dvorana Poden (Skofja Loka),None
+Basketball,Slovenia,Ilirija,Hala Tivoli (Ljubljana),"[46.0599189, 14.495179149999998]",Hala Tivoli (Ljubljana),None
+Basketball,Slovenia,Krka,Športna dvorana Leona Štuklja (Novo Mesto),"[45.795130673226765, 15.159295834760442]",SD Leona Stuklja (Novo Mesto),KK Krka Novo mesto
+Basketball,Slovenia,Cedevita Olimpija,Arena Stožice (Ljubljana),"[46.08137065, 14.521460334999997]",Arena Stožice (Ljubljana),Cedevita Olimpija
+Basketball,Slovenia,Hopsi Polzela,Športna dvorana Polzela (Polzela),"[46.2796591463709, 15.078524632489898]",Dvorana Tri lilije (Laško),Polzela
+Basketball,Slovenia,Hidria,Modra dvorana (Idrija),"[46.00164171072855, 14.02690138954533]",Stadio di Idra (Idrija),None
+Basketball,Slovenia,Maribor W,Športna dvorana Lukna (Maribor),"[46.56265241343293, 15.639154646788986]",Dvorana Tabor (Maribor),None
+Basketball,Slovenia,Triglav W,Športna dvorana Planina (Kranj),"[46.236095488892296, 14.365800466133038]",Sportna dvorana Planina (Kranj),None
+Basketball,Slovenia,Domžale W,Športna dvorana Domžale (Domžale),"[46.139467350000004, 14.595083529962078]",OŠ Venclja Perka (Domžale),ZKK Domzale W
+Basketball,Slovenia,Ilirija W,Dvorana Ježica (Ljubljana),"[46.09556889839048, 14.50844889268113]",Dvorana Jezica (Ljubljana),None
+Basketball,Slovenia,Domel W,Športna dvorana Poden (Škofja Loka),"[46.1698727, 14.301909328547604]",Sportna dvorana Poden (Skofja Loka),Domel Skofja Loka W
+Basketball,Slovenia,Ježica W,Dvorana Ježica (Ljubljana),"[46.09556889839048, 14.50844889268113]",Dvorana Jezica (Ljubljana),Jezica W
+Basketball,Slovenia,Cinkarna Celje W,Gimnazija Celje - Center (Celje),"[46.23310481970758, 15.264016287165788]",Gimnazija Celje - Center (Celje),None
 
 
 
 
-Basketball,France,Cholet,La Meilleraie (Cholet),"[47.057505649999996, -0.8967921027389563]",,
-Basketball,France,Dijon,Palais des Sports Jean-Michel Geoffroy (Dijon),"[47.3322991, 5.0560478]",,
-Basketball,France,Nanterre,Palais des Sports Maurice Thorez (Nanterre),"[48.8921326, 2.2122870278731295]",,
-Basketball,France,Saint Quentin,Palais des Sports Pierre Ratte (Saint Quentin),"[49.848710499999996, 3.294276179941865]",,
-Basketball,France,Le Mans,Antares (Le Mans),"[47.956156500000006, 0.22622395183115834]",,
-Basketball,France,Limoges,Palais des Sports de Beaublanc (Limoges),"[45.847518199999996, 1.243392198627046]",,
-Basketball,France,Chalon/Saone,Le Colisee (Chartres),"[48.44768225, 1.478287376016684]",,
-Basketball,France,Lyon-Villeurbanne,LDLC Arena (Lyon),"[45.76951755, 4.979945621786063]",,
-Basketball,France,Nancy,Palais des Sports Jean-Weille (Nancy),"[48.69926065, 6.139178536038338]",,
-Basketball,France,Paris,Adidas Arena (Paris),"[48.8995582, 2.360750702816559]",,
-Basketball,France,Strasbourg,Rhénus Sport (Strasbourg),"[48.59961606506762, 7.765313268962918]",,
-Basketball,France,Le Portel,Le Chaudron (Le Portel),"[50.71715965, 1.5844744869500107]",,
-Basketball,France,Gravelines-Dunkerque,Stade des Flandres (Dunkerque),"[51.03556002501126, 2.391932610852435]",,
-Basketball,France,JL Bourg,Ekinox (Bourg-en-Bresse),"[46.1864829, 5.247713041098993]",,
-Basketball,France,La Rochelle,Salle Gaston Neveur (La Rochelle),"[46.167151953084925, -1.1537693176442574]",,
-Basketball,France,Monaco,Salle Gaston Medecin (Monaco),"[43.72837218273167, 7.415084784109303]",,
-Basketball,France,Aix Maurienne,Halle de Marlioz (Aix-les-Bains),"[45.66612803700635, 5.912536811171317]",,
-Basketball,France,Nantes,Salle métropolitaine de la Trocardière (Nantes),"[47.179950500000004, -1.5719297435365398]",,
-Basketball,France,Roanne,Halle Andre Vacheresse (Roanne),"[46.03118525, 4.0515478966606135]",,
-Basketball,France,Rouen,Kindarena (Rouen),"[49.44786035, 1.0632949370374014]",,
-Basketball,France,Antibes,Azurarena Antibes (Antibes),"[43.6037703, 7.0806693]",,
-Basketball,France,ASA,Espace Sport La Forêt (Gries),"[48.756157761273386, 7.824073297805243]",,
-Basketball,France,Hyeres-Toulon,Palais des Sports de Toulon (Toulon),"[43.126101, 5.914918873218786]",,
-Basketball,France,Poitiers,Salle Saint-Éloi (Poitiers),"[46.59079, 0.38524649077041695]",,
-Basketball,France,Boulazac,Le Palio (Boulazac),"[45.1838263, 0.760784620283868]",,
-Basketball,France,Caen,Palais des Sports Caen la mer (Caen),"[49.1712762, -0.3851897260254161]",,
-Basketball,France,Ada Blois,Jeu de Paume (Blois),"[47.6010813, 1.328218]",,
-Basketball,France,Chalons-Reims,Palais des Sports Pierre de Coubertin (Chalons-en-Champagne),"[48.962426984943875, 4.36509625804828]",,
-Basketball,France,Chartres,Le Colisee (Chartres),"[48.44768225, 1.478287376016684]",,
-Basketball,France,Denain-Voltaire,Salle Jean Degros (Denain),"[50.32271242106947, 3.398421155543354]",,
-Basketball,France,Evreux,Centre Omnisports - Salle Jean Fourré (Évreux),"[49.02220517688596, 1.1391595554878833]",,
-Basketball,France,Fos-sur-Mer,Halle des Sports Parsemain (Fos-sur-Mer),"[43.46766327632139, 4.946475097592123]",,
-Basketball,France,Orleans,CO'met (Orleans),"[47.87466179518236, 1.9130916855801383]",,
-Basketball,France,St. Chamond,Arena Saint-Etienne Metropole (Saint-Étienne),"[45.4581015, 4.487368467431698]",,
-Basketball,France,Vichy,Palais des Sports Pierre Coulon (Vichy),"[46.13883415, 3.406465765933116]",,
-Basketball,France,Pau-Orthez,Palais des Sports de Pau (Pau),"[43.3344993, -0.3627183598257534]",,
-Basketball,France,Tours,Gymnase Halle Monconseil (Tours),"[47.420877700000005, 0.7004407943277319]",,
-Basketball,France,French Players,Accor Arena (Paris),"[48.83870845, 2.3787666192264645]",,
-Basketball,France,Lyon-Villeurbanne U21,Astroballe (Lyon),"[45.76642235, 4.907363568145161]",,
-Basketball,France,Dijon U21,Jean-Marc Boivin Gymnasium (Dijon),"[47.33236359964694, 5.036308726581743]",,
-Basketball,France,Nancy U21,Palais des Sports Jean-Weille (Nancy),"[48.69926065, 6.139178536038338]",,
-Basketball,France,Saint Quentin U21,Palais des Sports Pierre Ratte (Saint Quentin),"[49.848710499999996, 3.294276179941865]",,
-Basketball,France,Nanterre U21,Palais des Sports Maurice Thorez (Nanterre),"[48.8921326, 2.2122870278731295]",,
-Basketball,France,Chalon/Saone U21,Le Colisee (Chartres),"[48.44768225, 1.478287376016684]",,
-Basketball,France,Limoges U21,Palais des Sports de Beaublanc (Limoges),"[45.847518199999996, 1.243392198627046]",,
-Basketball,France,Le Mans U21,Antares (Le Mans),"[47.956156500000006, 0.22622395183115834]",,
-Basketball,France,Monaco U21,Salle Gaston Medecin (Monaco),"[43.7279054, 7.4150004]",,
-Basketball,France,Paris U21,Halle Carpentier (Paris),"[48.81996905, 2.367654296901703]",,
-Basketball,France,Cholet U21,La Meilleraie (Cholet),"[47.057505649999996, -0.8967921027389563]",,
-Basketball,France,La Rochelle U21,Salle Gaston Neveur (La Rochelle),"[46.167151953084925, -1.1537693176442574]",,
-Basketball,France,Strasbourg U21,Rhénus Sport (Strasbourg),"[48.59961606506762, 7.765313268962918]",,
-Basketball,France,Gravelines-Dunkerque U21,Salle Norbert Merlen (Gravelines),"[51.0028305, 2.114205578782471]",,
-Basketball,France,Le Portel U21,Le Chaudron (Le Portel),"[50.71715965, 1.5844744869500107]",,
-Basketball,France,JL Bourg U21,Ekinox (Bourg-en-Bresse),"[46.1864829, 5.247713041098993]",,
-Basketball,France,Landes W,Espace Francois Mitterrand (Mont-de-Marsan),"[43.897458150000006, -0.46475386949461694]",,
-Basketball,France,Bourges W,Palais des sports du Prado (Bourges),"[47.0827718, 2.3856779004865967]",,
-Basketball,France,Charnay Bourgogne Sud W,Le Cosec (Charnay-lès-Mâcon),"[46.307144986455775, 4.809846631476602]",,
-Basketball,France,Chartres W,Halle Jean-Cochet (Chartres),"[48.4505945, 1.5045834263297366]",,
-Basketball,France,Lattes Montpellier W,Palais des Sports de Lattes (Lattes),"[43.569863739421926, 3.900110083301734]",,
-Basketball,France,Flammes Carolo W,Guinguette Arena (Charleville-Mezieres),"[49.7575512486334, 4.706917725917811]",,
-Basketball,France,ESB Villeneuve W,Le Palacium (Villeneuve d'Ascq),"[50.627662784092905, 3.1347613529501572]",,
-Basketball,France,La Roche W,Salle des Oudairies (La Roche-sur-Yon),"[46.67139705256338, -1.40406771954698]",,
-Basketball,France,Tarbes GB W,Tarbes Palais des Sports (Tarbes),"[43.23062502944826, 0.08798026610102531]",,
-Basketball,France,Angers W,Stade Jean-Bouin (Évreux),"[49.02293645, 1.1297960302018355]",,
-Basketball,France,Landerneau Bretagne W,La Cimenterie (Landerneau),"[48.44472735, -4.2631347204724905]",,
-Basketball,France,Lyon W,Gymnase Mado Bonnet (Lyon),"[45.7346615, 4.870137004701835]",,
-Basketball,France,Centre Federal BB W,Salle Marie Thérèse Eyquem (Paris),"[48.83368637161447, 2.4544695036322093]",,
-Basketball,France,Le Havre W,Salle des Docks Oceane (Le Havre),"[49.4912750673023, 0.131863781729344]",,
-Basketball,France,Nice W,Salle Serge Leyrit (Nice),"[43.714858500000005, 7.291541997523365]",,
-Basketball,France,Pays Voironnais W,Henri Chautard Gymnasium (Voiron),"[45.36061221175691, 5.593842649009182]",,
-Basketball,France,Toulouse W,Gymnase Compans Caffarelli (Toulouse),"[43.61296495, 1.4350782512331977]",,
-Basketball,France,Union Hainaut W,Salle Maurice Hugot (Saint-Amand-Les-Eau),"[50.45101029519882, 3.4340322547870397]",,
-Basketball,France,Aulnoye AS W,Salle Nelson Mandela (Aulnoye-Aymeries),"[50.1967906, 3.8364145752802887]",,
-Basketball,France,Feytiat W,Salle Roger Couderc (Feytiat),"[45.8050814, 1.3263344]",,
-Basketball,France,Mondeville W,Halle des sports Pierre Beregovoy (Mondeville),"[49.17866648472799, -0.3174755508121463]",,
-Basketball,France,Tronche Meylan W,Gymnase Charlaix (Meylan),"[45.2107585, 5.799104914172702]",,
-Basketball,France,Montbrison W,Gymnase Jean-Pierre Cherblanc (Montbrison),"[45.60934648295596, 4.057550141062583]",,
+Basketball,Spain,Breogan,Pazo dos Deportes (Lugo),"[42.9912542, -7.545343345809101]",Pazo dos Deportes (Lugo),Breogan
+Basketball,Spain,Forca Lleida,Pavelló Barris Nord (Lleida),"[41.625939349999996, 0.6315997398461692]",Pavelló Barris Nord (Lleida),Forca Lleida
+Basketball,Spain,Tenerife,Pabellón Insular Santiago Martín (San Cristóbal de La Laguna),"[28.458373899999998, -16.296957279035283]",Pabellón Insular Santiago Martín (San Cristóbal de La Laguna),Tenerife
+Basketball,Spain,Baskonia,Fernando Buesa Arena (Vitoria-Gasteiz),"[42.864063650000006, -2.6416626470535665]",Fernando Buesa Arena (Vitoria-Gasteiz),Baskonia
+Basketball,Spain,Leyma Coruna,Coliseum da Coruna (La Coruña),"[43.3387359, -8.409699667579549]",Coliseum da Coruna (La Coruña),Leyma Coruna
+Basketball,Spain,Gran Canaria,Gran Canaria Arena (Las Palmas),"[28.10300815, -15.456937953844832]",Gran Canaria Arena (Las Palmas),Gran Canaria
+Basketball,Spain,Barcelona,Palau Blaugrana (Barcelona),"[41.3800239, 2.120087756642532]",Palau Blaugrana (Barcelona),Barcelona
+Basketball,Spain,Bilbao,Bilbao Arena (Bilbao),"[43.252202249999996, -2.92603284631579]",Bilbao Arena (Bilbao),Bilbao
+Basketball,Spain,Valencia,Font de Sant Lluis (Valencia),"[39.4358163, -0.5178834]",Font de Sant Lluis (Valencia),Valencia
+Basketball,Spain,Joventut Badalona,Palau Municipal d'Esports de Badalona (Badalona),"[41.44249535, 2.231985970588234]",Palau Municipal d'Esports de Badalona (Badalona),Joventut Badalona
+Basketball,Spain,Unicaja,Palacio de Deportes José María Martín Carpena (Málaga),"[36.682522750000004, -4.460515586545332]",Palacio de Deportes José María Martín Carpena (Málaga),Unicaja
+Basketball,Spain,MoraBanc Andorra,Poliesportiu d'Andorra (Andorra la Vella),"[42.504879200000005, 1.5165670807195486]",Poliesportiu d'Andorra (Andorra la Vella),MoraBanc Andorra
+Basketball,Spain,Murcia,Palacio de Deportes de Murcia (Murcia),"[]",Palacio de Deportes de Murcia (Murcia),Murcia
+Basketball,Spain,Basket Zaragoza,Pabellon Principe Felipe (Zaragoza),"[41.6353666, -0.8662365999999975]",Pabellon Principe Felipe (Zaragoza),Basket Zaragoza
+Basketball,Spain,Manresa,Pavelló Nou Congost (Manresa),"[]",Pavelló Nou Congost (Manresa),Manresa
+Basketball,Spain,Real Madrid,WiZink Center (Madrid),"[40.42386235, -3.6717884687419096]",WiZink Center (Madrid),Real Madrid
+Basketball,Spain,Granada,Palacio de Deportes (Granada),"[37.1535554, -3.5931766]",Palacio de Deportes (Granada),Granada
+Basketball,Spain,Basquet Girona,Pavello Fontajau (Girona),"[41.99035125, 2.810871806705715]",Pavello Fontajau (Girona),Basquet Girona
 
-Basketball,France,USBD Alencon W,Gymnase Louvrier (Alençon),"[48.4227018, 0.08688305391560201]",,
 
-Basketball,Georgia,VSA,Dighomi Sports Complex (Tbilisi),"[41.79417357479171, 44.782818135581486]",,
-Basketball,Georgia,Batumi,Sports School (Batumi),"[41.5853369, 41.595196701543074]",,
-Basketball,Georgia,Amra,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
-Basketball,Georgia,TSU,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
-Basketball,Georgia,Iverioni,Gori Sports Palace (Gori),"[41.97356492835563, 44.118189579542026]",,
-Basketball,Georgia,Rashi,Tbilisi Arena (Tbilisi),"[41.718045000000004, 44.72676934830412]",,
-Basketball,Georgia,CIU,Tbilisi Arena (Tbilisi),"[41.718045000000004, 44.72676934830412]",,
-Basketball,Georgia,Orbi,Tkibuli sport palace (Tkibuli),"[42.34706283513751, 42.998595439849]",,
-Basketball,Georgia,Kutaisi,Sports Palace (Kutaisi),"[42.2352765, 42.71139327210608]",,
-Basketball,Georgia,Margveti,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
+Basketball,Spain,Gipuzkoa,Plaza de Toros de Illumbe (San Sebastian),"[43.2976257, -1.9687033708259327]",Plaza de Toros de Illumbe (San Sebastian),Gipuzkoa
+Basketball,Spain,Moron,Pabellón Alameda (Sevilla),"[]",Pabellón Alameda (Sevilla),Moron
+Basketball,Spain,Castello,Pabellon Ciutat de Castello (Castellón de la Plana),"[]",Pabellon Ciutat de Castello (Castellón de la Plana),Castello
+Basketball,Spain,Ourense,Pazo dos Deportes Paco Paz (Ourense),"[42.3170743, -7.864155712389156]",Pazo dos Deportes Paco Paz (Ourense),Ourense
+Basketball,Spain,Oviedo,Polideportivo de Pumarín Luis Riera Posada (Oviedo),"[]",Polideportivo de Pumarín Luis Riera Posada (Oviedo),Oviedo
+Basketball,Spain,Real Valladolid,Pabellón Polideportivo Pisuerga (Valladolid),"[41.6926042, -4.6866846]",Pabellón Polideportivo Pisuerga (Valladolid),Real Valladolid
+Basketball,Spain,Alicante,Pabellon Pedro Ferrandiz (Alicante),"[]",Pabellon Pedro Ferrandiz (Alicante),Alicante
+Basketball,Spain,Estela,Pabellon Vicente Trueba (Torrelavega),"[43.34415465, -4.0493652375]",Pabellon Vicente Trueba (Torrelavega),Estela
+Basketball,Spain,Fuenlabrada,Pabellon Fernando Martin (Fuenlabrada),"[40.282511549999995, -3.8005343469378596]",Pabellon Fernando Martin (Fuenlabrada),Fuenlabrada
+Basketball,Spain,Palencia,Pabellon Municipal de Deportes (Palencia),"[42.595076750000004, -4.3346621957299165]",Pabellon Municipal de Deportes (Palencia),Palencia
+Basketball,Spain,Cartagena,Palacio de Deportes de Cartagena (Cartagena),"[37.61272005, -1.007450696383776]",Palacio de Deportes de Cartagena (Cartagena),Cartagena
+Basketball,Spain,Estudiantes,WiZink Center (Madrid),"[40.42386235, -3.6717884687419096]",WiZink Center (Madrid),Estudiantes
+Basketball,Spain,Real Betis,Palacio Municipal De Deportes San Pablo (Sevilla),"[]",Palacio Municipal De Deportes San Pablo (Sevilla),Real Betis
+Basketball,Spain,Zamora,Pabellón Angel Nieto (Zamora),"[]",Pabellón Angel Nieto (Zamora),Zamora
+Basketball,Spain,Hestia Menorca,Pavelló Menorca (Maó),"[39.8747266, 4.2625548]",Pavelló Menorca (Maó),Hestia Menorca
+Basketball,Spain,Obradoiro CAB,Pavillón Multiusos Fontes do Sar (Santiago de Compostela),"[]",Pavillón Multiusos Fontes do Sar (Santiago de Compostela),Obradoiro CAB
+Basketball,Spain,Tizona Burgos,Polideportivo El Plantío (Burgos),"[42.345039, -3.671450215005406]",Polideportivo El Plantío (Burgos),Tizona Burgos
+Basketball,Spain,San Pablo Burgos,Coliseum Burgos (Burgos),"[42.3443866, -3.678386994113409]",Coliseum Burgos (Burgos),San Pablo Burgos
 
-Basketball,Georgia,Suchumi,New Sports Palace (Tbilisi),"[]",,
-Basketball,Georgia,Burji,Telavi Sports Palace (Telavi),"[]",,
-Basketball,Georgia,Vera Tbilisi,Olympic Palace (Tbilisi),"[41.71821945, 44.728233511436]",,
-Basketball,Georgia,Rustavi,Chemicals Gym (Rustavi),"[]",,
-Basketball,Georgia,Gurjaani Delta,Gurjaani Sport Complex (Gurjaani),"[]",,
 
-Basketball,Germany,Syntainics MBC,Stadthalle Weissenfels (Weissenfels),"[51.2017946, 11.9572068]",,
-Basketball,Germany,Basketball Braunschweig,Volkswagen Halle (Braunschweig),"[52.25735935, 10.519071861894677]",,
-Basketball,Germany,Hamburg,Edel-optics.de Arena (Hamburg),"[53.49558395, 10.002418259976876]",,
-Basketball,Germany,Chemnitz,Messe Chemnitz (Chemnitz),"[50.817817899999994, 12.881662136677726]",,
-Basketball,Germany,Wurzburg,Tectake Arena (Wurzburger),"[49.7734729594332, 9.941292941258974]",,
-Basketball,Germany,Gottingen,Sparkassen-Arena (Gottingen),"[51.5418811, 9.921490238144763]",,
-Basketball,Germany,Heidelberg,SNP Dome (Heidelberg),"[49.39447345, 8.669849257227511]",,
-Basketball,Germany,Bayern,BMW Park (Munich),"[48.126031, 11.525353870787907]",,
-Basketball,Germany,Frankfurt,Suwag Energie Arena (Frankfurt),"[50.10122695, 8.52723208662335]",,
-Basketball,Germany,Bonn,Telekom Dome (Bonn),"[50.7051417, 7.060367821844953]",,
-Basketball,Germany,Ludwigsburg,Arena Ludwigsburg (Ludwigsburg),"[48.8911701, 9.18242015717697]",,
-Basketball,Germany,Rostock,Stadthalle Rostock (Rostock),"[54.0772155, 12.125535570049262]",,
-Basketball,Germany,Bamberg,Brose Arena (Bamberg),"[49.8795151, 10.9202866]",,
-Basketball,Germany,Vechta,RASTA Dome (Vechta),"[52.733209450000004, 8.259486795179562]",,
-Basketball,Germany,Alba Berlin,Uber Arena (Berlin),"[52.506368699999996, 13.443765151369332]",,
-Basketball,Germany,Oldenburg,Große EWE Arena (Oldenburg),"[53.14621245, 8.228655499211712]",,
-Basketball,Germany,Ulm,Ratiopharm Arena (Ulm),"[48.381742599999995, 10.004737345666667]",,
-Basketball,Germany,Munster,Sporthalle Berg Fidel (Munster),"[51.9285572, 7.623930911907966]",,
-Basketball,Germany,Jena,Sparkassen-Arena (Jena),"[50.899892050000005, 11.588474447670134]",,
-Basketball,Germany,Bayreuth,Oberfrankenhalle (Bayreuth),"[49.9445913, 11.585095962988127]",,
-Basketball,Germany,Giessen,Sporthalle Giessen-Ost (Giessen),"[50.57766275, 8.691829415411554]",,
-Basketball,Germany,Kirchheim,Sporthalle Stadtmitte (Kirchheim unter Teck),"[48.645679799999996, 9.446790914071148]",,
-Basketball,Germany,Artland,Artland Arena (Quakenbruck),"[52.677500949999995, 7.964988651065916]",,
-Basketball,Germany,PS Karlsruhe,Europahalle Karlsruhe (Karlsruhe),"[48.99703755, 8.376713811797359]",,
-Basketball,Germany,Dusseldorf,CASTELLO Düsseldorf (Düsseldorf),"[51.175590650000004, 6.864602877969304]",,
-Basketball,Germany,Crailsheim Merlins,Arena Hohenlohe (Ilshofen),"[49.16576575, 9.951832534670512]",,
-Basketball,Germany,Vechta 2,RASTA Dome (Vechta),"[52.733209450000004, 8.259486795179562]",,
-Basketball,Germany,Nurnberger,Kia Metropol Arena (Nuremberg),"[49.43327065, 11.036984265868536]",,
-Basketball,Germany,Bochum,Rundsporthalle Bochum (Bochum),"[51.49062455, 7.235032860131263]",,
-Basketball,Germany,Phoenix Hagen,Ischelandhalle (Hagen),"[51.37086575, 7.477351010603321]",,
-Basketball,Germany,Tubingen,Paul Horn Arena (Tubingen),"[48.510382899999996, 9.042069701718447]",,
-Basketball,Germany,Bremerhaven,Bremerhaven Stadthalle (Bremerhaven),"[53.5549447, 8.591032069425466]",,
-Basketball,Germany,Koblenz,Sporthalle Oberwerth (Koblenz),"[50.3311928, 7.584718510683917]",,
-Basketball,Germany,Trier,Arena Trier (Trier),"[49.748047549999995, 6.649103846532807]",,
-Basketball,Germany,Dresden,Margon Arena (Dresden),"[51.02246625, 13.808599037615384]",,
-Basketball,Germany,Paderborn,Sportzentrum Maspernplatz (Paderborn),"[51.72493603095801, 8.753172891068324]",,
-Basketball,Germany,Wolmirstedt,Halle der Freundschaft (Wolmirstedt),"[52.24670345, 11.630691080589617]",,
-Basketball,Germany,RSV Eintracht,Sporthalle der Berlin Brandenburg (Kleinmachnow),"[52.40093291579843, 13.216091450083564]",,
-Basketball,Germany,Bayern 2,BMW Park (Munich),"[48.126031, 11.525353870787907]",,
-Basketball,Germany,Koln,ASV-Sporthalle (Cologne),"[50.93487870556819, 6.883059220151401]",,
-Basketball,Germany,Bernau,S-Arena Bernau (Bernau),"[52.68224455, 13.584908046622893]",,
-Basketball,Germany,Coburg,HUK-Coburg arena (Coburg),"[50.287668499999995, 10.979768899037861]",,
-Basketball,Germany,Frankfurt 2,Basketball City Mainhattan (Frankfurt),"[50.15913561533082, 8.63192075477263]",,
-Basketball,Germany,Neustadt,Sporthalle Gymnasium Neustadt. am Rübenberge (Neustadt am Rübenberge),"[52.4961788990598, 9.46121306903341]",,
-Basketball,Germany,Rhondorf,DragonDome (Bad Honnef),"[50.6379488241128, 7.229843226181763]",,
-Basketball,Germany,Iserlohn,Matthias-Grothe-Halle (Iserlohn),"[51.388781864125534, 7.703774025998628]",,
-Basketball,Germany,Leitershofen/Stadtbergen,Mehrzweckhalle Stadtbergen (Stadtbergen),"[48.36239674273418, 10.850063612355674]",,
-Basketball,Germany,Wedel,Steinberghalle (Wedel),"[53.58897325, 9.699869551441441]",,
-Basketball,Germany,Berlin Braves,Sömmeringhalle (Berlin),"[52.523577599999996, 13.305123270882483]",,
-Basketball,Germany,s.Oliver Wurzburg 2,TGW Sportzentrum Feggrube (Würzburg),"[49.7710855, 9.945160677609309]",,
-Basketball,Germany,Oberhaching,Grundschule Deisenhofen (Oberhaching),"[48.019113250000004, 11.578945873283523]",,
-Basketball,Germany,Ahorn Camp Baskets,Nord-Halle (Speyer),"[49.3514518, 8.429575780380077]",,
-Basketball,Germany,ETB Miners,Sportpark Am Hallo (Essen),"[51.47529419999999, 7.0478116075909085]",,
-Basketball,Germany,Schwelm,Schwelm ArENa (Schwelm),"[51.2967078, 7.3098889]",,
-Basketball,Germany,Leverkusen,Ostermann Arena (Leverkusen),"[51.03940725, 7.003999890977155]",,
-Basketball,Germany,OrangeAcademy,OrangeCampus (Neu-Ulm),"[48.388067, 9.9871421]",,
-Basketball,Germany,Sandersdorf,Ballsporthalle Sandersdorf (Sandersdorf),"[51.6225697, 12.273175802320553]",,
-Basketball,Germany,Itzehoe,Sportzentrum am Lehmwohld (Itzehoe),"[53.9361587, 9.509779761220098]",,
-Basketball,Germany,Fellbach,Gäuäckersporthalle (Fellbach),"[48.8193185777434, 9.282785410531927]",,
-Basketball,Germany,Ludwigsburg 2,Rundsporthalle Ludwigsburg (Ludwigsburg),"[48.899483399999994, 9.17803539556864]",,
-Basketball,Germany,Ehingen,Längenfeld-Sporthalle Ehingen (Ehingen),"[48.28935975, 9.697496277310286]",,
-Basketball,Germany,Rostock 2,OSPA Arena (Rostock),"[54.0892304, 12.087312461334054]",,
-Basketball,Germany,Lowen,Riethsporthalle (Erfurt),"[51.00349635, 11.013632929065974]",,
-Basketball,Germany,Alba Berlin W,Sporthalle Charlottenburg (Berlin),"[52.523577599999996, 13.305123270882483]",,
-Basketball,Germany,Keltern W,Speiterlinghalle (Keltern),"[48.897300997269, 8.592012966360228]",,
+Basketball,Spain,Gernika Bizkaia W,Polideportivo Maloste (Gernika-Lumo),"[]",Polideportivo Maloste (Gernika-Lumo),Gernika Bizkaia W
+Basketball,Spain,Araski W,Pabellon Polideportivo de Mendizorroza (Vitoria-Gasteiz),"[]",Pabellon Polideportivo de Mendizorroza (Vitoria-Gasteiz),Araski W
+Basketball,Spain,Ferrol W,Pavillón da Malata (Ferrol),"[]",Pavillón da Malata (Ferrol),Ferrol W
+Basketball,Spain,Ardoi W,Sports Facilities Public University of Navarra (Pamplona),"[]",Sports Facilities Public University of Navarra (Pamplona),Ardoi W
+Basketball,Spain,Jairis W,Pabellon Fausto Vicent (Alcantarilla),"[37.9742648, -1.2257669500000001]",Pabellon Fausto Vicent (Alcantarilla),Jairis W
+Basketball,Spain,Ensino W,Pazo dos Deportes (Lugo),"[42.9912542, -7.545343345809101]",Pazo dos Deportes (Lugo),Ensino W
+Basketball,Spain,Joventut Badalona W,Palau Municipal d'Esports de Badalona (Badalona),"[41.44249535, 2.231985970588234]",Palau Municipal d'Esports de Badalona (Badalona),Joventut Badalona W
+Basketball,Spain,Uni Girona W,Pavello Fontajau (Girona),"[41.99035125, 2.810871806705715]",Pavello Fontajau (Girona),Uni Girona W
+Basketball,Spain,Valencia W,Font de Sant Lluis (Valencia),"[39.4358163, -0.5178834]",Font de Sant Lluis (Valencia),Valencia W
+Basketball,Spain,Perfumerias Avenida W,Pabellon Municipal Wurzburg (Salamanca),"[40.98260965, -5.6528262851159266]",Pabellon Municipal Wurzburg (Salamanca),Perfumerias Avenida W
+Basketball,Spain,Celta W,Pabellón De Navia (Vigo),"[]",Pabellón De Navia (Vigo),Celta W
+Basketball,Spain,Cadi La Seu W,Palau D´Esports de la Seu D´Urgell (La Seu d'Urgell),"[42.359965700000004, 1.465842935074497]",Palau D´Esports de la Seu D´Urgell (La Seu d'Urgell),Cadi La Seu W
+Basketball,Spain,Estudiantes W,Polideportivo Antonio Magarinos (Madrid),"[40.44243375, -3.686385831452854]",Polideportivo Antonio Magarinos (Madrid),Estudiantes W
+Basketball,Spain,IDK Gipuzkoa W,Jose Antonio Gasca (San Sebastian),"[]",Jose Antonio Gasca (San Sebastian),IDK Gipuzkoa W
+Basketball,Spain,Gran Canaria W,Centro Insular de Deportes (Las Palmas),"[28.113055850000002, -15.417525891824834]",Centro Insular de Deportes (Las Palmas),Gran Canaria W
+Basketball,Spain,Zaragoza W,Pabellon Principe Felipe (Zaragoza),"[41.6353666, -0.8662365999999975]",Pabellon Principe Felipe (Zaragoza),Zaragoza W
 
-Basketball,Germany,Saarlouis W,Stadtgartenhalle (Saarlouis),"[49.318563999999995, 6.7405414642087695]",,
-Basketball,Germany,Leverkusen W,Ostermann-Arena (Leverkusen),"[51.03940725, 7.003999890977155]",,
-Basketball,Germany,TK Hannover W,Rudolf-Kalweit-Halle (Hannover),"[]",,
-Basketball,Germany,Marburg W,Georg-Gaßmann-Halle (Marburg),"[50.7991523, 8.754519225218818]",,
-Basketball,Germany,Syntainics MBC W,Weißenfels Stadthalle (Weißenfels),"[51.2017946, 11.9572068]",,
-Basketball,Germany,Gottingen W,Fredrich-Ebert-Halle (Göttingen),"[]",,
-Basketball,Germany,Osnabruck W,OsnabrückHalle (Osnabrück),"[52.27133135, 8.04204910930402]",,
-Basketball,Germany,Eigner Angels Nordlingen W,Hermann-Kessler-Halle (Nördlingen),"[]",,
-Basketball,Germany,Freiburg W,Sepp-Glaser-Halle (Freiburg),"[48.001557399999996, 7.793630101106247]",,
-Basketball,Germany,Herner W,Sporthalle Wanne (Herne),"[51.5297046, 7.155381640048331]",,
 
-Basketball,Greece,AS Karditsas,Ioannis Bourousis Karditsa New Indoor Arena (Karditsa),"[39.359304974427594, 21.905125054291524]",,
-Basketball,Greece,Promitheas,Dimitris Tofalos Arena (Patras),"[38.283941947189334, 21.77339326774408]",,
-Basketball,Greece,AEK Athens,Ano Liosia Olympic Hall (Athens),"[38.08183871690027, 23.686466267736353]",,
-Basketball,Greece,Olympiacos,Peace and Friendship Stadium (Piraeus),"[37.94253775, 23.667428931321652]",,
-Basketball,Greece,Kolossos Rhodes,Kallithea Palais des Sports (Rhodes),"[36.34709535763429, 28.190882727187066]",,
-Basketball,Greece,Panathinaikos,O.A.C.A. Olympic Indoor Hall (Athens),"[38.037865073242656, 23.784255181229366]",,
-Basketball,Greece,PAOK,P.A.O.K. Sports Arena (Thessaloniki),"[40.56554975, 22.981415520871877]",,
-Basketball,Greece,Aris,Alexandreio Mellathron (Thessaloniki),"[40.62693022796604, 22.957297181331832]",,
-Basketball,Greece,Lavrio,Sports Center Lavrio (Lavrio),"[37.716600, 24.050100]",,
-Basketball,Greece,Panionios,DAK Glyfada M. Liugas (Glyfada),"[37.85966249571252, 23.755442938892685]",,
-Basketball,Greece,Peristeri,Andreas Papandreoy (Peristeri),"[38.0282483372382, 23.678798508218463]",,
-Basketball,Greece,Maroussi,Dimotiko Gimnastirio Amarousiou (Marousi),"[38.040882866456634, 23.79927565424004]",,
-Basketball,Greece,Iraklis,Ivanofeio Sports Arena (Thessaloniki),"[40.62832576704438, 22.964035539002158]",,
-Basketball,Greece,Proteas Voulas W,Georgios Gennimatas Indoor Gymnasium (Athens),"[37.99736536928101, 23.782659010062957]",,
-Basketball,Greece,Esperides Kalliotheas W,Gymnasium of Kallithea Esperos (Athens),"[37.96029986552869, 23.716256625401883]",,
-Basketball,Greece,Panathlitikos W,Giannakopoulos Indoor Hall (Athens),"[37.98688449477553, 23.754898211908092]",,
-Basketball,Greece,Panseraikos W,Serres Municipal Sports Center (Serres),"[41.10303193761247, 23.551866104128425]",,
-Basketball,Greece,Giannina W,Indoor Gym of Ioannina (Ioannina),"[39.621817829956626, 20.866845624630923]",,
-Basketball,Greece,Athinaikos W,Ergani Indoor Sports Hall (Vyronas),"[37.95248465008406, 23.757868554236648]",,
-Basketball,Greece,Olympiacos W,Peace and Friendship Stadium (Piraeus),"[37.94253775, 23.667428931321652]",,
-Basketball,Greece,Iraklis W,Ivanofeio Sports Arena (Thessaloniki),"[40.62832576704438, 22.964035539002158]",,
-Basketball,Greece,Amyntas W,Basketball Court Pirkal (Dafni),"[37.95040035560518, 23.7432906388962]",,
-Basketball,Greece,PAOK W,P.A.O.K. Sports Arena (Thessaloniki),"[40.56554975, 22.981415520871877]",,
-Basketball,Greece,Panathinaikos W,Giannakopoulos Indoor Hall (Athens),"[37.98688449477553, 23.754898211908092]",,
-Basketball,Greece,Olympiacos Volos W,Peace and Friendship Stadium (Piraeus),"[37.94253775, 23.667428931321652]",,
-Basketball,Greece,Aris W,Alexandreio Mellathron (Thessaloniki),"[40.62693022796604, 22.957297181331832]",,
 
-Basketball,Greece,Panerythraikos,Stelios Kalaitzis Indoor Hall (Nea Erythraia),"[38.100925655797646, 23.813836283374318]",,
-Basketball,Greece,Ermis Schimatari,Schimatario Indoor Stadium (Schimatari),"[]",,
-Basketball,Greece,Esperos,Municipal Stadium (Kallithea),"[39.097916850000004, 26.554030157675925]",,
-Basketball,Greece,Koroivos,Amaliada Indoor Hall (Koroivos),"[]",,
-Basketball,Greece,Psychikou,Psychiko Indoor Hall (Athens),"[]",,
-Basketball,Greece,Trikala,Trikala Municipal Sports Hall (Trikala),"[]",,
-Basketball,Greece,Near East,Near East Indoor Arena (Athens),"[]",,
-Basketball,Greece,Proteas Voulas,Voulas Indoor Hall (Voula),"[]",,
-Basketball,Greece,Hanth,Y.M.C.A. New Sports Center (Thessaloniki),"[]",,
-Basketball,Greece,Papagou,Papagou Indoor Basketball Hall (Athens),"[]",,
-Basketball,Greece,Lefkadas,Lefkada Indoor Hall (Lefkada City),"[]",,
-Basketball,Greece,NE Megaridas,NEM BC Arena (Athens),"[]",,
-Basketball,Greece,Vikos,Dimoulitsa Patatouka 7 (Ioannina),"[]",,
-Basketball,Greece,Mykonos,Panagiotis Chaniotis Ano Mera Indoor Hall (Mykonos),"[]",,
-Basketball,Greece,Eleftheroupoli,Municipal Indoor Gym Eleftheroupolis (Eleftheroupoli),"[]",,
 
-Basketball,Hungary,Alba Fehervar,Alba Regia Sportcsarnok (Székesfehérvár),"[47.19157251430757, 18.419354993268765]",,
-Basketball,Hungary,Pecsi VSK,Dezső Lauber Sports Hall (Pécs),"[46.06493660951001, 18.210814181567542]",,
-Basketball,Hungary,Zalakeramia,Zalaegerszeg City Sports Hall (Zalaegerszeg),"[46.845999780935756, 16.85280051043864]",,
-Basketball,Hungary,Budapesti Honved Se,Ludovika Arena (Budapest),"[47.48223835, 19.09152405966228]",,
-Basketball,Hungary,NKA Pecs,National Basketball Academy (Pécs),"[46.053237593760386, 18.2118231545776]",,
-Basketball,Hungary,Soproni KC,Novomatic Arena Sopron (Sopron),"[47.69272015, 16.58324724790656]",,
-Basketball,Hungary,DEAC,Olah Gabor Sports Hall (Debrecen),"[47.54965273174621, 21.63619926814173]",,
-Basketball,Hungary,Szombathely,Arena Savaria (Szombathely),"[47.24318255, 16.61925950907726]",,
-Basketball,Hungary,Atomeromu Paks,ASE Sportcsarnok (Paks),"[46.616976, 18.8368345]",,
-Basketball,Hungary,Kormend,Körmend City Sports Hall (Körmend),"[47.013606890126994, 16.601006069962256]",,
-Basketball,Hungary,KTE-Duna,István Messzi Sports Hall (Kecskemét),"[46.9014232042077, 19.674439923935978]",,
-Basketball,Hungary,OSE Lions,"Krajnyik ""Akác"" András Sports Hall (Oroszlány)","[47.48650902461763, 18.316510150952706]",,
-Basketball,Hungary,Szedeak,City Sports Hall (Szeged),"[46.24498872866371, 20.162790244687564]",,
-Basketball,Hungary,Szolnoki Olaj,Tiszaliget City Sports Hall (Szolnok),"[47.169382423517156, 20.19753523702133]",,
-Basketball,Hungary,Vasas Csata W,Vasas Pasaréti Sportcentrum (Budapest),"[47.51264616611179, 19.00823135975328]",,
-Basketball,Hungary,Szekszard W,Szekszárdi NKft Sports Center (Szekszard),"[46.347788731198555, 18.715000841096405]",,
-Basketball,Hungary,Cegledi W,Albertirsa Arena (Albertirsa),"[47.17698816806485, 19.802769087140458]",,
-Basketball,Hungary,Szigetszentmiklos W,Municipal Sports and Event Hall (Szigetszentmiklós),"[47.35139989104997, 19.01828012395696]",,
-Basketball,Hungary,TFSE-MTK W,Dr. Jeno Koltai Sports Center (Budapest),"[47.489813903065574, 19.026934951816013]",,
-Basketball,Hungary,Sopron W,Novomatic Arena Sopron (Sopron),"[47.69272015, 16.58324724790656]",,
-Basketball,Hungary,NKA Pecs W,Dezső Lauber Sports Hall (Pécs),"[46.06493660951001, 18.210814181567542]",,
-Basketball,Hungary,Ujbuda BEAC W,László Gabányi Sports Hall (Budapest),"[47.46661299398737, 19.047931339302718]",,
-Basketball,Hungary,David Kornel KA W,Alba Regia Sportcsarnok (Székesfehérvár),"[47.19157251430757, 18.419354993268765]",,
-Basketball,Hungary,Soproni Darazsak W,Novomatic Arena Sopron (Sopron),"[47.69272015, 16.58324724790656]",,
-Basketball,Hungary,DVTK W,DVTK Arena (Miskolc),"[48.09792145, 20.716866610359926]",,
-Basketball,Hungary,UNI Gyor W,István Széchenyi University Hall (Gyor),"[47.69523407597823, 17.626625381643326]",,
-Basketball,Iceland,IR Reykjavik,IR-Vollur (Reykjavík),"[64.1035892, -21.851812256205935]",,
-Basketball,Iceland,Alftanes,Ungmennafélag Álftaness (Álftanes),"[64.10476818979633, -22.018545420658707]",,
-Basketball,Iceland,Keflavik,Blue-hollin (Reykjanesbaer),"[63.9971667, -22.56116958336461]",,
-Basketball,Iceland,KR Basket,DHL-hollin (Reykjavík),"[64.14589634231234, -21.96824439844578]",,
-Basketball,Iceland,Njardvik,Njardtaks-gryfjan (Reykjanesbaer),"[63.98762258847378, -22.543802900300705]",,
-Basketball,Iceland,Valur,Origo-hollin Hlidarenda (Reykjavík),"[64.13314039801742, -21.92223740641907]",,
-Basketball,Iceland,Hottur,MVA-hollin Egilsstodum (Egilsstadir),"[65.26684971099931, -14.395826073235472]",,
-Basketball,Iceland,Tindastoll,Saudarkrokur (Saudarkrokur),"[65.73138320000001, -19.573516091073024]",,
-Basketball,Iceland,Grindavik,HS Orku-hollin (Grindavík),"[63.84403955956289, -22.431846913142028]",,
-Basketball,Iceland,Thorl,Icelandic Glacial hollin (Thorlakshofn),"[	Hafnarberg 41, 815 Thorlakshofn]",,
-Basketball,Iceland,Stjarnan,Mathus Gardabaejar hollin (Gardabaer),"[64.08873763138746, -21.929603665456668]",,
-Basketball,Iceland,Haukar,Asvellir (Hafnarfjördur),"[64.05247073169602, -21.974051977554375]",,
-Basketball,Iceland,Stjarnan W,Umhyggjuhollin (Gardabaer),"[64.08873763138746, -21.929603665456668]",,
-Basketball,Iceland,Athena W,Unbroken Höllin (Reykjavík),"[64.1045249327009, -21.81767204446925]",,
-Basketball,Iceland,Thor AK Akureyri W,Hollin Akureyri (Akureyri),"[65.67802585474374, -18.098034061561826]",,
-Basketball,Iceland,Valur W,Origo-hollin Hlidarenda (Reykjavík),"[64.13314039801742, -21.92223740641907]",,
-Basketball,Iceland,Haukar W,Asvellir (Hafnarfjördur),"[64.05247073169602, -21.974051977554375]",,
-Basketball,Iceland,Grindavik W,HS Orku-hollin (Grindavík),"[63.84403955956289, -22.431846913142028]",,
-Basketball,Iceland,Hamar W,Frystikistan arena (Hveragerdi),"[]",,
-Basketball,Iceland,Tindastoll W,Sauðárkrókur (Sauðárkrókur),"[65.74195805, -19.624766364872976]",,
-Basketball,Iceland,Keflavik W,Blue-hollin (Reykjanesbaer),"[63.9971667, -22.56116958336461]",,
-Basketball,Iceland,Njardvik W,Njardtaks-gryfjan (Reykjanesbaer),"[]",,
+Basketball,Sweden,BC Lulea,Lulea Energi Arena (Luleå),"[65.5881071, 22.1504363]",Lulea Energi Arena (Luleå),BC Lulea
+Basketball,Sweden,Boras,Borashallen (Boras),"[57.71712875, 12.928597497168198]",Borashallen (Boras),Boras
+Basketball,Sweden,Hogsbo,Gothia Arena (Göteborg),"[57.645258999999996, 11.914912167869012]",Gothia Arena (Göteborg),Hogsbo
+Basketball,Sweden,Nassjo,Nassjo Sporthall (Nassjo),"[57.65858245, 14.69964582813268]",Nassjo Sporthall (Nassjo),Nassjo
+Basketball,Sweden,Umea,Umea Energi Arena (Umea),"[63.8290473, 20.285561068250974]",Umea Energi Arena (Umea),Umea
+Basketball,Sweden,Uppsala,Upplands Bilforum USIF Arena (Uppsala),"[]",Upplands Bilforum USIF Arena (Uppsala),Uppsala
+Basketball,Sweden,Jamtland,Ostersunds Sporthall (Ostersund),"[63.19120705, 14.660216666538702]",Ostersunds Sporthall (Ostersund),Jamtland
+Basketball,Sweden,Koping Stars,Köpings Bad & Sport (Koping),"[59.50788835, 15.98223121670555]",Köpings Bad & Sport (Koping),Koping Stars
+Basketball,Sweden,Norrkoping,Stadium Arena B (Norrköping),"[]",Stadium Arena B (Norrköping),Norrkoping
+Basketball,Sweden,Sodertalje,Taljehallen (Södertälje),"[59.19901315, 17.6365570651485]",Taljehallen (Södertälje),Sodertalje
 
-Basketball,Iceland,Sindri,Ice Lagoon Höllin (Höfn),"[]",,
 
--- no venues from FS
-Basketball,Ireland,Tralee Warriors,Tralee Sports Complex (Tralee),"[]",,
-Basketball,Ireland,Sligo,Mercy College (Sligo),"[54.26697065, -8.467303596082331]",,
-Basketball,Ireland,UCD Marian,UCD Sports Centre (Dublin),"[53.34648275, -6.318165950517576]",,
-Basketball,Ireland,Maree,NUI Galway Sports Centre (Galway),"[]",,
-Basketball,Ireland,St. Vincent's,St Vincents CBS (Dublin),"[]",,
-Basketball,Ireland,Templeogue,National Basketball Arena (Dublin),"[53.292481800000004, -6.334121277209448]",,
-Basketball,Ireland,Belfast,Newforge Sports Complex (Belfast),"[]",,
-Basketball,Ireland,Eanna,Coláiste Éanna (Dublin),"[53.3689264, -6.293674781821275]",,
-Basketball,Ireland,Killester,Oblate Hall (Dublin),"[53.3376314, -6.3262582]",,
-Basketball,Ireland,UCC Demons,Mardyke Arena (Cork),"[51.89472945, -8.500151029531926]",,
-Basketball,Ireland,Ballincollig,MTU Arena (Cork),"[51.88345965, -8.537506606616528]",,
-Basketball,Ireland,KCYMS,Killorglin Sports Complex (Killorglin),"[]",,
-Basketball,Ireland,Neptune,Neptune Stadium (Cork),"[51.907175, -8.476996161667639]",,
---
+Basketball,Sweden,Alvik,Akeshovshallen (Bromma),"[]",Akeshovshallen (Bromma),Alvik
+Basketball,Sweden,Ockelbo,Kuxahallen (Ockelbo),"[60.8907146, 16.7160059]",Kuxahallen (Ockelbo),Ockelbo
+Basketball,Sweden,IK Eos,Eoshallen (Lund),"[55.696341399999994, 13.201360650000002]",Eoshallen (Lund),IK Eos
+Basketball,Sweden,Wetterbygden Stars,Huskvarna Sporthall (Jönköping),"[]",Huskvarna Sporthall (Jönköping),Wetterbygden Stars
+Basketball,Sweden,Blackeberg,Vallingbyhallen (Vallingby),"[]",Vallingbyhallen (Vallingby),Blackeberg
+Basketball,Sweden,Malbas,Heleneholms Sporthall (Malmö),"[55.57879425, 13.012996036786895]",Heleneholms Sporthall (Malmö),Malbas
+Basketball,Sweden,Huddinge,Edbohallen (Trangsund),"[]",Edbohallen (Trangsund),Huddinge
+Basketball,Sweden,Aros Basket,Kristiansborgshallen (Vasteras),"[]",Kristiansborgshallen (Vasteras),Aros Basket
+Basketball,Sweden,AIK Basket,Vasalundshallen (Solna),"[59.36771535, 17.998658674097477]",Vasalundshallen (Solna),AIK Basket
+Basketball,Sweden,KFUM Fryshuset,Fryshuset (Stockholm),"[59.3011252, 18.088371129701635]",Fryshuset (Stockholm),KFUM Fryshuset
+Basketball,Sweden,Djurgarden,Brannkyrkahallen (Stockholm),"[59.303731299999995, 18.01479631317775]",Brannkyrkahallen (Stockholm),Djurgarden
+Basketball,Sweden,Akersberga,Osterakers multiarena (Akersberga),"[59.4824953, 18.272310829519572]",Osterakers multiarena (Akersberga),Akersberga
+Basketball,Sweden,Sloga Uppsala,Upplands Bilforum USIF Arena (Uppsala),"[]",Upplands Bilforum USIF Arena (Uppsala),Sloga Uppsala
+Basketball,Sweden,Tureberg,Sollentuna Sporthall (Sollentuna),"[59.43738205, 17.953587496994267]",Sollentuna Sporthall (Sollentuna),Tureberg
 
-Basketball,Italy,Trieste,PalaTrieste (Trieste),"[45.62285, 13.795091088239005]",,
-Basketball,Italy,Venezia,Palasport Giuseppe Taliercio (Venice),"[]",,
-Basketball,Italy,Sassari,Palasport Roberta Serradimigni (Sassari),"[40.71706595, 8.583235442451821]",,
-Basketball,Italy,Pistoia,PalaCarrara (Pistoia),"[43.93101045, 10.940295713262522]",,
-Basketball,Italy,Basket Napoli,PalaBarbuto (Naples),"[40.8223751, 14.178930335346069]",,
-Basketball,Italy,Reggiana,PalaBigi (Reggio Emilia),"[]",,
-Basketball,Italy,Trento,BLM Group Arena (Trento),"[]",,
-Basketball,Italy,Olimpia Milano,Unipol Forum (Milan),"[45.40135925, 9.14230183345828]",,
-Basketball,Italy,Cremona,PalaRadi (Cremona),"[45.15111925, 10.034100800000001]",,
-Basketball,Italy,Varese,Palasport Lino Oldrini (Varese),"[45.83606735, 8.80247678473065]",,
-Basketball,Italy,Trapani,Pala Shark (Trapani),"[]",,
-Basketball,Italy,Tortona,PalaFerraris (Casale Monferrato),"[45.12461275, 8.461303498494622]",,
-Basketball,Italy,Treviso,PalaVerde (Villorba),"[45.7225326, 12.261526]",,
-Basketball,Italy,Brescia,PalaLeonessa (Brescia),"[45.5272647, 10.174849120545453]",,
-Basketball,Italy,Virtus Bologna,Segafredo Arena (Bologna),"[44.5099929, 11.366981237887238]",,
-Basketball,Italy,Scafati,Pala Mangano (Scafati),"[]",,
-Basketball,Italy,Cividale,PalaGesteco (Cividale del Friuli),"[]",,
-Basketball,Italy,Urania Milano,Allianz Cloud (Milan),"[45.48260655, 9.142240396032257]",,
-Basketball,Italy,Basket Torino,Pala Gianni Asti (Turin),"[]",,
-Basketball,Italy,Cantu,PalaFitLineDesio (Desio),"[]",,
-Basketball,Italy,Forli,PalaGalassi (Forli),"[44.2425873, 12.078542196334885]",,
-Basketball,Italy,Pesaro,Vitrifrigo Arena (Pesaro),"[43.90287655, 12.86722583016914]",,
-Basketball,Italy,Sebastiani Rieti,PalaSojourner (Rieti),"[42.41029635, 12.89242685]",,
-Basketball,Italy,Verona,PalaOlimpia (Verona),"[45.43735045, 10.964824178913855]",,
-Basketball,Italy,Libertas Livorno,PalaMacchia (Livorno),"[]",,
-Basketball,Italy,Fortitudo Bologna,PalaDozza (Bologna),"[44.49987595, 11.33221154602308]",,
-Basketball,Italy,Assigeco Piacenza,PalaBanca (Piacenza),"[45.040077249999996, 9.757746501484444]",,
-Basketball,Italy,Avellino Basket,Palasport Del Mauro (Avellino),"[]",,
-Basketball,Italy,Brindisi,PalaPentassuglia (Brindisi),"[40.61434175, 17.946796573569692]",,
-Basketball,Italy,Cento,Milwaukee Dinelli Arena (Cento),"[]",,
-Basketball,Italy,Nardo,PalaPentassuglia (Brindisi),"[40.61434175, 17.946796573569692]",,
-Basketball,Italy,Rimini,Palasport Flaminio (Rimini),"[44.05183535, 12.575275175640805]",,
-Basketball,Italy,Udine,PalaCarnera (Udine),"[46.0820603, 13.201864331507117]",,
-Basketball,Italy,JuVi Cremona,PalaRadi (Cremona),"[45.15111925, 10.034100800000001]",,
-Basketball,Italy,Orzinuovi,PalaBertocchi (Orzinuovi),"[]",,
-Basketball,Italy,Vigevano,Pala Elachem (Vigevano),"[]",,
-Basketball,Italy,Sassari W,Palasport Roberta Serradimigni (Sassari),"[40.71706595, 8.583235442451821]",,
-Basketball,Italy,Scrivia W,Palaoltrepo (Voghera),"[44.9859601, 9.002033672440149]",,
-Basketball,Italy,Alpo VillaFranca W,Palazzetto Comunale (Villafranca di Verona),"[]",,
-Basketball,Italy,Brixia W,PalaLeonessa (Brescia),"[45.5272647, 10.174849120545453]",,
-Basketball,Italy,Schio W,Palasport Livio Romare (Schio),"[45.714267, 11.37795893015695]",,
-Basketball,Italy,Battipaglia W,Palazzetto dello Sport Bruno Zauli (Battipaglia),"[]",,
-Basketball,Italy,Campobasso W,PalaSelvapiana (Campobasso),"[41.5675243, 14.629893899277455]",,
-Basketball,Italy,Faenza W,Palasport Bubani (Faenza),"[]",,
-Basketball,Italy,San Giovanni W,PalaCarzaniga (Sesto San Giovanni),"[]",,
-Basketball,Italy,Venezia W,Palasport Giuseppe Taliercio (Venice),"[]",,
-Basketball,Italy,San Martino W,Palazzetto dello sport (San Martino di Lupari),"[]",,
-Basketball,Italy,Giussano W,Palace Aldo Moro (Desio),"[]",,
-Basketball,Italy,Libertas Moncalieri W,Palazzetto Dello Sport Einaudi (Moncalieri),"[]",,
-Basketball,Italy,Virtus Cagliari W,Palestra Virtus (Marostica),"[]",,
-Basketball,Italy,Empoli W,Palestra Lazzeri (Empoli),"[]",,
-Basketball,Italy,Costa Masnaga W,Palazzetto Costa Masnaga (Costa Masnaga),"[]",,
-Basketball,Italy,Livorno W,PalaMacchia (Livorno),"[]",,
-Basketball,Italy,Torino Teen W,Palestra Sportclub (Venaria Reale),"[]",,
-Basketball,Italy,Valdarno W,Pala Galli (San Giovanni Valdarno),"[]",,
-Basketball,Italy,Benevento W,PalaTedeschi (Benevento),"[41.1185853, 14.779925841334013]",,
-Basketball,Italy,Spezia W,Palasport G. Mariotti - Campo A (La Spezia),"[]",,
-Basketball,Italy,Sanga Milano W,Palestra Giordani (Milan),"[]",,
-Basketball,Italy,Salerno W,PalaSilvestri (Salerno),"[40.703204, 14.787865243796759]",,
-Basketball,Italy,Broni W,PalaVerde (Villorba),"[45.7225326, 12.261526]",,
-Basketball,Italy,San Salvatore Selargius W,Struttura Geodetica (Selargius),"[]",,
-Basketball,Italy,Ragusa W,PalaMinardi (Ragusa),"[36.910094900000004, 14.707759091826635]",,
-Basketball,Italy,Vicenza W,Palazzetto Dello Sport (Vicenza),"[45.56059595, 11.531815729469898]",,
-Basketball,Italy,Itas Alperia Bolzano W,Palamazzali (Bolzano),"[46.493142, 11.3464614]",,
-Basketball,Italy,Matelica W,Palasport Comunale (Cerreto d'Esi),"[]",,
-Basketball,Italy,Vigarano W,PalaVigarano (Vigarano Mainarda),"[44.843981400000004, 11.493922949999995]",,
-Basketball,Italy,Civitanova Marche W,Palestra Citta Alta (Civitanova Marche),"[]",,
-Basketball,Italy,Umbertide W,Palazzetto Dello Sport (Umbertide),"[43.3016979, 12.3432119]",,
-Basketball,Italy,Ancona W,Palascherma (Ancona),"[43.6087865, 13.531476411317573]",,
-Basketball,Italy,Trieste W,PalaTrieste (Trieste),"[45.62285, 13.795091088239005]",,
-Basketball,Italy,Udine W,PalaCarnera (Udine),"[46.0820603, 13.201864331507117]",,
-Basketball,Italy,Mantova W,Tensostruttura (Mantova),"[45.1316839, 10.737239209285722]",,
-Basketball,Italy,Treviso W,Pal. 'Pascale' (Treviso),"[]",,
-Basketball,Italy,Rovigo W,Palasport Rovigo (Rovigo),"[]",,
-Basketball,Italy,Roseto W,Palasport (Roseto),"[42.663770400000004, 14.021764437765462]",,
-Basketball,Kosovo,Bora,Pallati i Rinise dhe Sporteve (Pristina),"[42.6611209, 21.157201981343285]",,
-Basketball,Kosovo,Golden Eagle Ylli,Salla e sporteve 13 Qershori (Suva Reka),"[]",,
-Basketball,Kosovo,Peja,Palestra sportive Karagaqi (Peja),"[]",,
-Basketball,Kosovo,Sigal Prishtina,Pallati i Rinise dhe Sporteve (Pristina),"[42.6611209, 21.157201981343285]",,
-Basketball,Kosovo,Bashkimi,Palestra sportive Sezai Surroi (Prizren),"[]",,
-Basketball,Kosovo,Prizreni,Palestra sportive Sezai Surroi (Prizren),"[]",,
-Basketball,Kosovo,Trepca,Minatori Sports Hall (Mitrovica),"[]",,
-Basketball,Kosovo,Vellaznimi,Palestra Shani Nushi (Gjakova),"[]",,
-Basketball,Kosovo,Bashkimi W,Palestra sportive Sezai Surroi (Prizren),"[]",,
-Basketball,Kosovo,Junior 06 W,Palestra sportive Sezai Surroi (Prizren),"[]",,
-Basketball,Kosovo,Peja W,Palestra sportive Karagaqi (Peja),"[]",,
-Basketball,Kosovo,Prishtina W,Pallati i Rinise dhe Sporteve (Pristina),"[42.6611209, 21.157201981343285]",,
-Basketball,Kosovo,Trepca W,Minatori Sports Hall (Mitrovica),"[]",,
-Basketball,Kosovo,Penza W,Palestra sportive Karagaqi (Peja),"[]",,
-Basketball,Latvia,Cesis,Cesis Sports Complex (Cesis),"[]",,
-Basketball,Latvia,Sigulda,Siguldas Sporta Centrs (Sigulda),"[57.159162800000004, 24.8593775351734]",,
-Basketball,Latvia,BS Ogre,Sporta Arena Ogre (Ogre),"[]",,
-Basketball,Latvia,Jekabpils,Jekabpils Sporta halle (Jekabpils),"[56.498973750000005, 25.841155987492737]",,
-Basketball,Latvia,Saldus,Saldus Sporta nams (Saldus),"[56.66820305, 22.497962947372645]",,
-Basketball,Latvia,Salaspils,Salaspils Sporta nams (Salaspils),"[56.85898915, 24.33447567372114]",,
-Basketball,Latvia,Vef Riga Skola,Rimi Olimpiskais centrs (Riga),"[56.96766345, 24.124638295163642]",,
-Basketball,Latvia,Gulbenes Buki,Gulbenes Sporta Centrs (Gulbene),"[57.17227595, 26.766962859433246]",,
 
-Basketball,Latvia,Jelgava,Zemgale Olympic Center (Jelgava),"[]",,
-Basketball,Latvia,Rīgas Zeļļi,Rimi Olympic Center (Riga),"[]",,
-Basketball,Latvia,BK Liepaja,Liepajas Olimpiskais centrs (Liepāja),"[56.51905515, 21.017835398439793]",,
-Basketball,Latvia,Ventspils,Olimpiskais centrs Ventspils (Ventspils),"[57.3877282, 21.570350643810073]",,
-Basketball,Latvia,Latvijas Universitate,Rimi Olimpiskais centrs (Riga),"[56.96766345, 24.124638295163642]",,
-Basketball,Latvia,BK Ogre,Ogres 1. vidusskola (Ogre),"[56.81759795, 24.610954404013782]",,
-Basketball,Latvia,Valmiera Glass Via,Vidzemes Olimpiskais centrs (Valmiera),"[57.528119000000004, 25.387886957599036]",,
-Basketball,Latvia,VEF Riga,Arena Riga (Riga),"[56.96785725, 24.121265427443312]",,
+Basketball,Sweden,Lund W,Eoshallen (Lund),"[55.696341399999994, 13.201360650000002]",Eoshallen (Lund),Lund W
+Basketball,Sweden,Ostersund W,Ostersunds Sporthall (Ostersund),"[63.19120705, 14.660216666538702]",Ostersunds Sporthall (Ostersund),Ostersund W
+Basketball,Sweden,Sodertalje W,Taljehallen (Södertälje),"[59.19901315, 17.6365570651485]",Taljehallen (Södertälje),Sodertalje W
+Basketball,Sweden,Hogsbo W,Gothia Arena (Göteborg),"[57.645258999999996, 11.914912167869012]",Gothia Arena (Göteborg),Hogsbo W
+Basketball,Sweden,Uppsala W,Lotens IP (Uppsala),"[59.87688165, 17.63712905737283]",Lotens IP (Uppsala),Uppsala W
+Basketball,Sweden,Norrkoping W,Stadium Arena B (Norrköping),"[]",Stadium Arena B (Norrköping),Norrkoping W
+Basketball,Sweden,Visby W,ICA Maxi Arena (Visby),"[57.60672375, 18.281532550000005]",ICA Maxi Arena (Visby),Visby W
+Basketball,Sweden,Lulea W,Lulea Energi Arena (Luleå),"[65.5881071, 22.1504363]",Lulea Energi Arena (Luleå),Lulea W
+Basketball,Sweden,Alvik W,Akeshovshallen (Bromma),"[]",Akeshovshallen (Bromma),Alvik W
+Basketball,Sweden,AIK Basket W,Vasalundshallen (Solna),"[59.36771535, 17.998658674097477]",Vasalundshallen (Solna),AIK Basket W
+Basketball,Sweden,MarkSjuharad W,Kinnahallen (Kinna),"[]",Kinnahallen (Kinna),MarkSjuharad W
 
-Basketball,Lithuania,Jonava,Jonavos sporto arena (Jonava),"[55.07657865, 24.27330545]",,
-Basketball,Lithuania,Rytas,Jeep arena (Vilnius),"[]",,
-Basketball,Lithuania,BC Wolves,Avia Solutions Group Arena (Vilnius),"[]",,
-Basketball,Lithuania,Juventus,Utenos arena (Utena),"[55.50424425, 25.591392295977474]",,
-Basketball,Lithuania,Nevezis,Kedainiu arena (Kedainiai),"[55.29949954999999, 23.989909444188033]",,
-Basketball,Lithuania,Siauliai,Siauliu arena (Šiauliai),"[55.92065685, 23.282119728905556]",,
-Basketball,Lithuania,Neptunas,Svyturio arena (Klaipeda),"[55.68735825, 21.15184001584181]",,
-Basketball,Lithuania,Lietkabelis,Kalnapilio arena (Panevėžys),"[55.733355450000005, 24.33931199849188]",,
-Basketball,Lithuania,Mazeikiai,Telsiu sporto arena (Telsiai),"[]",,
-Basketball,Lithuania,Zalgiris Kaunas,Zalgirio Arena (Kaunas),"[54.89040815, 23.914444433143906]",,
-Basketball,Lithuania,Alytaus Alytus,Silutes Vyduno gimnazija (Silute),"[55.345257149999995, 21.470600359936235]",,
-Basketball,Lithuania,Zalgiris Kaunas 2,„Žalgirio“ treniruočių centras (Kaunas),"[]",,
-Basketball,Lithuania,Delikatesas Joniskis,Joniskio Saules pagrindines mokyklos sporto sale (Joniskis),"[]",,
-Basketball,Lithuania,Silute,Silutes Vyduno gimnazija (Silute),"[55.345257149999995, 21.470600359936235]",,
-Basketball,Lithuania,Telsiai,Telsiu sporto arena (Telsiai),"[]",,
-Basketball,Lithuania,Vilkaviskis,Vilkaviškis District School of Sports (Vilkaviskis),"[]",,
-Basketball,Lithuania,Kretinga,Kretinga sports and wellness center (Kretinga),"[]",,
-Basketball,Lithuania,Plunges Olimpas,Lauryno Ivinskio gimnazija (Rietavas),"[55.723191650000004, 21.927493426044425]",,
-Basketball,Lithuania,Jurbarkas,Jurbarko Antano Giedraicio Gymnasium Sport Hall (Jurbarkas),"[]",,
-Basketball,Lithuania,Vytis VDU,Sakiu sporto centras (Sakiai),"[]",,
-Basketball,Lithuania,BC Olimpas Palanga,Palangos arena (Palanga),"[55.90952395, 21.069602728879467]",,
-Basketball,Lithuania,Rytas 2,Jeep arena (Vilnius),"[]",,
-Basketball,Lithuania,Suduva-Mantinga,Marijampoles zaidimu sporto mokyklos sale (Marijampole),"[]",,
-Basketball,Lithuania,Ukmerges Stekas,Ukmerges technologiju ir verslo mokykla (Ukmerge),"[55.2423601, 24.747529542829234]",,
-Basketball,Lithuania,Omega-Tauras,Kauno r. Garliavos sporto centras (Garliava),"[]",,
-Basketball,Lithuania,Neptunas 2,Klaipėdos KKRC (Klaipeda),"[]",,
-Basketball,Lithuania,LCC W,Michealsen centras (Klaipeda),"[]",,
-Basketball,Lithuania,Siauliai W,Saulės sporto rūmai (Šiauliai),"[55.9132642, 23.311359952861167]",,
-Basketball,Lithuania,Aistes LSU Kaunas W,KM Žalgiris (Kaunas),"[]",,
-Basketball,Lithuania,Panevezys W,Kalnapilio arena (Panevėžys),"[55.733355450000005, 24.33931199849188]",,
 
-Basketball,Lithuania,Kibirkstis Vilnius W,MRU didzioji sale (Vilnius),"[]",,
-Basketball,Lithuania,Klaipedos Neptunas W,Klaipėdos m. sporto bazių valdymo centras (Klaipeda),"[]",,
 
-Basketball,Luxembourg,Heffingen,Hall sportif Heffingen (Heffingen),"[]",,
-Basketball,Luxembourg,Bertrange,Centre sportif Atert (Bertrange),"[]",,
-Basketball,Luxembourg,Walferdange,Centre sportif Prince Henri (Walferdange),"[49.66084805, 6.130509370231165]",,
-Basketball,Luxembourg,Larochette,Hall sportif Centre Filano (Larochette),"[]",,
-Basketball,Luxembourg,Amicale Steesel,Hall Omnisports Alain Marchetti (Steinsel),"[]",,
-Basketball,Luxembourg,Esch,Hall Omnisports Henri Schmitz (Esch-sur-Alzette),"[]",,
-Basketball,Luxembourg,Avanti Mondorf,"Centre sportif ""Roll Delles"" (Mondorf-les-Bains)","[49.50677755, 6.274786348128446]",,
-Basketball,Luxembourg,Mambra Mamer,Hall Sportif Nicolas Frantz (Mamer),"[49.6234206, 6.024897984808302]",,
-Basketball,Luxembourg,Ettelbruck,Centre sportif du Deich (Ettelbruck),"[]",,
-Basketball,Luxembourg,T71 Dudelange,Centre sportif Rene Hartmann (Dudelange),"[49.4844056, 6.089558864090282]",,
-Basketball,Luxembourg,Musel Pikes,Hall des Sports Jeannot Bonifas (Stadtbredimus),"[]",,
-Basketball,Luxembourg,Contern,Centre Scolaire et Sportif (Contern),"[49.5775566, 6.2200547]",,
-Basketball,Luxembourg,Amicale Steesel W,Hall Omnisports Alain Marchetti (Steinsel),"[]",,
-Basketball,Luxembourg,Esch W,Hall Omnisports Henri Schmitz (Esch-sur-Alzette),"[]",,
-Basketball,Luxembourg,Grengewald Hueschtert W,Centre sportif Am Sand (Oberanven),"[]",,
-Basketball,Luxembourg,Dudelange W,Centre sportif Rene Hartmann (Dudelange),"[49.4844056, 6.089558864090282]",,
-Basketball,Luxembourg,Musel Pikes W,Hall des Sports Jeannot Bonifas (Stadtbredimus),"[]",,
-Basketball,Luxembourg,Contern W,Centre Scolaire et Sportif (Contern),"[49.5775566, 6.2200547]",,
-Basketball,Luxembourg,Les Sangliers Wooltz W,Nouveau Centre Scolaire (Wiltz),"[]",,
-Basketball,Luxembourg,Bertrange W,Centre sportif Atert (Bertrange),"[]",,
-Basketball,Montenegro,Primorje,Sport center Igalo (Igalo),"[]",,
-Basketball,Montenegro,Ibar Rozaje,Dvorana na Bandzovom brdu (Rozaje),"[]",,
-Basketball,Montenegro,Jedinstvo,Sportska hala Nikoljac (Bijelo Polje),"[]",,
-Basketball,Montenegro,Studentski Centar,Kuca Kosarke (Podgorica),"[]",,
-Basketball,Montenegro,Susanj,Topolica Sport Hall (Bar),"[]",,
-Basketball,Montenegro,Tivat,Sportski centar Župa (Tivat),"[42.4220203, 18.708957892037823]",,
-Basketball,Montenegro,Vukovi Zeta,SMS Golubovci (Golubovci),"[]",,
-Basketball,Montenegro,Danilovgrad,Sportski Centar Danilovgrad (Danilovgrad),"[]",,
-Basketball,Montenegro,Decic,SMS Golubovci (Golubovci),"[]",,
-Basketball,Montenegro,Kotor,Pomeranian secondary school (Kotor),"[]",,
-Basketball,Montenegro,Lovcen Cetinje,Sportski Centar Cetinje (Cetinje),"[42.39167865, 18.926336636663905]",,
-Basketball,Montenegro,Milenijum,Sportski i kulturni centar Univerziteta Crne gore (Podgorica),"[42.44306805, 19.237243050000004]",,
-Basketball,Montenegro,Sutjeska,Sports center Niksic (Nikšić),"[]",,
-Basketball,Montenegro,Podgorica,Bemax Arena (Podgorica),"[42.4374059, 19.2549604]",,
-Basketball,Netherlands,Zwolle W,Landstede Sportcentrum (Zwolle),"[52.5220246, 6.1227705]",,
 
-Basketball,Netherlands,Binnenland W,De Driesprong (Barendrecht),"[51.8507878, 4.547458]",,
-Basketball,Netherlands,Triple Threat W,Spaarnehal (Haarlem),"[52.35618445, 4.655503634244722]",,
-Basketball,Netherlands,TopKip Lions W,Indoor Centrum Landsmeer (Landsmeer),"[]",,
-Basketball,Netherlands,Leiden W,Sportcomplex 1574 (Leiden),"[52.1501638, 4.4752093]",,
-Basketball,Netherlands,Den Helder W,Top Sportcomplex Quelderduyn (Den Helder),"[]",,
-Basketball,Netherlands,Grasshoppers W,Cleijn Duijn (Katwijk),"[52.2003646, 4.4167738]",,
-Basketball,Netherlands,Limburg W,Sporthal Alverberg (Hasselt),"[50.9390878, 5.321115640812721]",,
-Basketball,Netherlands,Jolly Jumpers W,Sportcentrum De Vlaskoel (Tubbergen),"[52.4107505, 6.783238]",,
-Basketball,Netherlands,QSTA United W,De Kooi (Bemmel),"[]",,
-Basketball,Netherlands,Donar Groningen,MartiniPlaza (Groningen),"[53.202525449999996, 6.555618210167349]",,
-Basketball,Netherlands,Den Bosch,Maaspoort ('s-Hertogenbosch),"[51.7275725, 5.3025507]",,
+Basketball,Switzerland,BBC Monthey,Reposieux (Monthey),"[46.2592559, 6.952547746483606]",Reposieux (Monthey),BBC Monthey
+Basketball,Switzerland,Fribourg Olympic,Salle Saint-Lèonard (Fribourg),"[46.8166597, 7.1568230735170335]",Salle Saint-Lèonard (Fribourg),Fribourg Olympic
+Basketball,Switzerland,Neuchatel,La Riveraine (Neuchâtel),"[46.995962, 6.94668785]",La Riveraine (Neuchâtel),Neuchatel
+Basketball,Switzerland,SAM Massagno,Scuole Elementari Nosedo (Massagno),"[]",Scuole Elementari Nosedo (Massagno),SAM Massagno
+Basketball,Switzerland,Lausanne Basket,Youth Valley Sports Center (Lausanne),"[]",Youth Valley Sports Center (Lausanne),Lausanne Basket
+Basketball,Switzerland,Regio Basel,Sporthalle (Basel),"[47.562439, 7.621036621549655]",Sporthalle (Basel),Regio Basel
+Basketball,Switzerland,Geneva Lions,Pavilion des Sports (Geneva),"[]",Pavilion des Sports (Geneva),Geneva Lions
+Basketball,Switzerland,Lugano Tigers,Istituto Elvetico (Lugano),"[46.00719855, 8.959281883489552]",Istituto Elvetico (Lugano),Lugano Tigers
+Basketball,Switzerland,Sdent BBC Nyon,Rocher (Nyon),"[46.38939082015526, 6.234332654357484]",Rocher (Nyon),Sdent BBC Nyon
 
-Basketball,North Macedonia,Feniks 2010,Jane Sandanski Arena (Skopje),"[]",,
-Basketball,North Macedonia,Gostivar,Mladost Sports Hall (Gostivar),"[]",,
-Basketball,North Macedonia,Kozuv,Sports Hall 26th of April (Gevgelija),"[]",,
-Basketball,North Macedonia,MKK Kumanovo,Sport Hall Pero Nakov (Kumanovo),"[]",,
-Basketball,North Macedonia,Pelister,Boro Curlevski Sports Hall (Bitola),"[]",,
-Basketball,North Macedonia,Tikvesh,Jasmin Sports Hall (Kavadarci),"[]",,
-Basketball,North Macedonia,MZT Skopje,Jane Sandanski Arena (Skopje),"[]",,
-Basketball,North Macedonia,Cair 2030,Sport Hall Shaban Trstena (Skopje),"[]",,
-Basketball,North Macedonia,Rabotnicki,Sports hall City Park (Skopje),"[]",,
-Basketball,North Macedonia,TFT Skopje,SRC Kale (Skopje),"[]",,
-Basketball,North Macedonia,Vardar,SRC Kale (Skopje),"[]",,
-Basketball,North Macedonia,Shkupi Skopje,SRC Kale (Skopje),"[]",,
-Basketball,North Macedonia,Basket Kam W,Kiril i Metodij Arena (Makedonska Kamenica),"[]",,
-Basketball,North Macedonia,Kriva Palanka W,Sport hall Braniteli 2001 (Kriva Palanka),"[]",,
-Basketball,North Macedonia,Struga W,Sports Hall Niko Nestor (Struga),"[]",,
-Basketball,North Macedonia,Vardar W,SRC Kale (Skopje),"[]",,
-Basketball,North Macedonia,Badel 1862 Skopje W,Nezavisna Makedonija (Skopje),"[]",,
-Basketball,North Macedonia,Probasket W,Jasmin Sports Hall (Kavadarci),"[]",,
-Basketball,North Macedonia,MZT Skopje W,Independent Macedonia (Skopje),"[]",,
-Basketball,Norway,Baerum,Nadderudhallen (Bekkestua),"[59.920177, 10.587889]",,
-Basketball,Norway,Oppsal,Oppsal Arena (Oslo),"[59.9061825, 10.845930475195061]",,
-Basketball,Norway,Centrum Tigers,Vulkanhallen (Oslo),"[]",,
-Basketball,Norway,Gimle,Gimlehallen (Bergen),"[60.3533405, 5.359705794811321]",,
-Basketball,Norway,Kongsberg Miners,Kongsberghallen (Kongsberg),"[59.6804841, 9.631824826086955]",,
-Basketball,Norway,Asker,Leikvollhallen (Asker),"[59.825655299999994, 10.44358413483561]",,
-Basketball,Norway,Ammerud,Apalløkka (Oslo),"[59.95961485, 10.864449962696334]",,
-Basketball,Norway,Fyllingen,Fyllingsdalen Idrettshall (Bergen),"[60.3480905, 5.285386520613267]",,
-Basketball,Norway,Froya,Froya Arena (Sistranda),"[]",,
-Basketball,Norway,Tromso,Tromsøhallen (Tromsø),"[69.6759295, 18.955890689667125]",,
-Basketball,Norway,Nidaros Jets,Trondheim Spektrum (Trondheim),"[63.42756475, 10.376580173355112]",,
-Basketball,Norway,Baerum W,Nadderudhallen (Bekkestua),"[59.920177, 10.587889]",,
-Basketball,Norway,Asker W,Leikvollhallen (Asker),"[59.825655299999994, 10.44358413483561]",,
-Basketball,Norway,Bergen W,Amalie Skram VGS (Bergen),"[]",,
-Basketball,Norway,Ullern W,Ullern flerbrukshall (Oslo),"[59.92777075, 10.6323245]",,
-Basketball,Norway,Ammerud W,Apalløkka (Oslo),"[59.95961485, 10.864449962696334]",,
 
-Basketball,Norway,Ulriken W,Haukelandshallen (Bergen),"[60.3699733, 5.354598181930486]",,
+Basketball,Switzerland,Pully W,Arnold-Reymond (Pully),"[46.512939700000004, 6.661428682932477]",Arnold-Reymond (Pully),Pully W
+Basketball,Switzerland,BBC Troistorrents W,Reposieux (Monthey),"[46.2592559, 6.952547746483606]",Reposieux (Monthey),BBC Troistorrents W
+Basketball,Switzerland,Baden W,Kanti Baden (Baden),"[47.470962, 8.31358863474026]",Kanti Baden (Baden),Baden W
+Basketball,Switzerland,Fribourg W,Salle Saint-Lèonard (Fribourg),"[46.8166597, 7.1568230735170335]",Salle Saint-Lèonard (Fribourg),Fribourg W
+Basketball,Switzerland,Geneve W,Ecole Le Sapay (Geneva),"[46.16908305, 6.131325447281732]",Ecole Le Sapay (Geneva),Geneve W
+Basketball,Switzerland,Helios VS W,Bresse (Vétroz),"[46.2180861, 7.2854471]",Bresse (Vétroz),Helios VS W
+Basketball,Switzerland,Nyon W,Rocher (Nyon),"[46.38939082015526, 6.234332654357484]",Rocher (Nyon),Nyon W
+Basketball,Switzerland,Riva Basket W,Pala San Giorgio (Riva San Vitale),"[]",Pala San Giorgio (Riva San Vitale),Riva Basket W
+Basketball,Switzerland,Alte Kanti Aarau W,Telli Spielhalle (Aarau),"[]",Telli Spielhalle (Aarau),Alte Kanti Aarau W
 
-Basketball,Poland,Dziki Warszawa,Hala Sportowa Kolo (Warsaw),"[52.21946975, 21.00160963610131]",,
-Basketball,Poland,Legia,Bemowo (Warsaw),"[52.2421087, 20.9125573]",,
-Basketball,Poland,Zielona Gora,CRS Hala Zielona Gora (Zielona Góra),"[51.9560422, 15.5240821]",,
-Basketball,Poland,Czarni Slupsk,Hala Gryfia (Slupsk),"[54.4613344, 17.00682786453968]",,
-Basketball,Poland,Spojnia Stargard,Hala Miejska (Stargard),"[53.969845500000005, 18.53595065874599]",,
-Basketball,Poland,Ostrow Wielkopolski,Hala Sportowa Stal (Ostrow Wielkopolski),"[]",,
-Basketball,Poland,Torun,Arena Torun (Toruń),"[53.017752200000004, 18.588291728377136]",,
-Basketball,Poland,Anwil Wloclawek,Hala Mistrzow (Wloclawek),"[52.64209365000001, 19.078560187124282]",,
-Basketball,Poland,Slask Wroclaw,Hala Stulecia (Wrocław),"[51.1068875, 17.07731848674789]",,
-Basketball,Poland,GTK Gliwice,PreZero Arena Gliwice (Gliwice),"[50.285672700000006, 18.686119931321954]",,
-Basketball,Poland,Trefl Sopot,Ergo Arena (Sopot),"[54.4265278, 18.580524817962967]",,
-Basketball,Poland,Dabrowa Gornicza,Hala Widowiskowo Sportowa Centrum (Dabrowa Gornicza),"[50.32058765, 19.19032506273777]",,
-Basketball,Poland,Lublin,Globus (Lublin),"[51.2376944, 22.5318097]",,
-Basketball,Poland,Gdynia,Gdynia Arena (Gdynia),"[54.498922050000004, 18.531364235031788]",,
-Basketball,Poland,Gornik Walbrzych,Hala Widowiskowo-Sportowa Aqua Zdroj (Walbrzych),"[]",,
-Basketball,Poland,Szczecin,Netto Arena (Szczecin),"[53.458194950000006, 14.49397472383549]",,
-Basketball,Poland,Trefl Sopot II,Hala Stulecia Sopotu (Sopot),"[54.4489056, 18.561709]",,
-Basketball,Poland,MKKS Koszalin,Hala ZOS - Gwardia (Koszalin),"[]",,
-Basketball,Poland,Slask Wroclaw II,Hala Sportowa Kosynierka (Wrocław),"[51.11742155, 17.02403962528372]",,
-Basketball,Poland,HydroTruck Radom,Sports Hall MOSiR (Radom),"[]",,
-Basketball,Poland,Lancut,MOSiR Lancut (Lancut),"[]",,
-Basketball,Poland,Kotwica Kolobrzeg,Hala Milenium (Kolobrzeg),"[54.17491405, 15.566188900109914]",,
-Basketball,Poland,Inowroclaw,Hala Widowiskowo-Sportowa Inowrocław (Inowrocław),"[52.790084300000004, 18.249626276283003]",,
-Basketball,Poland,WKK Wroclaw,WKK Sport Center (Wrocław),"[51.131384, 17.095635603807946]",,
-Basketball,Poland,Poli. Opolska,Hala sportowa Politechniki Opolskiej (Opole),"[50.67447595, 17.922567618248372]",,
-Basketball,Poland,Starogard Gdanski,Hala im. Andrzeja Grubby (Starogard Gdanski),"[53.969845500000005, 18.53595065874599]",,
-Basketball,Poland,Pelplin,Zespol Ksztalcenia i Wychowania nr 1 w Pelplinie (Pelplin),"[]",,
-Basketball,Poland,R. Rzeszow,Hala sportowa zespołu szkół nr.1 w Rzeszow (Rzeszow),"[]",,
-Basketball,Poland,GKS Tychy,Hala Sportowa Tychy (Tychy),"[50.1072092, 18.987213]",,
-Basketball,Poland,Krosno,Hala Sportowo-Widowiskowa (Krosno),"[52.055730350000005, 15.108318885216589]",,
-Basketball,Poland,LKS Lodz,Sport Arena Łódź (Lodz),"[51.7586661, 19.4242430478416]",,
-Basketball,Poland,Polonia Warszawa,Hala Sportowa Kolo (Warsaw),"[52.21946975, 21.00160963610131]",,
-Basketball,Poland,Poznan,Cityzen hall (Poznań),"[]",,
-Basketball,Poland,Bydgoszcz,Sisu Arena (Bydgoszcz),"[53.1196458, 18.027711879096557]",,
-Basketball,Poland,Sleza Wroclaw W,KGHM Ślęza Arena (Wrocław),"[51.150063200000005, 17.11235623032574]",,
-Basketball,Poland,AZS Poznan W,Centrum Sportu Politechniki Poznanskiej (Poznań),"[]",,
-Basketball,Poland,Lublin W,Hala im. Zdzislawa Niedzieli (Lublin),"[51.23738865, 22.568142653870595]",,
-Basketball,Poland,Gorzow W,Arena Gorzow (Gorzow),"[52.744742, 15.216354047809784]",,
-Basketball,Poland,Basket 25 Bydgoszcz W,Sisu Arena (Bydgoszcz),"[53.1196458, 18.027711879096557]",,
-Basketball,Poland,VBW Gdynia W,Gdynia Arena (Gdynia),"[54.498922050000004, 18.531364235031788]",,
-Basketball,Poland,Torun W,Arena Torun (Toruń),"[53.017752200000004, 18.588291728377136]",,
-Basketball,Poland,Polonia Warszawa W,Hala Sportowa Kolo (Warsaw),"[52.21946975, 21.00160963610131]",,
-Basketball,Poland,Sosnowiec W,Hala Widowiskowo-Sportowa (Sosnowiec),"[50.28828335, 19.08301658241258]",,
-Basketball,Poland,Polkowice W,Hala Sportowa Szkoly Podstawowej (Polkowice),"[]",,
-Basketball,Portugal,Galomar,Pavilhão do Caniço (Caniço),"[32.65014695, -16.84817845]",,
-Basketball,Portugal,Ovarense,Arena de Ovar (Ovar),"[]",,
-Basketball,Portugal,Sporting CP,Pavilhão João Rocha (Lisbon),"[38.76343095, -9.158429042801874]",,
-Basketball,Portugal,Galitos Barreiro,Pavilhão Vítor Domingos (Lavradio),"[38.659541250000004, -9.052912550845484]",,
-Basketball,Portugal,CA Queluz,Pavilhão Henrique Miranda (Queluz),"[]",,
-Basketball,Portugal,CD Povoa,Clube Desportivo Póvoa (Póvoa de Varzim),"[41.39010253994818, -8.762828650704614]",,
-Basketball,Portugal,Imortal,Pavilhão Desportivo de Albufeira (Albufeira),"[37.099199850000005, -8.237667572392894]",,
-Basketball,Portugal,Esgueira,Pavilhão Clube do Povo de Esgueira (Esgueira),"[]",,
-Basketball,Portugal,Benfica,Pavilhão Fidelidade (Lisbon),"[38.751281199999994, -9.183507791831957]",,
-Basketball,Portugal,Oliveirense,Pavilhão Dr. Salvador Machado (Oliveira de Azemeis),"[]",,
-Basketball,Portugal,Vitoria,Pavilhao Desportivo Unidade Vimaranense (Guimarães),"[]",,
-Basketball,Portugal,FC Porto,Pavilhão Dragão Arena (Porto),"[]",,
-Basketball,Portugal,Barreirense,Pavilhão Vítor Domingos (Lavradio),"[38.659541250000004, -9.052912550845484]",,
-Basketball,Portugal,CB Queluz,Complexo Desportivo Municipal João Carlos Cifuentes (Queluz),"[]",,
-Basketball,Portugal,Benfica Lisboa B,Pavilhão Fidelidade (Lisbon),"[38.751281199999994, -9.183507791831957]",,
-Basketball,Portugal,Sampaense,Pavilhao Comendador Serafim Marques (São Paio de Gramaços),"[]",,
-Basketball,Portugal,Illiabum,Pavilhão Capitão Adriano Nordeste (Ílhavo),"[40.6026856, -8.670392646353102]",,
-Basketball,Portugal,Maia,Pavilhão Mun. Nortecoope (Maia),"[]",,
-Basketball,Portugal,Braga,Sports Pavilion Lamacaes (Braga),"[]",,
-Basketball,Portugal,Imortal B,Pavilhão Desportivo de Albufeira (Albufeira),"[37.099199850000005, -8.237667572392894]",,
-Basketball,Portugal,Ginasio,Pavilhão Galamba Marques (Figueira da Foz),"[40.1628336, -8.858124751238694]",,
-Basketball,Portugal,Portimonense,Pavilhão Desportivo da Boavista (Portimão),"[]",,
-Basketball,Portugal,Sangalhos,Complexo Desportivo de Sangalhos (Sangalhos),"[]",,
-Basketball,Portugal,Vasco Da Gama,Parque das Camélias (Porto),"[41.3405051, -8.555092850000001]",,
-Basketball,Portugal,Lusitania,Pavilhão Municipal de Angra do Heroísmo (Angra do Heroísmo),"[]",,
-Basketball,Portugal,Galitos Aveiro,Pavilhao do Clube dos Galitos (Aveiro),"[40.6369731, -8.6408629020722]",,
-Basketball,Portugal,CAB Madeira,Pavilhao Clube Amigos do Basquete (Funchal),"[]",,
-Basketball,Portugal,Santo Andre,Pavilhao Municipal Padre Amadeu Pinto (Santo Andre),"[38.067638849999994, -8.792184896512982]",,
-Basketball,Portugal,Uniao Sportiva W,Pavilhao Sidonio Serpa (Vila Franca do Campo),"[]",,
-Basketball,Portugal,Barcelos W,Escola Secundaria de Barcelos (Barcelos),"[41.52884065, -8.613651069270773]",,
-Basketball,Portugal,Galitos W,Pavilhao do Clube dos Galitos (Aveiro),"[40.6369731, -8.6408629020722]",,
-Basketball,Portugal,Quinta Dos Lombos W,Pavilhao Desportivo dos Lombos (Quinta dos Lombos),"[]",,
-Basketball,Portugal,Sanjoanense W,Pavilhão Municipal Paulo Pinto (São João da Madeira),"[]",,
-Basketball,Portugal,Benfica W,Pavilhão Fidelidade (Lisbon),"[38.751281199999994, -9.183507791831957]",,
-Basketball,Portugal,Imortal W,Pavilhão Desportivo de Albufeira (Albufeira),"[37.099199850000005, -8.237667572392894]",,
-Basketball,Portugal,CAB Madeira W,Pavilhao Clube Amigos do Basquete (Funchal),"[]",,
-Basketball,Portugal,Esgueira W,Pavilhao Clube do Pova de Esgueira (Aveiro),"[]",,
-Basketball,Portugal,Natacao W,Pavilhao Municipal de Ermesinde (Ermesinde),"[41.2075707, -8.556581063876095]",,
-Basketball,Portugal,Gdessa Barreiro W,Pavilhao Municipal Luis de Carvalho (Barreiro),"[38.635201249999994, -9.03293730172786]",,
-Basketball,Portugal,AD Vagos W,Pavilhao Municipal de Vagos (Vagos),"[40.54607085, -8.684436835343227]",,
-Basketball,Portugal,Sporting CP W,Pavilhão João Rocha (Lisbon),"[38.76343095, -9.158429042801874]",,
-Basketball,Portugal,Braga W,AMCO Arena (Braga),"[41.5649563, -8.429548349053356]",,
-Basketball,Portugal,CDEFF W,Pavilhao Francisco Franco (Funchal),"[32.65207355, -16.905859674484972]",,
-Basketball,Romania,SCM Timisoara,Sala Constantin Jude (Timişoara),"[45.746230249999996, 21.241672300957006]",,
-Basketball,Romania,CSM Targu Mures,Sala Sporturilor Târgu Mureș (Târgu Mureş),"[]",,
-Basketball,Romania,Dinamo Bucharest,Sala Polivalenta Dinamo (Bucharest),"[44.454031650000005, 26.10407916432288]",,
-Basketball,Romania,SCM Craiova,Sala Polivalenta din Craiova (Craiova),"[]",,
-Basketball,Romania,Valcea,Traian Sports Hall (Râmnicu Vâlcea),"[]",,
-Basketball,Romania,Municipal Galati,Dunarea Galati (Galati),"[45.43865545, 28.05566595214991]",,
-Basketball,Romania,Corona Brasov,Sala Sporturilor Dumitru Popescu Colibasi (Braşov),"[45.6602764, 25.61795809396461]",,
-Basketball,Romania,Cluj-Napoca,BT Arena (Cluj-Napoca),"[]",,
-Basketball,Romania,CSU Sibiu,Sala Sporturilor Transilvania (Sibiu),"[]",,
-Basketball,Romania,CSM Constanta,Sala Sporturilor Constanta (Constanta),"[44.182500399999995, 28.648571539248792]",,
-Basketball,Romania,Petrolul Ploiesti,Olimpia Sports Hall (Ploiesti),"[]",,
-Basketball,Romania,Voluntari,Sala de Sport Gabriela Szabo (Voluntari),"[]",,
-Basketball,Romania,Rapid Bucuresti,Rapid Arena (Bucharest),"[44.45577675, 26.057047027105355]",,
-Basketball,Romania,CSM Oradea,Oradea Arena (Oradea),"[47.045999699999996, 21.913749891230328]",,
-Basketball,Romania,Arges Pitesti,Trivale Pitesti (Pitesti),"[44.8486812, 24.843505]",,
-Basketball,Romania,BC Steaua Bucuresti,Mihai Viteazul Bucuresti (Bucharest),"[44.4893653, 26.0260105]",,
-Basketball,Romania,Agronomia Bucuresti W,Sala Agronomia (Bucharest),"[]",,
-Basketball,Romania,Arad W,Sala Polivalentă Victoria (Arad),"[46.1795566, 21.334329829329604]",,
-Basketball,Romania,Municipal Targoviste W,Sala Sporturilor Targoviste (Targoviste),"[]",,
-Basketball,Romania,Rapid Bucuresti W,Rapid Arena (Bucharest),"[44.45577675, 26.057047027105355]",,
-Basketball,Romania,Cluj Napoca W,Horia Demian Cluj (Cluj-Napoca),"[46.7657373, 23.564565962870674]",,
-Basketball,Romania,CSM Constanta W,Sala Sporturilor Constanta (Constanta),"[44.182500399999995, 28.648571539248792]",,
-Basketball,Romania,CSU Brasov W,Sala Sporturilor Dumitru Popescu Colibasi (Braşov),"[45.6602764, 25.61795809396461]",,
-Basketball,Romania,Sepsi SIC W,Sepsi Arena (Sfantu Gheorghe),"[45.8813164, 25.808382496928992]",,
-Basketball,Serbia,BKK Radnicki,Hala SD Radnički (Belgrade),"[]",,
-Basketball,Serbia,KK Metalac,Hala sportova 15. septembar (Valjevo),"[]",,
-Basketball,Serbia,Sloboda,Veliki Park Sports Hall (Uzice),"[43.8482375, 19.8460526]",,
-Basketball,Serbia,Sloga,Nova hala sportova (Kraljevo),"[43.71490905, 20.694083794866252]",,
-Basketball,Serbia,Tamis,Hala sportova Strelište (Pančevo),"[44.8616523, 20.66133120999]",,
-Basketball,Serbia,Vojvodina Novi Sad,SPC Vojvodina (Novi Sad),"[]",,
-Basketball,Serbia,Vrsac,Centar Milenijum (Vrsac),"[45.117974399999994, 21.3108601]",,
-Basketball,Serbia,Zlatibor,Cajetina Sports Hall (Cajetina),"[]",,
-Basketball,Serbia,Cacak 94,Borac Hall (Čačak),"[]",,
-Basketball,Serbia,Dynamic,Dynamic Arena (Belgrade),"[]",,
-Basketball,Serbia,Joker,Gradska hala Mostonga (Sombor),"[45.7626676, 19.1009657]",,
-Basketball,Serbia,KK Mladost SP,Vuk Karadžić School Hall (Smederevska Palanka),"[]",,
-Basketball,Serbia,Mladost Zemun,Sportski centar Master (Zemun),"[44.8379189, 20.410271]",,
-Basketball,Serbia,OKK Beograd,Dejan Milojevic Training Center (Belgrade),"[]",,
-Basketball,Serbia,OKK Novi Pazar,Pendik (Novi Pazar),"[43.1379075, 20.51269886907547]",,
-Basketball,Serbia,Radnicki,Jezero Hall (Kragujevac),"[44.013614950000004, 20.92421025000001]",,
-Basketball,Serbia,Novosadska Novi Sad W,SPC Vojvodina (Novi Sad),"[]",,
-Basketball,Serbia,Proleter Zrenjanin W,Crystal Hall (Zrenjanin),"[]",,
-Basketball,Serbia,Ras W,Sportski centar Rakovica (Belgrade),"[44.75250355, 20.445400319494354]",,
-Basketball,Serbia,Sloga Pozega W,Sportska hala Pozega (Pozega),"[]",,
-Basketball,Serbia,Spartak Subotica W,Hala sportova Dudova šuma (Subotica),"[46.10956075, 19.655158690558434]",,
-Basketball,Serbia,Student Nis W,OŠ Duško Radović (Niš),"[]",,
-Basketball,Serbia,Partizan W,Hala sportova Ranko Žeravica (Belgrade),"[44.827653549999994, 20.406352093439274]",,
-Basketball,Serbia,Duga W,Gimnazija (Sabac),"[44.754981900000004, 19.693508483028452]",,
-Basketball,Serbia,Mega MIS W,Dejan Milojevic Training Center (Belgrade),"[]",,
-Basketball,Serbia,Vojvodina 021 W,Petrovaradin (Novi Sad),"[45.2331396, 19.8596921]",,
-Basketball,Serbia,ZKK Kraljevo W,Nova hala sportova (Kraljevo),"[43.71490905, 20.694083794866252]",,
-Basketball,Serbia,Crvena zvezda W,Železnik Hall (Belgrade),"[]",,
-Basketball,Slovakia,BC Komarno,City sports Hall (Komárno),"[]",,
-Basketball,Slovakia,Iskra Svit,Iskra Arena (Svit),"[]",,
-Basketball,Slovakia,NEXTGEN Slovakia,ŠH Trnávka (Bratislava),"[48.1694604, 17.1667537]",,
-Basketball,Slovakia,BKM Lucenec,Sportova hala ARENA (Lucenec),"[]",,
-Basketball,Slovakia,Spisski Rytieri,Sportova hala Spisska Nova Ves (Spisska Nova Ves),"[48.938144, 20.5639965]",,
-Basketball,Slovakia,Levice,Sportova hala Levice (Levice),"[48.2205516, 18.597455975170476]",,
-Basketball,Slovakia,Nitra Blue Wings,Mestska hala Nitra (Nitra),"[48.2961398, 18.0695075]",,
-Basketball,Slovakia,Inter Bratislava,GoPass Arena (Bratislava),"[]",,
-Basketball,Slovakia,MBK Handlova,Sportova hala Handlova (Handlova),"[]",,
-Basketball,Slovakia,BC Prievidza,Sportova hala (Prievidza),"[48.7766606, 18.6027356]",,
-Basketball,Slovakia,UMB Banska Bystrica W,Telocvicna FF UMB (Banská Bystrica),"[]",,
-Basketball,Slovakia,Young Angels Kosice W,Stara jazdiaren (Košice),"[]",,
-Basketball,Slovakia,Trencin W,Mestská športová hala (Trenčín),"[48.71641095, 18.257147700900738]",,
-Basketball,Slovakia,Ivanka pri Dunaji W,ZŠ Ivanka pri Dunaji (Ivanka pri Dunaji),"[48.1885931, 17.2578039]",,
-Basketball,Slovakia,MBK Ruzomberok W,Športová hala Koniareň (Ružomberok),"[]",,
-Basketball,Slovakia,Slovan Bratislava W,Dom Športu (Bratislava),"[48.16699895, 17.13971513844411]",,
-Basketball,Slovakia,Piestanske Cajky W,Diplomat Arena (Piešťany),"[48.597176700000006, 17.838350702427455]",,
-Basketball,Slovakia,Samorin W,Sportcentrum Samaria (Šamorín),"[]",,
-Basketball,Slovakia,Slavia Banska Bystrica W,Sportova hala Dukla (Banská Bystrica),"[48.73242305, 19.132901242090615]",,
-Basketball,Slovakia,CBK Kosice W,Stara jazdiaren (Košice),"[]",,
-Basketball,Slovenia,Tajfun Sentjur,Osnovna sola Hrusevec Sentjur (Sentjur),"[46.2082843, 15.3896113]",,
-Basketball,Slovenia,Sencur,Sportna dvorana Sencur (Sencur),"[46.24901925, 14.419297042761201]",,
-Basketball,Slovenia,Rogaska,SD Rogaska Slatina (Rogaska Slatina),"[]",,
-Basketball,Slovenia,KK Triglav Kranj,Sportna dvorana Planina (Kranj),"[46.2357706, 14.365265511523308]",,
-Basketball,Slovenia,Podcetrtek,Sportna dvorana Podcetrtek (Podcetrtek),"[46.15487555, 15.607711804464751]",,
-Basketball,Slovenia,Helios Domzale,Sportna dvorana Domzale (Domžale),"[46.139467350000004, 14.595083529962078]",,
-Basketball,Slovenia,Zlatorog Lasko,Dvorana Tri lilije (Laško),"[46.164829850000004, 15.23039335]",,
-Basketball,Slovenia,LTH Castings,Sportna dvorana Poden (Skofja Loka),"[46.1698727, 14.301909328547604]",,
-Basketball,Slovenia,Ilirija,Hala Tivoli (Ljubljana),"[46.0599189, 14.495179149999998]",,
-Basketball,Slovenia,KK Krka Novo mesto,SD Leona Stuklja (Novo Mesto),"[]",,
-Basketball,Slovenia,Maribor W,Dvorana Tabor (Maribor),"[46.5495179, 15.635652298661174]",,
-Basketball,Slovenia,Triglav W,Sportna dvorana Planina (Kranj),"[46.2357706, 14.365265511523308]",,
-Basketball,Slovenia,ZKK Domzale W,OŠ Venclja Perka (Domžale),"[46.13867985, 14.591323458287176]",,
-Basketball,Slovenia,Ilirija W,Dvorana Jezica (Ljubljana),"[46.0949835, 14.5084024]",,
-Basketball,Slovenia,Domel Skofja Loka W,Sportna dvorana Poden (Skofja Loka),"[46.1698727, 14.301909328547604]",,
-Basketball,Slovenia,Jezica W,Dvorana Jezica (Ljubljana),"[46.0949835, 14.5084024]",,
-Basketball,Slovenia,Cinkarna Celje W,Gimnazija Celje - Center (Celje),"[46.2324838, 15.2641829]",,
-Basketball,Slovenia,Polzela,Dvorana Tri lilije (Laško),"[46.164829850000004, 15.23039335]",,
 
-Basketball,Slovenia,Hidria,Stadio di Idra (Idrija),"[]",,
-Basketball,Slovenia,Cedevita Olimpija,Arena Stožice (Ljubljana),"[46.08137065, 14.521460334999997]",,
 
-Basketball,Spain,Breogan,Pazo dos Deportes (Lugo),"[42.9912542, -7.545343345809101]",,
-Basketball,Spain,Forca Lleida,Pavelló Barris Nord (Lleida),"[41.625939349999996, 0.6315997398461692]",,
-Basketball,Spain,Tenerife,Pabellón Insular Santiago Martín (San Cristóbal de La Laguna),"[28.458373899999998, -16.296957279035283]",,
-Basketball,Spain,Baskonia,Fernando Buesa Arena (Vitoria-Gasteiz),"[42.864063650000006, -2.6416626470535665]",,
-Basketball,Spain,Leyma Coruna,Coliseum da Coruna (La Coruña),"[43.3387359, -8.409699667579549]",,
-Basketball,Spain,Gran Canaria,Gran Canaria Arena (Las Palmas),"[28.10300815, -15.456937953844832]",,
-Basketball,Spain,Barcelona,Palau Blaugrana (Barcelona),"[41.3800239, 2.120087756642532]",,
-Basketball,Spain,Bilbao,Bilbao Arena (Bilbao),"[43.252202249999996, -2.92603284631579]",,
-Basketball,Spain,Valencia,Font de Sant Lluis (Valencia),"[39.4358163, -0.5178834]",,
-Basketball,Spain,Joventut Badalona,Palau Municipal d'Esports de Badalona (Badalona),"[41.44249535, 2.231985970588234]",,
-Basketball,Spain,Unicaja,Palacio de Deportes José María Martín Carpena (Málaga),"[36.682522750000004, -4.460515586545332]",,
-Basketball,Spain,MoraBanc Andorra,Poliesportiu d'Andorra (Andorra la Vella),"[42.504879200000005, 1.5165670807195486]",,
-Basketball,Spain,Murcia,Palacio de Deportes de Murcia (Murcia),"[]",,
-Basketball,Spain,Basket Zaragoza,Pabellon Principe Felipe (Zaragoza),"[41.6353666, -0.8662365999999975]",,
-Basketball,Spain,Manresa,Pavelló Nou Congost (Manresa),"[]",,
-Basketball,Spain,Real Madrid,WiZink Center (Madrid),"[40.42386235, -3.6717884687419096]",,
-Basketball,Spain,Granada,Palacio de Deportes (Granada),"[37.1535554, -3.5931766]",,
-Basketball,Spain,Basquet Girona,Pavello Fontajau (Girona),"[41.99035125, 2.810871806705715]",,
-Basketball,Spain,Gipuzkoa,Plaza de Toros de Illumbe (San Sebastian),"[43.2976257, -1.9687033708259327]",,
-Basketball,Spain,Moron,Pabellón Alameda (Sevilla),"[]",,
-Basketball,Spain,Castello,Pabellon Ciutat de Castello (Castellón de la Plana),"[]",,
-Basketball,Spain,Ourense,Pazo dos Deportes Paco Paz (Ourense),"[42.3170743, -7.864155712389156]",,
-Basketball,Spain,Oviedo,Polideportivo de Pumarín Luis Riera Posada (Oviedo),"[]",,
-Basketball,Spain,Real Valladolid,Pabellón Polideportivo Pisuerga (Valladolid),"[41.6926042, -4.6866846]",,
-Basketball,Spain,Alicante,Pabellon Pedro Ferrandiz (Alicante),"[]",,
-Basketball,Spain,Estela,Pabellon Vicente Trueba (Torrelavega),"[43.34415465, -4.0493652375]",,
-Basketball,Spain,Fuenlabrada,Pabellon Fernando Martin (Fuenlabrada),"[40.282511549999995, -3.8005343469378596]",,
-Basketball,Spain,Palencia,Pabellon Municipal de Deportes (Palencia),"[42.595076750000004, -4.3346621957299165]",,
-Basketball,Spain,Cartagena,Palacio de Deportes de Cartagena (Cartagena),"[37.61272005, -1.007450696383776]",,
-Basketball,Spain,Estudiantes,WiZink Center (Madrid),"[40.42386235, -3.6717884687419096]",,
-Basketball,Spain,Real Betis,Palacio Municipal De Deportes San Pablo (Sevilla),"[]",,
-Basketball,Spain,Zamora,Pabellón Angel Nieto (Zamora),"[]",,
-Basketball,Spain,Hestia Menorca,Pavelló Menorca (Maó),"[39.8747266, 4.2625548]",,
-Basketball,Spain,Obradoiro CAB,Pavillón Multiusos Fontes do Sar (Santiago de Compostela),"[]",,
-Basketball,Spain,Tizona Burgos,Polideportivo El Plantío (Burgos),"[42.345039, -3.671450215005406]",,
-Basketball,Spain,San Pablo Burgos,Coliseum Burgos (Burgos),"[42.3443866, -3.678386994113409]",,
-Basketball,Spain,Gernika Bizkaia W,Polideportivo Maloste (Gernika-Lumo),"[]",,
-Basketball,Spain,Araski W,Pabellon Polideportivo de Mendizorroza (Vitoria-Gasteiz),"[]",,
-Basketball,Spain,Ferrol W,Pavillón da Malata (Ferrol),"[]",,
-Basketball,Spain,Ardoi W,Sports Facilities Public University of Navarra (Pamplona),"[]",,
-Basketball,Spain,Jairis W,Pabellon Fausto Vicent (Alcantarilla),"[37.9742648, -1.2257669500000001]",,
-Basketball,Spain,Ensino W,Pazo dos Deportes (Lugo),"[42.9912542, -7.545343345809101]",,
-Basketball,Spain,Joventut Badalona W,Palau Municipal d'Esports de Badalona (Badalona),"[41.44249535, 2.231985970588234]",,
-Basketball,Spain,Uni Girona W,Pavello Fontajau (Girona),"[41.99035125, 2.810871806705715]",,
-Basketball,Spain,Valencia W,Font de Sant Lluis (Valencia),"[39.4358163, -0.5178834]",,
-Basketball,Spain,Perfumerias Avenida W,Pabellon Municipal Wurzburg (Salamanca),"[40.98260965, -5.6528262851159266]",,
-Basketball,Spain,Celta W,Pabellón De Navia (Vigo),"[]",,
-Basketball,Spain,Cadi La Seu W,Palau D´Esports de la Seu D´Urgell (La Seu d'Urgell),"[42.359965700000004, 1.465842935074497]",,
-Basketball,Spain,Estudiantes W,Polideportivo Antonio Magarinos (Madrid),"[40.44243375, -3.686385831452854]",,
-Basketball,Spain,IDK Gipuzkoa W,Jose Antonio Gasca (San Sebastian),"[]",,
-Basketball,Spain,Gran Canaria W,Centro Insular de Deportes (Las Palmas),"[28.113055850000002, -15.417525891824834]",,
-Basketball,Spain,Zaragoza W,Pabellon Principe Felipe (Zaragoza),"[41.6353666, -0.8662365999999975]",,
-Basketball,Sweden,BC Lulea,Lulea Energi Arena (Luleå),"[65.5881071, 22.1504363]",,
-Basketball,Sweden,Boras,Borashallen (Boras),"[57.71712875, 12.928597497168198]",,
-Basketball,Sweden,Hogsbo,Gothia Arena (Göteborg),"[57.645258999999996, 11.914912167869012]",,
-Basketball,Sweden,Nassjo,Nassjo Sporthall (Nassjo),"[57.65858245, 14.69964582813268]",,
-Basketball,Sweden,Umea,Umea Energi Arena (Umea),"[63.8290473, 20.285561068250974]",,
-Basketball,Sweden,Uppsala,Upplands Bilforum USIF Arena (Uppsala),"[]",,
-Basketball,Sweden,Jamtland,Ostersunds Sporthall (Ostersund),"[63.19120705, 14.660216666538702]",,
-Basketball,Sweden,Koping Stars,Köpings Bad & Sport (Koping),"[59.50788835, 15.98223121670555]",,
-Basketball,Sweden,Norrkoping,Stadium Arena B (Norrköping),"[]",,
-Basketball,Sweden,Sodertalje,Taljehallen (Södertälje),"[59.19901315, 17.6365570651485]",,
-Basketball,Sweden,Alvik,Akeshovshallen (Bromma),"[]",,
-Basketball,Sweden,Ockelbo,Kuxahallen (Ockelbo),"[60.8907146, 16.7160059]",,
-Basketball,Sweden,IK Eos,Eoshallen (Lund),"[55.696341399999994, 13.201360650000002]",,
-Basketball,Sweden,Wetterbygden Stars,Huskvarna Sporthall (Jönköping),"[]",,
-Basketball,Sweden,Blackeberg,Vallingbyhallen (Vallingby),"[]",,
-Basketball,Sweden,Malbas,Heleneholms Sporthall (Malmö),"[55.57879425, 13.012996036786895]",,
-Basketball,Sweden,Huddinge,Edbohallen (Trangsund),"[]",,
-Basketball,Sweden,Aros Basket,Kristiansborgshallen (Vasteras),"[]",,
-Basketball,Sweden,AIK Basket,Vasalundshallen (Solna),"[59.36771535, 17.998658674097477]",,
-Basketball,Sweden,KFUM Fryshuset,Fryshuset (Stockholm),"[59.3011252, 18.088371129701635]",,
-Basketball,Sweden,Djurgarden,Brannkyrkahallen (Stockholm),"[59.303731299999995, 18.01479631317775]",,
-Basketball,Sweden,Akersberga,Osterakers multiarena (Akersberga),"[59.4824953, 18.272310829519572]",,
-Basketball,Sweden,Sloga Uppsala,Upplands Bilforum USIF Arena (Uppsala),"[]",,
-Basketball,Sweden,Tureberg,Sollentuna Sporthall (Sollentuna),"[59.43738205, 17.953587496994267]",,
-Basketball,Sweden,Lund W,Eoshallen (Lund),"[55.696341399999994, 13.201360650000002]",,
-Basketball,Sweden,Ostersund W,Ostersunds Sporthall (Ostersund),"[63.19120705, 14.660216666538702]",,
-Basketball,Sweden,Sodertalje W,Taljehallen (Södertälje),"[59.19901315, 17.6365570651485]",,
-Basketball,Sweden,Hogsbo W,Gothia Arena (Göteborg),"[57.645258999999996, 11.914912167869012]",,
-Basketball,Sweden,Uppsala W,Lotens IP (Uppsala),"[59.87688165, 17.63712905737283]",,
-Basketball,Sweden,Norrkoping W,Stadium Arena B (Norrköping),"[]",,
-Basketball,Sweden,Visby W,ICA Maxi Arena (Visby),"[57.60672375, 18.281532550000005]",,
-Basketball,Sweden,Lulea W,Lulea Energi Arena (Luleå),"[65.5881071, 22.1504363]",,
-Basketball,Sweden,Alvik W,Akeshovshallen (Bromma),"[]",,
-Basketball,Sweden,AIK Basket W,Vasalundshallen (Solna),"[59.36771535, 17.998658674097477]",,
-Basketball,Sweden,Team4Q W,Gustav Adolfs hallen (Helsingborg),"[]",,
-Basketball,Sweden,Blackeberg W,Vallingbyhallen (Vallingby),"[]",,
-Basketball,Sweden,KFUM Kalmar W,Kalmar Sportcenter (Kalmar),"[56.668603450000006, 16.348615915813745]",,
-Basketball,Sweden,MarkSjuharad 2 W,Kyllaredshallen (Boras),"[57.7248769, 13.012486568161986]",,
-Basketball,Sweden,Onsala W,Kollahallen (Kungsbacka),"[]",,
-Basketball,Sweden,KFUM Uppsala W,Upplands Bilforum USIF Arena (Uppsala),"[]",,
-Basketball,Sweden,Tureberg W,Sollentuna Sporthall (Sollentuna),"[59.43738205, 17.953587496994267]",,
-Basketball,Sweden,Lobas W,Pilangshallen (Lomma),"[55.67092245, 13.081842422693448]",,
-Basketball,Sweden,Kvarnby Lions W,Gothia Arena (Göteborg),"[57.645258999999996, 11.914912167869012]",,
-Basketball,Sweden,Brahe W,Huskvarna Sporthall (Jönköping),"[]",,
-Basketball,Sweden,Huddinge W,Stuvstahallen (Huddinge),"[59.2530565, 18.008772641948234]",,
-Basketball,Sweden,Lulea Stars W,Halsans hus (Luleå),"[65.58345605, 22.129543228205794]",,
-Basketball,Sweden,Lulea 2 W,Lulea Energi Arena (Luleå),"[65.5881071, 22.1504363]",,
-Basketball,Sweden,Norrkoping 2 W,Stadium Arena B (Norrköping),"[]",,
-Basketball,Sweden,Lidingo W,Hersby Hallen (Lidingo),"[]",,
-Basketball,Sweden,Ostersund 2 W,Ostersunds Sporthall (Ostersund),"[63.19120705, 14.660216666538702]",,
-Basketball,Sweden,Malbas Malmo W,Heleneholms Sporthall (Malmö),"[55.57879425, 13.012996036786895]",,
-Basketball,Sweden,KFUM Central W,Gärdeshallen (Stockholm),"[59.339277800000005, 18.099992550145696]",,
-Basketball,Sweden,Alvik 2 W,Akeshovshallen (Bromma),"[]",,
-Basketball,Sweden,Fryshuset Basket W,Fryshuset (Stockholm),"[59.3011252, 18.088371129701635]",,
-Basketball,Sweden,RIG Lulea W,Halsans hus (Luleå),"[65.58345605, 22.129543228205794]",,
-Basketball,Sweden,Umea W,Umea Energi Arena (Umea),"[63.8290473, 20.285561068250974]",,
-Basketball,Sweden,Hammarby W,Farstahallen (Stockholm),"[59.23920455, 18.085130378645623]",,
-Basketball,Sweden,IK Eos Utveckling W,Eoshallen (Lund),"[55.696341399999994, 13.201360650000002]",,
-Basketball,Sweden,Sodertalje 2 W,Rosenborgsskolan arena (Rosenborg),"[]",,
 
-Basketball,Sweden,MarkSjuharad W,Kinnahallen (Kinna),"[]",,
 
-Basketball,Switzerland,BBC Monthey,Reposieux (Monthey),"[46.2592559, 6.952547746483606]",,
-Basketball,Switzerland,Fribourg Olympic,Salle Saint-Lèonard (Fribourg),"[46.8166597, 7.1568230735170335]",,
-Basketball,Switzerland,Neuchatel,La Riveraine (Neuchâtel),"[46.995962, 6.94668785]",,
-Basketball,Switzerland,SAM Massagno,Scuole Elementari Nosedo (Massagno),"[]",,
-Basketball,Switzerland,Lausanne Basket,Youth Valley Sports Center (Lausanne),"[]",,
-Basketball,Switzerland,Regio Basel,Sporthalle (Basel),"[47.562439, 7.621036621549655]",,
-Basketball,Switzerland,Geneva Lions,Pavilion des Sports (Geneva),"[]",,
-Basketball,Switzerland,Lugano Tigers,Istituto Elvetico (Lugano),"[46.00719855, 8.959281883489552]",,
-Basketball,Switzerland,Sdent BBC Nyon,Rocher (Nyon),"[46.38939082015526, 6.234332654357484]",,
-Basketball,Switzerland,Pully W,Arnold-Reymond (Pully),"[46.512939700000004, 6.661428682932477]",,
-Basketball,Switzerland,BBC Troistorrents W,Reposieux (Monthey),"[46.2592559, 6.952547746483606]",,
-Basketball,Switzerland,Baden W,Kanti Baden (Baden),"[47.470962, 8.31358863474026]",,
-Basketball,Switzerland,Fribourg W,Salle Saint-Lèonard (Fribourg),"[46.8166597, 7.1568230735170335]",,
-Basketball,Switzerland,Geneve W,Ecole Le Sapay (Geneva),"[46.16908305, 6.131325447281732]",,
-Basketball,Switzerland,Helios VS W,Bresse (Vétroz),"[46.2180861, 7.2854471]",,
-Basketball,Switzerland,Nyon W,Rocher (Nyon),"[46.38939082015526, 6.234332654357484]",,
-Basketball,Switzerland,Riva Basket W,Pala San Giorgio (Riva San Vitale),"[]",,
-Basketball,Switzerland,Alte Kanti Aarau W,Telli Spielhalle (Aarau),"[]",,
-Basketball,Ukraine,Kryvbas,Sportpalace Budivelnyk (Cherkasy),"[]",,
-Basketball,Ukraine,Cherkaski Mavpy,Sportpalace Budivelnyk (Cherkasy),"[]",,
-Basketball,Ukraine,BC Dnipro,Sportcomplex Shynnik (Dnipro),"[]",,
-Basketball,Ukraine,BK Zaporozhye,Sportcomplex Shynnik (Dnipro),"[]",,
-Basketball,Ukraine,Kyiv Basket W,Sports Palace Veneto (Kyiv),"[]",,
-Basketball,Ukraine,Frankivsk-Prykarpattia W,Munitsypalnyy Fizkulturno-ozdorovchyy Tsentr (Ivano-Frankivsk),"[]",,
-Basketball,Ukraine,Odessa W,Palace of Sports (Odesa),"[46.4466547, 30.7581782]",,
-Basketball,Ukraine,Vinnytski Blyskavky W,Vinnytsia University Hall (Vinnytsia),"[]",,
-Basketball,United Kingdom,London Lions,Copper Box Arena (London),"[51.5449463, -0.0205462]",,
-Basketball,United Kingdom,Surrey 89ers,Surrey Sports Park (Surrey),"[51.234124550000004, -0.6087191938309877]",,
-Basketball,United Kingdom,Caledonia Gladiators,Playsport Arena (East Kilbride),"[]",,
-Basketball,United Kingdom,Manchester Basketball,National Basketball Performance Centre (Manchester),"[53.459975400000005, -2.1913764640403306]",,
-Basketball,United Kingdom,Leicester Riders,Mattioli Arena (Leicester),"[52.643897550000005, -1.1309708002941883]",,
-Basketball,United Kingdom,Newcastle Eagles,Vertu Motors Arena (Newcastle),"[54.9635734, -1.6369859528154846]",,
-Basketball,United Kingdom,Sheffield Sharks,Canon Medical Arena (Sheffield),"[53.39484285, -1.425324722042221]",,
-Basketball,United Kingdom,Cheshire Phoenix,Cheshire Oaks Arena (Ellesmere Port),"[]",,
-Basketball,United Kingdom,Bristol Flyers,SGS WISE Arena (Bristol),"[]",,
-Basketball,United Kingdom,Hemel Storm,Hemel Hempstead Leisure Centre (Hemel Hempstead),"[]",,
-Basketball,United Kingdom,Manchester Basketball W,National Basketball Performance Centre (Manchester),"[53.459975400000005, -2.1913764640403306]",,
-Basketball,United Kingdom,Sheffield Hatters W,All Saints Sports Centre (Sheffield),"[53.37336145, -1.4556810061139893]",,
-Basketball,United Kingdom,Cardiff Met Archers W,Archers Arena (Cardiff),"[51.5093646, -3.159268670504172]",,
-Basketball,United Kingdom,Essex Rebels W,Essex Sports Arena (Essex),"[]",,
-Basketball,United Kingdom,Caledonia Gladiators W,Playsport Arena (East Kilbride),"[]",,
-Basketball,United Kingdom,BA London Lions W,Barking Abbey School (London),"[51.54367045, 0.10349826120080571]",,
-Basketball,United Kingdom,Newcastle Eagles W,Vertu Motors Arena (Newcastle),"[54.9635734, -1.6369859528154846]",,
-Basketball,United Kingdom,Nottingham Wildcats W,Nottingham Wildcats Arena (Nottingham),"[52.955914750000005, -1.1118109362908344]",,
-Basketball,United Kingdom,Durham Palatinates W,Maiden Castle (Durham),"[54.766334, -1.5577792443032714]",,
-Basketball,United Kingdom,Oaklands Wolves W,Oaklands College (St Albans),"[51.755651799999995, -0.2863574288731814]",,
-Basketball,United Kingdom,Leicester Riders W,Netball Centre (Leicester),"[]",,
+Basketball,United Kingdom,London Lions,Copper Box Arena (London),"[51.5449463, -0.0205462]",Copper Box Arena (London),London Lions
+Basketball,United Kingdom,Surrey 89ers,Surrey Sports Park (Surrey),"[51.234124550000004, -0.6087191938309877]",Surrey Sports Park (Surrey),Surrey 89ers
+Basketball,United Kingdom,Caledonia Gladiators,Playsport Arena (East Kilbride),"[]",Playsport Arena (East Kilbride),Caledonia Gladiators
+Basketball,United Kingdom,Manchester Basketball,National Basketball Performance Centre (Manchester),"[53.459975400000005, -2.1913764640403306]",National Basketball Performance Centre (Manchester),Manchester Basketball
+Basketball,United Kingdom,Leicester Riders,Mattioli Arena (Leicester),"[52.643897550000005, -1.1309708002941883]",Mattioli Arena (Leicester),Leicester Riders
+Basketball,United Kingdom,Newcastle Eagles,Vertu Motors Arena (Newcastle),"[54.9635734, -1.6369859528154846]",Vertu Motors Arena (Newcastle),Newcastle Eagles
+Basketball,United Kingdom,Sheffield Sharks,Canon Medical Arena (Sheffield),"[53.39484285, -1.425324722042221]",Canon Medical Arena (Sheffield),Sheffield Sharks
+Basketball,United Kingdom,Cheshire Phoenix,Cheshire Oaks Arena (Ellesmere Port),"[]",Cheshire Oaks Arena (Ellesmere Port),Cheshire Phoenix
+Basketball,United Kingdom,Bristol Flyers,SGS WISE Arena (Bristol),"[]",SGS WISE Arena (Bristol),Bristol Flyers
+
+
+Basketball,United Kingdom,Hemel Storm,Hemel Hempstead Leisure Centre (Hemel Hempstead),"[]",Hemel Hempstead Leisure Centre (Hemel Hempstead),Hemel Storm
+
+
+Basketball,United Kingdom,Manchester Basketball W,National Basketball Performance Centre (Manchester),"[53.459975400000005, -2.1913764640403306]",National Basketball Performance Centre (Manchester),Manchester Basketball W
+Basketball,United Kingdom,Sheffield Hatters W,All Saints Sports Centre (Sheffield),"[53.37336145, -1.4556810061139893]",All Saints Sports Centre (Sheffield),Sheffield Hatters W
+Basketball,United Kingdom,Cardiff Met Archers W,Archers Arena (Cardiff),"[51.5093646, -3.159268670504172]",Archers Arena (Cardiff),Cardiff Met Archers W
+Basketball,United Kingdom,Essex Rebels W,Essex Sports Arena (Essex),"[]",Essex Sports Arena (Essex),Essex Rebels W
+Basketball,United Kingdom,Caledonia Gladiators W,Playsport Arena (East Kilbride),"[]",Playsport Arena (East Kilbride),Caledonia Gladiators W
+Basketball,United Kingdom,BA London Lions W,Barking Abbey School (London),"[51.54367045, 0.10349826120080571]",Barking Abbey School (London),BA London Lions W
+Basketball,United Kingdom,Newcastle Eagles W,Vertu Motors Arena (Newcastle),"[54.9635734, -1.6369859528154846]",Vertu Motors Arena (Newcastle),Newcastle Eagles W
+Basketball,United Kingdom,Nottingham Wildcats W,Nottingham Wildcats Arena (Nottingham),"[52.955914750000005, -1.1118109362908344]",Nottingham Wildcats Arena (Nottingham),Nottingham Wildcats W
+Basketball,United Kingdom,Durham Palatinates W,Maiden Castle (Durham),"[54.766334, -1.5577792443032714]",Maiden Castle (Durham),Durham Palatinates W
+Basketball,United Kingdom,Oaklands Wolves W,Oaklands College (St Albans),"[51.755651799999995, -0.2863574288731814]",Oaklands College (St Albans),Oaklands Wolves W
+Basketball,United Kingdom,Leicester Riders W,Netball Centre (Leicester),"[]",Netball Centre (Leicester),Leicester Riders W
+
+
 
 
 Football,Albania,Laci,Stadiumi Laçi (Laçi),"[]",,
@@ -1268,7 +1121,7 @@ Football,Bulgaria,Spartak Pleven,Stadion Pleven (Pleven),"[43.4125995, 24.608593
 Football,Bulgaria,Strumska Slava,Hristo Radovanov Stadium (Radomir),"[]",,
 Football,Bulgaria,Yantra Gabrovo,Stadion Hristo Botev (Gabrovo),"[42.86010785, 25.319682102459055]",,
 Football,Bulgaria,Fratria,Albena Stadium (Albena),"[]",,
-Football,Bulgaria,Maritsa stadium (Plovdiv),"[42.15575165, 24.721028743584515]",,,
+Football,Bulgaria,Maritsa stadium (Plovdiv),"[42.15575165, 24.721028743584515]",,, -- teamnaam ontbreekt hier
 Football,Croatia,Osijek,Opus Arena (Osijek),"[45.56652265, 18.65783254815538]",,
 Football,Croatia,Gorica,Gradski stadion Velika Gorica (Velika Gorica),"[45.7239895, 16.073115641693107]",,
 Football,Croatia,D. Zagreb,Stadion Maksimir (Zagreb),"[45.8186879, 16.01793755418379]",,
@@ -3651,9 +3504,9 @@ Volleyball,Germany,Friedrichshafen,Spacetech Arena (Friedrichshafen),"[47.668205
 Volleyball,Germany,BR Volleys,Max-Schmeling-Halle (Berlin),"[52.544799499999996, 13.404494362979271]",,
 Volleyball,Germany,Duren,Arena Kreis (Düren),"[50.7933314, 6.487780696447876]",,
 Volleyball,Germany,Karlsruhe,Lina Radke Halle (Karlsruhe),"[48.9965659, 8.381826227982234]",,
-Volleyball,Germany,Herrsching,BMW Park (Munich),"[48.126031, 11.525353870787907]",,
+Volleyball,Germany,Herrsching,BMW Park (Munich),"[48.126031, 11.525353870787907]",,  -- goede coordinaten
 Volleyball,Germany,VCO Berlin,Sportforum Hohenschonhausen (Berlin),"[52.54261865, 13.476377826890399]",,
-Volleyball,Italy,Piacenza,PalaBanca (Piacenza),"[45.040077249999996, 9.757746501484444]",,
+Volleyball,Italy,Piacenza,PalaBanca (Piacenza),"[445.04014375398451, 9.757672623029068]",, --coordinaten goed
 Volleyball,Italy,Cisterna,Palazzetto dello Sport (Cisterna di Latina),"[41.585248, 12.828758669411272]",,
 Volleyball,Italy,Taranto,PalaMazzola (Taranto),"[40.4652806, 17.274001418544216]",,
 Volleyball,Italy,Lube Civitanova,PalaCivitanova (Treia),"[43.295619704675666, 13.700136779125161]",,
@@ -3907,7 +3760,7 @@ Volleyball,Italy,Talmassons W,Palasport di Lignano Sabbiadoro (Talmassons),"[]",
 Volleyball,Italy,Bergamo W,PalaIntred (Bergamo),"[]",,
 Volleyball,Italy,Pinerolo W,Palazzetto dello Sport (Pinerolo),"[44.89102175, 7.350160450000001]",,
 Volleyball,Italy,Chieri '76 W,PalaFenera (Chieri),"[]",,
-Volleyball,Italy,Conegliano W,PalaVerde (Villorba),"[45.7225326, 12.261526]",,
+Volleyball,Italy,Conegliano W,PalaVerde (Villorba),"[45.7241378953263, 12.262616946443183]",,  --- coordinaten goed
 Volleyball,Italy,Roma W,PalaEur (Rome),"[41.825263, 12.466575071118967]",,
 Volleyball,Italy,Scandicci W,PalaRialdoli (Scandicci),"[]",,
 Volleyball,Italy,Perugia W,PalaBarton (Perugia),"[43.11046665, 12.35783955]",,
@@ -4164,7 +4017,7 @@ Volleyball,Bosnia and Herzegovina,Bosna,"Olimpijska dvorana ""Ramiz Salčin"" Mo
 Volleyball,Bosnia and Herzegovina,Napredak,Sportska dvorana SŠ Pere Zecevića(Odžak),"[]",,
 Volleyball,Bulgaria,Levski Sofia W,Levski Sofia Sports Hall (Sofia),"[42.62285818163158, 23.373569052866902]",,
 Volleyball,Bulgaria,Maritsa Plovdiv W,Sports hall Stroitel (Plovdiv),"[]",,
-Volleyball,Germany,Dresdner SC W,Margon Arena (Dresden),"[51.02246625, 13.808599037615384]",,
+Volleyball,Germany,Dresdner SC W,Margon Arena (Dresden),"[51.02246625, 13.808599037615384]",,  --- coordinaten kloppen
 Volleyball,Netherlands,Dros-Alterno,Alterno Sports Hall (Apeldoorn),"[]",,
 Volleyball,Netherlands,Inter Rijswij,Sporthal De Altis (Rijswijk),"[]",,
 Volleyball,Netherlands,Somas Activia 2 W,Somas Activia Hall (Sint Anthonis),"[]",,
@@ -4289,7 +4142,7 @@ Handball,Germany,Hamm-Westfalen,Westpress Arena (Hamm),"[51.6875649, 7.885053099
 Handball,Germany,Ludwigshafen,Friedrich Ebert Halle (Ludwigshafen),"[49.491414750000004, 8.412922089378462]",,
 Handball,Germany,Ferndorf,Sporthalle Stählerwiese (Kreuztal),"[]",,
 Handball,Germany,Elbflorenz,BallsportArena (Dresden),"[51.0595722, 13.7256508]",,
-Handball,Germany,Hagen,Ischelandhalle (Hagen),"[51.37086575, 7.477351010603321]",,
+Handball,Germany,Hagen,Ischelandhalle (Hagen),"[51.37086575, 7.477351010603321]",, -- coordinaten kloppen
 Handball,Germany,Lubeck-Schwartau,Hansehalle (Lubeck),"[53.88019905, 10.670919861642034]",,
 Handball,Germany,HBW Balingen-Weilstetten,Sparkassen Arena (Balingen),"[48.26153865, 8.847232148967084]",,
 Handball,Germany,Dessauer,Anhalt-Arena (Dessau-Rosslau),"[51.8293258, 12.219207710999422]",,
@@ -4460,7 +4313,7 @@ Handball,Germany,Goppingen W,EWS Arena (Göppingen),"[48.710665000000006, 9.6480
 Handball,Germany,Leverkusen W,Ostermann-Arena (Leverkusen),"[51.03940725, 7.003999890977155]",,
 Handball,Germany,Zwickau W,Zwickau-Neuplanitz (Zwickau),"[50.701141449999994, 12.4530210525038]",,
 Handball,Germany,Buxtehuder SV W,Schulzentrum Nord (Buxtehude),"[53.47107065, 9.698780985551007]",,
-Handball,Germany,Oldenburg W,EWE Arena (Oldenburg),"[53.1466319, 8.226737148799312]",,
+Handball,Germany,Oldenburg W,EWE Arena (Oldenburg),"[53.14666842017001, 8.226720154527369]",,  --- coordinaten al goed
 Handball,Germany,Metzingen W,Paul Horn-Arena (Tübingen),"[48.510382899999996, 9.042069701718447]",,
 Handball,Germany,Neckarsulmer W,Ballei-Sporthalle (Neckarsulm),"[]",,
 Handball,Greece,AEK Athens,G. Kassimatis Indoor Hall (Athens),"[]",,
