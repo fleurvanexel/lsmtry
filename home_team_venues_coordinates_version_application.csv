@@ -1,0 +1,15 @@
+Sport,Country,Home_team,Venue,Coor,Scraped_venue,Alternative_scraped_team_name,Date_updated
+Basketball,Albania,Apolonia Fier,Pallati Sportit Apolonia Fier (Fier),"[40.73500099602203, 19.567221031333013]",Pallati Sportit Flamurtari (Vlorë),None,01-01-2025
+Basketball,Austria,Basket Flames W,Wiener Stadthalle / SPH Mollardgasse / SPH Steigenteschgasse (Vienna) ,"[48.20232650774567, 16.33185055869762] / [48.18950853945255, 16.34206225280313] / [48.24733985898323, 16.436383327290443]",Wiener Stadthalle (Vienna),None,01-01-2025
+Football,United Kingdom,Sheffield United,Bramall Lane (Sheffield),"[53.3703429, -1.4707145437036182]",Bramall Lane (Sheffield),Sheffield Utd,01-01-2025
+Football,Germany,Union Berlin,Stadion An der Alten Försterei (Berlin),"[52.45742468074179, 13.568113618533388]",Stadion An der Alten Försterei (Berlin),None,01-01-2025
+Ice Hockey,Austria,Klagenfurt,Heidi Horten-Arena (Klagenfurt),"[46.6182652183759, 14.305171864270005]",Heidi Horten-Arena (Klagenfurt),Klagenfurt,01-01-2025
+Ice Hockey,Belarus,Slavutych Smolensk,Ice Arena of the Yubileiny Sports Palace (Smolensk),"[54.76207539923764, 32.02713866047268]",Smolensk Ice Dome (Smolensk),Slavutych,01-01-2025
+Volleyball,Finland,OrPo W,Oriveden Liikuntahalli (Orivesi),"[61.67579055, 24.353527807445275]",None,OrPo W,01-01-2025
+Volleyball,Sweden,Sodertelge,Viksberghallen / Brunnsängshallen (Södertälje),"[]",None,Sodertelge,01-01-2025
+Handball,Hungary,Gyongyosi,Dr. Fejes András Sport- és Rendezvénycsarnok (Gyöngyös),"[47.778916249999995, 19.935623508000035]",None,Gyongyosi,01-01-2025
+Handball,North Macedonia,Gjorche Petrov W,Kocho Racin / Hristo Batandzhiev Sports Hall (Skopje),[],None,Gjorche Petrov W,01-01-2025
+Field Hockey,Netherlands,Kampong,SV Kampong (Utrecht),"[52.07506870691744, 5.150855637356979]",None,None,01-01-2025
+Rugby,Spain,Unió Esportiva Santboiana,Estadi Baldiri Aleu (Sant Boi de Llobregat),"[41.340327200000004, 2.0382109785198295]",None,UE Santboiana,01-01-2025
+Athletics,Estonia,,Tallinna Kergejõustikuhall (Tallinn),"[59.426489700000005, 24.759725974862633]",None,None,01-01-2025
+
